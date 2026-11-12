@@ -1,0 +1,365 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "f6a3da3a1518cec9",
+  "titre": "PepsiCo supprime 1 000 emplois en Amérique du Nord sous la pression d'une restructuration.",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5",
+  "media": "vietnam.vn",
+  "date": "2026-11-11T05:05:42Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.5591,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3936,
+   "matieres_premieres_aromatiques": 0.3786,
+   "tendances_gout_odorat": 0.4006,
+   "mouvements_entreprises_ff": 0.5591,
+   "hors_perimetre": 0.3707
+  }
+ },
+ "analyse": {
+  "faits": [
+   {
+    "enonce": "PepsiCo supprime 1 000 emplois en Amérique du Nord.",
+    "citation": "PepsiCo supprime 1 000 emplois en Amérique du Nord sous la pression d'une restructuration.",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+   },
+   {
+    "enonce": "La restructuration pousse PepsiCo à supprimer des emplois.",
+    "citation": "sous la pression d'une restructuration",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+   }
+  ],
+  "hypotheses": {
+   "resume": "La restructuration de PepsiCo pourrait entraîner des ajustements dans la formulation et la gamme de produits aromatisés.",
+   "chaine_impact": [
+    {
+     "fait": "PepsiCo supprime 1 000 emplois en Amérique du Nord.",
+     "consequence": "Réduction des capacités de R&D et de formulation.",
+     "impact_sensoriel": "Possibilité de simplification des arômes ou de réduction des notes olfactives complexes."
+    }
+   ],
+   "categories_produits": [
+    "boissons_alcoolisees",
+    "boissons_sans_alcool",
+    "glaces_desserts",
+    "biscuits_snacks"
+   ],
+   "pays": [
+    "US",
+    "CA",
+    "MX"
+   ],
+   "ingredients_notes": [
+    "arômes complexes",
+    "notes olfactives"
+   ],
+   "confiance": "moyen"
+  }
+ },
+ "entreprises": [
+  {
+   "nom": "PepsiCo",
+   "raison": "Citée dans l'actualité (« pepsico ») ; catégories communes : boissons_sans_alcool, biscuits_snacks.",
+   "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5",
+   "categories": [
+    "boissons_sans_alcool",
+    "biscuits_snacks"
+   ],
+   "pays": [
+    "CA",
+    "MX",
+    "US"
+   ],
+   "score": 5.0
+  },
+  {
+   "nom": "Unilever",
+   "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés), Glaces et desserts (33 produits sur 200 échantillonnés), Biscuits, snacks salés et sucrés (7 produits sur 200 échantillonnés) ; commercialisée en US.",
+   "source": "https://world.openfoodfacts.org/brand/unilever",
+   "categories": [
+    "boissons_sans_alcool",
+    "glaces_desserts",
+    "biscuits_snacks"
+   ],
+   "pays": [
+    "US"
+   ],
+   "score": 4.209
+  },
+  {
+   "nom": "Mondelēz International",
+   "raison": "Catégories communes : Glaces et desserts (7 produits sur 100 échantillonnés), Biscuits, snacks salés et sucrés (87 produits sur 100 échantillonnés) ; commercialisée en US.",
+   "source": "https://world.openfoodfacts.org/brand/mondelez",
+   "categories": [
+    "glaces_desserts",
+    "biscuits_snacks"
+   ],
+   "pays": [
+    "US"
+   ],
+   "score": 3.783
+  },
+  {
+   "nom": "Heineken",
+   "raison": "Catégories communes : Boissons alcoolisées (bières, spiritueux, vins) (78 produits sur 100 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (10 produits sur 100 échantillonnés) ; commercialisée en US.",
+   "source": "https://world.openfoodfacts.org/brand/heineken",
+   "categories": [
+    "boissons_alcoolisees",
+    "boissons_sans_alcool"
+   ],
+   "pays": [
+    "US"
+   ],
+   "score": 3.733
+  },
+  {
+   "nom": "General Mills",
+   "raison": "Catégories communes : Glaces et desserts (81 produits sur 100 échantillonnés), Biscuits, snacks salés et sucrés (3 produits sur 100 échantillonnés) ; commercialisée en CA, MX, US.",
+   "source": "https://world.openfoodfacts.org/brand/general-mills",
+   "categories": [
+    "glaces_desserts",
+    "biscuits_snacks"
+   ],
+   "pays": [
+    "CA",
+    "MX",
+    "US"
+   ],
+   "score": 3.7
+  }
+ ],
+ "fiches": [
+  {
+   "id": "f6a3da3a1518cec9--pepsico",
+   "signal": {
+    "titre": "PepsiCo supprime 1 000 emplois en Amérique du Nord sous la pression d'une restructuration.",
+    "media": "vietnam.vn",
+    "date": "2026-11-11T05:05:42Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+   },
+   "famille": "mouvements_entreprises_ff",
+   "score_filtre": 0.5591,
+   "ce_que_ca_implique": "La restructuration de PepsiCo pourrait entraîner des ajustements dans la formulation et la gamme de produits aromatisés.",
+   "faits": [
+    {
+     "enonce": "PepsiCo supprime 1 000 emplois en Amérique du Nord.",
+     "citation": "PepsiCo supprime 1 000 emplois en Amérique du Nord sous la pression d'une restructuration.",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+    },
+    {
+     "enonce": "La restructuration pousse PepsiCo à supprimer des emplois.",
+     "citation": "sous la pression d'une restructuration",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "PepsiCo supprime 1 000 emplois en Amérique du Nord.",
+     "consequence": "Réduction des capacités de R&D et de formulation.",
+     "impact_sensoriel": "Possibilité de simplification des arômes ou de réduction des notes olfactives complexes."
+    }
+   ],
+   "entreprise": {
+    "nom": "PepsiCo",
+    "raison": "Citée dans l'actualité (« pepsico ») ; catégories communes : boissons_sans_alcool, biscuits_snacks.",
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5",
+    "categories": [
+     "boissons_sans_alcool",
+     "biscuits_snacks"
+    ],
+    "pays": [
+     "CA",
+     "MX",
+     "US"
+    ],
+    "score": 5.0
+   },
+   "opportunite": {
+    "entreprise": "PepsiCo",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "PepsiCo pourrait simplifier ses arômes ou réduire les notes olfactives complexes dans ses produits aromatisés en raison de la réduction des capacités de R&D.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont les produits aromatisés les plus exposés à une simplification des arômes ?",
+    "faits_utilises": [
+     0,
+     1
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits aromatisés les plus exposés à une simplification des arômes ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "vietnam.vn — PepsiCo supprime 1 000 emplois en Amérique du Nord sous la pression d'une restructuration.",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence PepsiCo (Open Food/Beauty Facts)",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "f6a3da3a1518cec9--unilever",
+   "signal": {
+    "titre": "PepsiCo supprime 1 000 emplois en Amérique du Nord sous la pression d'une restructuration.",
+    "media": "vietnam.vn",
+    "date": "2026-11-11T05:05:42Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+   },
+   "famille": "mouvements_entreprises_ff",
+   "score_filtre": 0.5591,
+   "ce_que_ca_implique": "La restructuration de PepsiCo pourrait entraîner des ajustements dans la formulation et la gamme de produits aromatisés.",
+   "faits": [
+    {
+     "enonce": "PepsiCo supprime 1 000 emplois en Amérique du Nord.",
+     "citation": "PepsiCo supprime 1 000 emplois en Amérique du Nord sous la pression d'une restructuration.",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+    },
+    {
+     "enonce": "La restructuration pousse PepsiCo à supprimer des emplois.",
+     "citation": "sous la pression d'une restructuration",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "PepsiCo supprime 1 000 emplois en Amérique du Nord.",
+     "consequence": "Réduction des capacités de R&D et de formulation.",
+     "impact_sensoriel": "Possibilité de simplification des arômes ou de réduction des notes olfactives complexes."
+    }
+   ],
+   "entreprise": {
+    "nom": "Unilever",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés), Glaces et desserts (33 produits sur 200 échantillonnés), Biscuits, snacks salés et sucrés (7 produits sur 200 échantillonnés) ; commercialisée en US.",
+    "source": "https://world.openfoodfacts.org/brand/unilever",
+    "categories": [
+     "boissons_sans_alcool",
+     "glaces_desserts",
+     "biscuits_snacks"
+    ],
+    "pays": [
+     "US"
+    ],
+    "score": 4.209
+   },
+   "opportunite": {
+    "entreprise": "Unilever",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Unilever pourrait ajuster ses formulations aromatisées pour compenser les changements de capacité de R&D liés à la restructuration de PepsiCo.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos produits aromatisés les plus sensibles aux changements de formulation ?",
+    "faits_utilises": [
+     0,
+     1
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos produits aromatisés les plus sensibles aux changements de formulation ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "vietnam.vn — PepsiCo supprime 1 000 emplois en Amérique du Nord sous la pression d'une restructuration.",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Unilever (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/unilever"
+    }
+   ]
+  },
+  {
+   "id": "f6a3da3a1518cec9--mondelez-international",
+   "signal": {
+    "titre": "PepsiCo supprime 1 000 emplois en Amérique du Nord sous la pression d'une restructuration.",
+    "media": "vietnam.vn",
+    "date": "2026-11-11T05:05:42Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+   },
+   "famille": "mouvements_entreprises_ff",
+   "score_filtre": 0.5591,
+   "ce_que_ca_implique": "La restructuration de PepsiCo pourrait entraîner des ajustements dans la formulation et la gamme de produits aromatisés.",
+   "faits": [
+    {
+     "enonce": "PepsiCo supprime 1 000 emplois en Amérique du Nord.",
+     "citation": "PepsiCo supprime 1 000 emplois en Amérique du Nord sous la pression d'une restructuration.",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+    },
+    {
+     "enonce": "La restructuration pousse PepsiCo à supprimer des emplois.",
+     "citation": "sous la pression d'une restructuration",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "PepsiCo supprime 1 000 emplois en Amérique du Nord.",
+     "consequence": "Réduction des capacités de R&D et de formulation.",
+     "impact_sensoriel": "Possibilité de simplification des arômes ou de réduction des notes olfactives complexes."
+    }
+   ],
+   "entreprise": {
+    "nom": "Mondelēz International",
+    "raison": "Catégories communes : Glaces et desserts (7 produits sur 100 échantillonnés), Biscuits, snacks salés et sucrés (87 produits sur 100 échantillonnés) ; commercialisée en US.",
+    "source": "https://world.openfoodfacts.org/brand/mondelez",
+    "categories": [
+     "glaces_desserts",
+     "biscuits_snacks"
+    ],
+    "pays": [
+     "US"
+    ],
+    "score": 3.783
+   },
+   "opportunite": {
+    "entreprise": "Mondelēz International",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Mondelēz International pourrait réduire la complexité des arômes dans ses produits en raison de la pression de restructuration de PepsiCo.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels produits aromatisés de votre gamme pourraient être affectés par une simplification des arômes ?",
+    "faits_utilises": [
+     0,
+     1
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits aromatisés de votre gamme pourraient être affectés par une simplification des arômes ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "vietnam.vn — PepsiCo supprime 1 000 emplois en Amérique du Nord sous la pression d'une restructuration.",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk9ad2FIVl9fSTFPTGxUWVBlRVdZV1pObDNEc1cxUHZrUng3WERTYU9oUGk4Yl9LTnhLRUh1aUd6bFp4TV9PS3B2M21nRWRGcGJkRzlhRHdWS3VKY1E2T0d5QlNVSVJfc3VwaHRDS0VTUXN3ZWpHT3lQaDhHazhIbFFDdm96YlNJMno1OUFMdEdVYS1sX3hGMw?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Mondelēz International (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/mondelez"
+    }
+   ]
+  }
+ ],
+ "diagnostic": {
+  "json_valides": 3,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": "titre",
+  "duree_s": null
+ }
+}

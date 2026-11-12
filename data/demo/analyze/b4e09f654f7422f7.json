@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "b4e09f654f7422f7",
+  "titre": "Ces cordons-bleus de chez E.Leclerc sont rappelés dans toute la France : ils présentent un risque d’allergie",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd204UUdoVnpOaWRQWVpqNmdNaVBWRjhkYmRSM1lubmZwWUN3a2RzVnNGd0ZSTnY2bWVKaDNHdm9rWUhIYjRKSmdJd1ozM2hCLTFzb2JibnJEanl0dTd0OFBxRDNzVFFEV0lGVndrZTVVc0x3QkRzOGE5dTlneXo4OXkyOGphUVNvUzUzQXNZdms3T1NyeUZ1WXdqOGhjTG9aNVg4SnFEWGY2RTlwM1l3WEdYODk1N3A2bkpuQnJ5Vkg3aTdxamdoUFotNEVqUEtleDVsdWN1RGZ6eEVDTWc?oc=5",
+  "media": "actu.fr",
+  "date": "2026-11-11T13:42:42Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "reglementation_sensorielle",
+  "score": 0.4741,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4741,
+   "matieres_premieres_aromatiques": 0.4055,
+   "tendances_gout_odorat": 0.4158,
+   "mouvements_entreprises_ff": 0.3971,
+   "hors_perimetre": 0.343
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

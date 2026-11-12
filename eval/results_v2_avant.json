@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-12T10:44:43+00:00",
+  "api": "http://localhost:8001",
+  "entrees_evaluees": 20,
+  "erreurs_api": 0,
+  "filtre": {
+    "vrais_positifs": 12,
+    "faux_positifs": 1,
+    "faux_negatifs": 1,
+    "vrais_negatifs": 6,
+    "precision_pct": 92.3,
+    "rappel_pct": 92.3,
+    "famille_exacte_pct": 91.7
+  },
+  "entreprises": {
+    "retournees": 60,
+    "justifiees_source_verifiable": 60,
+    "justifiees_pct": 100.0,
+    "urls_verifiees_en_ligne": false,
+    "attendues_retrouvees_pct": 36.7
+  },
+  "json": {
+    "valides": 38,
+    "invalides": 0,
+    "valides_pct": 100.0
+  },
+  "hypotheses_exportees": 58,
+  "erreurs": []
+}

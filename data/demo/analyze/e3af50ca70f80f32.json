@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "e3af50ca70f80f32",
+  "titre": "Cigarettes électroniques : le gouvernement renonce au monopole des buralistes et durcit la réglementation",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmMERmc05RMWg4empKdXB0LXpObXdjQk1qalNIbGI1TjljdnpWTEhlYzhDSlBCNkdGdlVoUGcwRWx5NmdlNEx6cjBXa0U1emR2SXo4UDkzX193T2lVTUlZSDc0cWc4Zm50dDZLcE1URWVsdHh6ZVNocGdCNE9ndmc?oc=5",
+  "media": "politiquematin.fr",
+  "date": "2026-11-12T09:30:44Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "tendances_gout_odorat",
+  "score": 0.4473,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4261,
+   "matieres_premieres_aromatiques": 0.3507,
+   "tendances_gout_odorat": 0.4473,
+   "mouvements_entreprises_ff": 0.3928,
+   "hors_perimetre": 0.3864
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

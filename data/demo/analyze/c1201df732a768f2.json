@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "c1201df732a768f2",
+  "titre": "Cette machine à café expresso De’Longhi Magnifica S avec broyeur fait un tabac chez les amateurs de cafés exigeants",
+  "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWmNZbDg1VEhDbDlNV2VyeUVJWWtkRGVGX09DRERkdkkwVXdaaDQwRU16UDgwLUxBYlpIclpLX3RHT1hnTlRoVy1HdGFTX2VxQ0J3TXN5UGhPU2lnN3pWVElsWFh3U25HUDVlMXY3VDFIUXYtVjc1TlZjdDVoZE1NSzlBZ2w1dUdxd21vRHRoYXVhdXh4QTVZakdOcl9CbFRCbmx2TVEwd0VOSnIxSE5uVjlmUlc4VG9hNW54WjBPVXJ4LWdjVjB4UnVVenVTTjRVUkl4THRjcGJGLU5mV1ZJRFJiWHlyTWc5cWw2MHp5dHh2VmZPTEc0NV9vOVhZU1RuaFU1aUM3V3RHcUJJRHByRUVJUTFjNXNUUnpYUDJUY1hVWEcxaEY0U0cxS2hKNnhjVmF3RQ?oc=5",
+  "media": "ouest-france.fr",
+  "date": "2026-11-09T17:23:02Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.4034,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3366,
+   "matieres_premieres_aromatiques": 0.4034,
+   "tendances_gout_odorat": 0.3839,
+   "mouvements_entreprises_ff": 0.3849,
+   "hors_perimetre": 0.3844
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

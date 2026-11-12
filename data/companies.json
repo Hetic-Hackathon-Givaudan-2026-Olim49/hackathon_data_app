@@ -1,0 +1,1405 @@
+{
+ "_doc": "Généré par `python -m veille.companies build` à partir d'Open Food Facts / Open Beauty Facts (licence ODbL). Ne pas éditer à la main : modifier data/companies_seed.json puis relancer.",
+ "entreprises": [
+  {
+   "nom": "Nestlé",
+   "marques": [
+    "nestle",
+    "nescafe",
+    "maggi",
+    "kitkat",
+    "nesquik",
+    "herta",
+    "buitoni"
+   ],
+   "categories": {
+    "glaces_desserts": 26,
+    "produits_laitiers": 19,
+    "biscuits_snacks": 19,
+    "confiserie_chocolat": 17,
+    "cereales_petit_dejeuner": 8,
+    "plats_prepares_sauces": 8,
+    "cafe_the": 7
+   },
+   "pays": {
+    "FR": 83,
+    "MX": 8,
+    "CH": 5,
+    "ES": 5
+   },
+   "produits_echantillonnes": 105,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/nestle",
+     "produits_echantillonnes": 100
+    },
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/nestle",
+     "produits_echantillonnes": 5
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Danone",
+   "marques": [
+    "danone",
+    "alpro",
+    "activia",
+    "evian",
+    "volvic",
+    "blédina",
+    "danette"
+   ],
+   "categories": {
+    "glaces_desserts": 88,
+    "produits_laitiers": 87,
+    "alternatives_vegetales": 5,
+    "nutrition_infantile_sante": 3
+   },
+   "pays": {
+    "FR": 45,
+    "ES": 21,
+    "BE": 16,
+    "MX": 11,
+    "IT": 4,
+    "CA": 4,
+    "AR": 3,
+    "GB": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/danone",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Unilever",
+   "marques": [
+    "unilever",
+    "knorr",
+    "magnum",
+    "ben-jerry-s",
+    "dove",
+    "axe",
+    "rexona",
+    "signal",
+    "hellmann-s"
+   ],
+   "categories": {
+    "plats_prepares_sauces": 42,
+    "glaces_desserts": 33,
+    "hygiene_capillaire": 29,
+    "cafe_the": 9,
+    "biscuits_snacks": 7,
+    "boissons_sans_alcool": 6,
+    "soins_visage_corps": 6
+   },
+   "pays": {
+    "FR": 107,
+    "MA": 62,
+    "ES": 27,
+    "NL": 21,
+    "BE": 17,
+    "DE": 15,
+    "US": 14,
+    "GB": 11,
+    "GR": 7,
+    "CH": 6
+   },
+   "produits_echantillonnes": 200,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/unilever",
+     "produits_echantillonnes": 100
+    },
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/unilever",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "PepsiCo",
+   "marques": [
+    "pepsico",
+    "pepsi",
+    "lay-s",
+    "doritos",
+    "quaker",
+    "tropicana",
+    "7up",
+    "lipton-ice-tea"
+   ],
+   "categories": {
+    "biscuits_snacks": 58,
+    "boissons_sans_alcool": 26,
+    "cereales_petit_dejeuner": 15
+   },
+   "pays": {
+    "FR": 62,
+    "ES": 10,
+    "BE": 8,
+    "US": 5,
+    "CA": 5,
+    "MX": 4,
+    "IT": 3,
+    "GB": 3,
+    "PT": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/pepsico",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "The Coca-Cola Company",
+   "marques": [
+    "coca-cola",
+    "fanta",
+    "sprite",
+    "minute-maid",
+    "schweppes"
+   ],
+   "categories": {
+    "boissons_sans_alcool": 58
+   },
+   "pays": {
+    "FR": 66,
+    "BE": 14,
+    "ES": 9,
+    "CH": 8,
+    "DE": 7,
+    "US": 5,
+    "GB": 4,
+    "MA": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/coca-cola",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Mondelēz International",
+   "marques": [
+    "mondelez",
+    "milka",
+    "oreo",
+    "lu",
+    "cote-d-or",
+    "toblerone",
+    "cadbury"
+   ],
+   "categories": {
+    "biscuits_snacks": 87,
+    "confiserie_chocolat": 27,
+    "glaces_desserts": 7,
+    "produits_laitiers": 3
+   },
+   "pays": {
+    "FR": 83,
+    "BE": 20,
+    "CH": 6,
+    "DE": 5,
+    "GB": 4,
+    "IT": 4,
+    "US": 3,
+    "ES": 3,
+    "MA": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/mondelez",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Ferrero",
+   "marques": [
+    "ferrero",
+    "nutella",
+    "kinder",
+    "tic-tac"
+   ],
+   "categories": {
+    "biscuits_snacks": 52,
+    "confiserie_chocolat": 43
+   },
+   "pays": {
+    "FR": 49,
+    "US": 25,
+    "DE": 9,
+    "BE": 4,
+    "ES": 4,
+    "CH": 3,
+    "GB": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/ferrero",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Mars",
+   "marques": [
+    "mars",
+    "m-m-s",
+    "snickers",
+    "twix",
+    "uncle-ben-s",
+    "whiskas",
+    "pedigree"
+   ],
+   "categories": {
+    "biscuits_snacks": 48,
+    "confiserie_chocolat": 41,
+    "plats_prepares_sauces": 8,
+    "glaces_desserts": 6
+   },
+   "pays": {
+    "FR": 54,
+    "DE": 14,
+    "US": 14,
+    "GB": 12,
+    "CH": 7,
+    "ES": 3,
+    "IN": 3,
+    "ID": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/mars",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Kraft Heinz",
+   "marques": [
+    "kraft",
+    "heinz",
+    "philadelphia"
+   ],
+   "categories": {
+    "plats_prepares_sauces": 62,
+    "produits_laitiers": 19
+   },
+   "pays": {
+    "FR": 41,
+    "US": 21,
+    "BE": 11,
+    "CA": 8,
+    "ES": 8,
+    "GB": 4,
+    "IT": 3,
+    "DE": 3,
+    "CH": 3,
+    "MX": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/kraft",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "General Mills",
+   "marques": [
+    "general-mills",
+    "haagen-dazs",
+    "old-el-paso",
+    "yoplait"
+   ],
+   "categories": {
+    "glaces_desserts": 81,
+    "produits_laitiers": 59,
+    "cereales_petit_dejeuner": 6,
+    "biscuits_snacks": 3
+   },
+   "pays": {
+    "FR": 74,
+    "US": 12,
+    "MX": 6,
+    "ES": 5,
+    "CA": 4,
+    "BE": 4,
+    "CH": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/general-mills",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Kellanova",
+   "marques": [
+    "kellogg-s",
+    "pringles"
+   ],
+   "categories": {
+    "cereales_petit_dejeuner": 52,
+    "biscuits_snacks": 49
+   },
+   "pays": {
+    "FR": 56,
+    "ES": 16,
+    "CH": 10,
+    "US": 8,
+    "IT": 8,
+    "GB": 8,
+    "DE": 7,
+    "CA": 6,
+    "BE": 5
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/kellogg-s",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Groupe Lactalis",
+   "marques": [
+    "lactalis",
+    "president",
+    "lactel",
+    "galbani",
+    "la-laitiere"
+   ],
+   "categories": {
+    "produits_laitiers": 77,
+    "glaces_desserts": 10
+   },
+   "pays": {
+    "FR": 63,
+    "US": 17,
+    "ES": 7,
+    "IT": 4
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/lactalis",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Groupe Bel",
+   "marques": [
+    "bel",
+    "la-vache-qui-rit",
+    "babybel",
+    "kiri",
+    "pom-potes"
+   ],
+   "categories": {
+    "produits_laitiers": 52,
+    "glaces_desserts": 16
+   },
+   "pays": {
+    "FR": 65,
+    "BE": 10,
+    "CH": 7,
+    "US": 7,
+    "ES": 4,
+    "IE": 4,
+    "DE": 3,
+    "DZ": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/bel",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Savencia",
+   "marques": [
+    "savencia",
+    "caprice-des-dieux",
+    "elle-vire",
+    "saint-agur"
+   ],
+   "categories": {
+    "produits_laitiers": 98,
+    "plats_prepares_sauces": 4
+   },
+   "pays": {
+    "FR": 84,
+    "BE": 10,
+    "US": 5,
+    "AR": 4,
+    "DE": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/savencia",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Lindt & Sprüngli",
+   "marques": [
+    "lindt"
+   ],
+   "categories": {
+    "biscuits_snacks": 74,
+    "confiserie_chocolat": 72
+   },
+   "pays": {
+    "FR": 52,
+    "CH": 20,
+    "DE": 14,
+    "ES": 9,
+    "CA": 5,
+    "US": 5,
+    "AT": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/lindt",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Haribo",
+   "marques": [
+    "haribo"
+   ],
+   "categories": {
+    "biscuits_snacks": 63,
+    "confiserie_chocolat": 57
+   },
+   "pays": {
+    "FR": 53,
+    "ES": 28,
+    "DE": 11,
+    "GB": 8,
+    "BE": 6,
+    "CH": 4,
+    "US": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/haribo",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Barilla",
+   "marques": [
+    "barilla",
+    "harrys",
+    "mulino-bianco"
+   ],
+   "categories": {
+    "biscuits_snacks": 24,
+    "plats_prepares_sauces": 15
+   },
+   "pays": {
+    "FR": 38,
+    "IT": 24,
+    "US": 14,
+    "DE": 7,
+    "CH": 6,
+    "MX": 6,
+    "ES": 3,
+    "CA": 3,
+    "BE": 3,
+    "IE": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/barilla",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "McCormick",
+   "marques": [
+    "mccormick",
+    "ducros",
+    "schwartz"
+   ],
+   "categories": {
+    "plats_prepares_sauces": 49
+   },
+   "pays": {
+    "FR": 82,
+    "MX": 4,
+    "US": 4,
+    "ES": 3,
+    "GB": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/mccormick",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Ajinomoto",
+   "marques": [
+    "ajinomoto"
+   ],
+   "categories": {
+    "plats_prepares_sauces": 15
+   },
+   "pays": {
+    "FR": 40,
+    "BR": 10,
+    "US": 9,
+    "ES": 6,
+    "JP": 5,
+    "TH": 5,
+    "DE": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/ajinomoto",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Heineken",
+   "marques": [
+    "heineken",
+    "desperados",
+    "pelforth"
+   ],
+   "categories": {
+    "boissons_alcoolisees": 78,
+    "boissons_sans_alcool": 10
+   },
+   "pays": {
+    "FR": 40,
+    "IT": 13,
+    "ES": 11,
+    "DE": 8,
+    "NL": 6,
+    "CH": 5,
+    "PL": 4,
+    "US": 3,
+    "IE": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/heineken",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "AB InBev",
+   "marques": [
+    "ab-inbev",
+    "leffe",
+    "stella-artois",
+    "corona",
+    "budweiser"
+   ],
+   "categories": {
+    "boissons_alcoolisees": 56
+   },
+   "pays": {
+    "FR": 47,
+    "BE": 11,
+    "GB": 11,
+    "US": 8,
+    "ES": 7,
+    "MX": 5,
+    "EG": 4,
+    "DE": 4,
+    "IT": 3,
+    "NL": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/ab-inbev",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Pernod Ricard",
+   "marques": [
+    "pernod-ricard",
+    "ricard",
+    "absolut",
+    "havana-club"
+   ],
+   "categories": {
+    "boissons_alcoolisees": 45,
+    "boissons_sans_alcool": 4
+   },
+   "pays": {
+    "FR": 69,
+    "DE": 27,
+    "BE": 10,
+    "CH": 8,
+    "AU": 5,
+    "IE": 3,
+    "GB": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/pernod-ricard",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Diageo",
+   "marques": [
+    "diageo",
+    "johnnie-walker",
+    "guinness",
+    "smirnoff"
+   ],
+   "categories": {
+    "boissons_alcoolisees": 31
+   },
+   "pays": {
+    "US": 29,
+    "FR": 23,
+    "DE": 8,
+    "CA": 8,
+    "AU": 8,
+    "GB": 7,
+    "ES": 4,
+    "CH": 4,
+    "IT": 3,
+    "IE": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/diageo",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Red Bull",
+   "marques": [
+    "red-bull"
+   ],
+   "categories": {
+    "boissons_sans_alcool": 42
+   },
+   "pays": {
+    "US": 18,
+    "FR": 18,
+    "DE": 9,
+    "GB": 7,
+    "AT": 7,
+    "ES": 7,
+    "CA": 4,
+    "PL": 4,
+    "NL": 4,
+    "CH": 3,
+    "AU": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/red-bull",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Monster Beverage",
+   "marques": [
+    "monster-energy"
+   ],
+   "categories": {
+    "boissons_sans_alcool": 74
+   },
+   "pays": {
+    "ES": 20,
+    "FR": 20,
+    "GB": 11,
+    "DE": 8,
+    "US": 8,
+    "CA": 5,
+    "CH": 4,
+    "SE": 4,
+    "IE": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/monster-energy",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Lavazza",
+   "marques": [
+    "lavazza",
+    "carte-noire"
+   ],
+   "categories": {
+    "cafe_the": 52
+   },
+   "pays": {
+    "FR": 61,
+    "IT": 15,
+    "DE": 8,
+    "AU": 8,
+    "ES": 5,
+    "GB": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/lavazza",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "JDE Peet's",
+   "marques": [
+    "jacobs",
+    "l-or",
+    "senseo",
+    "tassimo"
+   ],
+   "categories": {
+    "cafe_the": 46,
+    "biscuits_snacks": 5
+   },
+   "pays": {
+    "FR": 48,
+    "DE": 11,
+    "ES": 5,
+    "GB": 4,
+    "IE": 4,
+    "RU": 3,
+    "PL": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/jacobs",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Andros",
+   "marques": [
+    "andros"
+   ],
+   "categories": {
+    "glaces_desserts": 54,
+    "boissons_sans_alcool": 11,
+    "produits_laitiers": 3
+   },
+   "pays": {
+    "FR": 86,
+    "CH": 7,
+    "US": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/andros",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Bonduelle",
+   "marques": [
+    "bonduelle"
+   ],
+   "categories": {
+    "plats_prepares_sauces": 16,
+    "biscuits_snacks": 7
+   },
+   "pays": {
+    "FR": 78,
+    "DE": 13,
+    "NL": 5,
+    "ES": 5,
+    "CH": 4,
+    "BE": 4,
+    "IE": 3,
+    "IT": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/bonduelle",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Carrefour (marques propres)",
+   "marques": [
+    "carrefour"
+   ],
+   "categories": {
+    "biscuits_snacks": 18,
+    "plats_prepares_sauces": 18,
+    "produits_laitiers": 16,
+    "hygiene_capillaire": 13,
+    "glaces_desserts": 10,
+    "confiserie_chocolat": 8
+   },
+   "pays": {
+    "FR": 132,
+    "ES": 65,
+    "MA": 15,
+    "BE": 14,
+    "IT": 12
+   },
+   "produits_echantillonnes": 200,
+   "sources": [
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/carrefour",
+     "produits_echantillonnes": 100
+    },
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/carrefour",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "L'Oréal",
+   "marques": [
+    "l-oreal",
+    "l-oreal-paris",
+    "garnier",
+    "maybelline",
+    "la-roche-posay",
+    "vichy",
+    "lancome",
+    "kiehl-s"
+   ],
+   "categories": {
+    "hygiene_capillaire": 19,
+    "soins_visage_corps": 16
+   },
+   "pays": {
+    "FR": 64,
+    "MA": 43,
+    "NL": 10,
+    "ES": 7,
+    "DE": 4,
+    "GB": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/l-oreal",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Estée Lauder Companies",
+   "marques": [
+    "estee-lauder",
+    "clinique",
+    "mac"
+   ],
+   "categories": {
+    "soins_visage_corps": 11
+   },
+   "pays": {
+    "US": 14,
+    "NL": 8,
+    "FR": 8,
+    "GB": 6,
+    "DE": 3,
+    "BR": 3,
+    "BE": 3
+   },
+   "produits_echantillonnes": 55,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/estee-lauder",
+     "produits_echantillonnes": 55
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Coty",
+   "marques": [
+    "coty",
+    "rimmel",
+    "max-factor",
+    "hugo-boss",
+    "gucci"
+   ],
+   "categories": {
+    "soins_visage_corps": 23,
+    "parfumerie_fine": 6,
+    "hygiene_capillaire": 3
+   },
+   "pays": {
+    "FR": 22,
+    "NL": 9,
+    "ES": 3
+   },
+   "produits_echantillonnes": 48,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/coty",
+     "produits_echantillonnes": 48
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Procter & Gamble",
+   "marques": [
+    "procter-gamble",
+    "head-shoulders",
+    "pantene",
+    "gillette",
+    "ariel",
+    "oral-b",
+    "febreze"
+   ],
+   "categories": {
+    "hygiene_capillaire": 23,
+    "biscuits_snacks": 6
+   },
+   "pays": {
+    "DE": 42,
+    "FR": 37,
+    "GB": 32,
+    "MA": 23,
+    "ES": 19,
+    "US": 16
+   },
+   "produits_echantillonnes": 200,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/procter-gamble",
+     "produits_echantillonnes": 100
+    },
+    {
+     "base": "Open Food Facts",
+     "url": "https://world.openfoodfacts.org/brand/procter-gamble",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Beiersdorf",
+   "marques": [
+    "nivea",
+    "eucerin",
+    "labello"
+   ],
+   "categories": {
+    "soins_visage_corps": 16,
+    "hygiene_capillaire": 7
+   },
+   "pays": {
+    "MA": 39,
+    "FR": 23,
+    "DE": 16,
+    "ES": 14,
+    "GB": 6,
+    "DZ": 3,
+    "IT": 3,
+    "NL": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/nivea",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Henkel",
+   "marques": [
+    "henkel",
+    "schwarzkopf",
+    "fa",
+    "le-chat",
+    "persil",
+    "diadermine"
+   ],
+   "categories": {
+    "hygiene_capillaire": 37,
+    "soins_visage_corps": 4
+   },
+   "pays": {
+    "FR": 54,
+    "NL": 18,
+    "DE": 11,
+    "ES": 9,
+    "MA": 5
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/henkel",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Colgate-Palmolive",
+   "marques": [
+    "colgate",
+    "palmolive",
+    "sanex",
+    "elnett"
+   ],
+   "categories": {
+    "hygiene_capillaire": 29
+   },
+   "pays": {
+    "FR": 30,
+    "MA": 17,
+    "ES": 14,
+    "DE": 10,
+    "NL": 7,
+    "GB": 5,
+    "IT": 4,
+    "US": 4,
+    "BE": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/colgate",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Reckitt",
+   "marques": [
+    "reckitt",
+    "durex",
+    "air-wick",
+    "finish",
+    "vanish"
+   ],
+   "categories": {},
+   "pays": {
+    "FR": 18,
+    "ES": 5,
+    "DE": 5,
+    "IN": 3
+   },
+   "produits_echantillonnes": 47,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/reckitt",
+     "produits_echantillonnes": 47
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "LVMH (parfums et cosmétiques)",
+   "marques": [
+    "dior",
+    "guerlain",
+    "givenchy",
+    "benefit",
+    "fenty-beauty"
+   ],
+   "categories": {
+    "parfumerie_fine": 15,
+    "soins_visage_corps": 9,
+    "hygiene_capillaire": 3
+   },
+   "pays": {
+    "FR": 46,
+    "NL": 3
+   },
+   "produits_echantillonnes": 60,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/dior",
+     "produits_echantillonnes": 60
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Chanel",
+   "marques": [
+    "chanel"
+   ],
+   "categories": {
+    "parfumerie_fine": 6,
+    "soins_visage_corps": 5
+   },
+   "pays": {
+    "FR": 16
+   },
+   "produits_echantillonnes": 26,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/chanel",
+     "produits_echantillonnes": 26
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Shiseido",
+   "marques": [
+    "shiseido",
+    "nars"
+   ],
+   "categories": {},
+   "pays": {
+    "FR": 12,
+    "US": 4
+   },
+   "produits_echantillonnes": 16,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/shiseido",
+     "produits_echantillonnes": 16
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Puig",
+   "marques": [
+    "puig",
+    "paco-rabanne",
+    "carolina-herrera",
+    "nina-ricci",
+    "jean-paul-gaultier"
+   ],
+   "categories": {
+    "parfumerie_fine": 5
+   },
+   "pays": {},
+   "produits_echantillonnes": 11,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/puig",
+     "produits_echantillonnes": 11
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Groupe Rocher",
+   "marques": [
+    "yves-rocher",
+    "petit-bateau"
+   ],
+   "categories": {
+    "soins_visage_corps": 13,
+    "hygiene_capillaire": 4
+   },
+   "pays": {
+    "FR": 71,
+    "MA": 11,
+    "ES": 8,
+    "IT": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/yves-rocher",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Natura &Co",
+   "marques": [
+    "natura",
+    "avon",
+    "the-body-shop"
+   ],
+   "categories": {
+    "soins_visage_corps": 10,
+    "hygiene_capillaire": 7,
+    "parfumerie_fine": 3
+   },
+   "pays": {
+    "GB": 15,
+    "BR": 12,
+    "AR": 12,
+    "US": 10,
+    "FR": 7,
+    "ES": 6
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/natura",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  },
+  {
+   "nom": "Pierre Fabre",
+   "marques": [
+    "avene",
+    "klorane",
+    "ducray",
+    "a-derma"
+   ],
+   "categories": {
+    "soins_visage_corps": 15,
+    "hygiene_capillaire": 11,
+    "nutrition_infantile_sante": 3
+   },
+   "pays": {
+    "FR": 82,
+    "MA": 13,
+    "DZ": 3,
+    "CH": 3
+   },
+   "produits_echantillonnes": 100,
+   "sources": [
+    {
+     "base": "Open Beauty Facts",
+     "url": "https://world.openbeautyfacts.org/brand/avene",
+     "produits_echantillonnes": 100
+    }
+   ],
+   "date_extraction": "2026-11-12"
+  }
+ ]
+}

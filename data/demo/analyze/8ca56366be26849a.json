@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "8ca56366be26849a",
+  "titre": "La texture, l'arôme et la saveur sont des critères pour le prix du fromage de Paraná.",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2xLUjVRSGxlcE05bTlWanE1RnhNa1hDWVYwVmJRc0hyUEFaOURvWWxiWmlqZFJPNDlxYnlCTk9fM1pJMWpIU0NHZU1DNi1NQTVMbV82VGc4dHlKQW1QSm9PSkNfbnhMeEM3a2Y0ekd5WHZWdW9fdnZxNTc5UTZaTi05U29ubGdfNUphMFc0LWR0SVg2OVduWFVJajVzNVRTOUNNaXhxZ21sUVJZUEZvZEhxZV93UQ?oc=5",
+  "media": "folhadolitoral.com.br",
+  "date": "2026-11-06T16:41:14Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "tendances_gout_odorat",
+  "score": 0.5158,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.425,
+   "matieres_premieres_aromatiques": 0.4605,
+   "tendances_gout_odorat": 0.5158,
+   "mouvements_entreprises_ff": 0.3799,
+   "hors_perimetre": 0.4074
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

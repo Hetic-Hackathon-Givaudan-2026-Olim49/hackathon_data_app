@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "742a651fc5a937e9",
+  "titre": "Black Friday : le prix de la machine à café à grain Delonghi Magnifica Start passe sous les 300 € chez Fnac/Darty",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa0JmWVBZTHNxYlRjMkp0LVIweFM4dmF0Y2FSMUlrd3ZTQld3enRCN0RkNWpDeWJqV1N1VVByZnd6dUhPUVAyVlBoOGVkWjhBZ3I4UE9DbmVFSm1OUTlGOVp2VmwwbXF6eUd0NF9pR3VINUFUdWhUT3Q1RHRrX282MHlYVV9feFhGRHBFOEQyNVBlZDZhTjJZWGFhWXlULVo1c0lRN20xSzlnbDBVY2pCSTZMZWFGUEhncjU5M1dLYUFmbENxOHRqbzJ4Y21GbExabGdrdWRzQQ?oc=5",
+  "media": "lavoixdunord.fr",
+  "date": "2026-11-09T15:15:06Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.4554,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3679,
+   "matieres_premieres_aromatiques": 0.4554,
+   "tendances_gout_odorat": 0.3875,
+   "mouvements_entreprises_ff": 0.4144,
+   "hors_perimetre": 0.3821
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

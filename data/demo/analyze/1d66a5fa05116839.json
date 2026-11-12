@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "1d66a5fa05116839",
+  "titre": "Rappel conso en urgence : Des cordons-bleus de dinde vendus, à travers toute la France, dans les magasins ...",
+  "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNV2FlUmZlenhhMDhuUFZRTm1FejZpdC1DbEJidW9CLWFxVHRtajZ5OW1OdkRIYjRsYzdqeDU2UHRNamdVZXdzVmpLTWY1R25qdFB2VEhwVkFlaVNTczJaRTU0SjZFN2p6NVFWNDRoY0hFZC1aRjhuVVJrWS1abzBJSHZDR1cyYmRSY0staVc2dnhINEhpc3FVeUJKMlBxM1VSUVJQdk5FRThjNlBUcEh5dmxoYzZxYXlVQmZTeU1WYmE0MDB2d1VDRVVyM2wzLUxyd0Rwc19ILTZwS2RnSVBQdkhzMXFjY0ZXRHBqdF9saVBtLVd0TFZLUkdVMVlIVDd6UGVMZ3oyNmFILWI2QkxUX19WbW01TmNMMVBtMjdqZmlWSWd6MEJvUFBBTjRkcjRDbV93WEdMNUhaOFd4SXFsRDdYbVVMMU5rYjAxUVZNdG9iZjRoQ2hUdHlYMWsxUWYzWks4TTh6RkrSAegCQVVfeXFMTVdhZVJmZXp4YTA4blBWUU5tRXo2aXQtQ2xCYnVvQi1hcVR0bWo2eTltTnZESGI0bGM3ang1NlB0TWpnVWV3c1ZqS01mNUduanRQdlRIcFZBZWlTU3MyWkU1NEo2RTdqejVRVjQ0aGNIRWQtWkY4blVSa1ktWm8wSUh2Q0dXMmJkUmNLLWlXNnZ4SDRIaXNxVXlCSjJQcTNVUlFSUHZORUU4YzZQVHBIeXZsaGM2cWF5VUJmU3lNVmJhNDAwdndVQ0VVcjNsMy1McndEcHNfSC02cEtkZ0lQUHZIczFxY2NGV0RwanRfbGlQbS1XdExWS1JHVTFZSFQ3elBlTGd6MjZhSC1iNkJMVF9fVm1tNU5jTDFQbTI3amZpVklnejBCb1BQQU40ZHI0Q21fd1hHTDVIWjhXeElxbEQ3WG1VTDFOa2IwMVFWTXRvYmY0aENoVHR5WDFrMVFmM1pLOE04ekZK?oc=5",
+  "media": "jeanmarcmorandini.com",
+  "date": "2026-11-11T18:06:51Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.4381,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4191,
+   "matieres_premieres_aromatiques": 0.3965,
+   "tendances_gout_odorat": 0.4021,
+   "mouvements_entreprises_ff": 0.4381,
+   "hors_perimetre": 0.4067
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

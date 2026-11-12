@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "ad1789a932bd1a4b",
+  "titre": "Au lieu de patienter pour le Black Friday, Delonghi vide ses stocks dès aujourd’hui (7 machines à café)",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTjNXUFh5dmg5NEdVTjNzSlBERDZCSHN2a01fcTk4QjZyZFU2VWhmYlRpWF84OFVxZ1ZLOC1xbWJrbDdTUGc2bWxfNUVQclMwWndCX3FwODVHWi1pOXF1MHRnQ0p1LWlyM3A4N1pUT2ZRWDVWSmhfTlBTVlRhWDdFRE84a21kbVR6YTh4VnVPR29SaFVJUkFDUFcyM0l1WFhCLW5QUG9CWHNneXpIVnhIaXhTcUNVSzhUeXZDenM3LWtFZnc1QkRncGJyYkZfQnFvLXA1dVJRLUw0WXpBUkdXWkVTeF9FMkt2RzNGbWczS2hOOWxTNmxsQ0Y1Q1pDQXd2dmNjWkxaOTFQY2J4cnR6QlFwWGk?oc=5",
+  "media": "ouest-france.fr",
+  "date": "2026-11-12T06:08:02Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.4825,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3433,
+   "matieres_premieres_aromatiques": 0.4825,
+   "tendances_gout_odorat": 0.4266,
+   "mouvements_entreprises_ff": 0.4752,
+   "hors_perimetre": 0.4442
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

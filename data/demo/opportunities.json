@@ -1,0 +1,1794 @@
+{
+ "mode": "demo",
+ "requete": null,
+ "periode": "7d",
+ "langues": [
+  "french"
+ ],
+ "genere_le": "2026-11-12T13:45:59.910689Z",
+ "nb_collectees": 58,
+ "nb_retenues": 31,
+ "fiches": [
+  {
+   "id": "ecc8beec68edafd0--unilever",
+   "signal": {
+    "titre": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+    "media": "agro-media.fr",
+    "date": "2026-11-09T11:31:50Z",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.6535,
+   "ce_que_ca_implique": "Les clients doivent anticiper des changements de formulation pour répondre aux attentes en matière de goût et de performance.",
+   "faits": [
+    {
+     "enonce": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "citation": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "consequence": "Besoin de réévaluer les formulations pour s'adapter aux nouvelles tendances sensorielles.",
+     "impact_sensoriel": "Possibilité de nouveaux profils de goût et d'arômes plus naturels ou innovants."
+    }
+   ],
+   "entreprise": {
+    "nom": "Unilever",
+    "raison": "Catégories communes : Glaces et desserts (33 produits sur 200 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés), Soins du visage et du corps, maquillage (6 produits sur 200 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/unilever",
+    "categories": [
+     "glaces_desserts",
+     "boissons_sans_alcool",
+     "soins_visage_corps"
+    ],
+    "pays": [],
+    "score": 3.705
+   },
+   "opportunite": {
+    "entreprise": "Unilever",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Unilever pourrait réévaluer ses formulations de glaces et de boissons sans alcool pour intégrer des arômes innovants tout en maintenant la performance industrielle.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme de glaces et de boissons sans alcool qui pourraient bénéficier d'une réinvention aromatique ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme de glaces et de boissons sans alcool qui pourraient bénéficier d'une réinvention aromatique ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "agro-media.fr — Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Unilever (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/unilever"
+    }
+   ]
+  },
+  {
+   "id": "ecc8beec68edafd0--andros",
+   "signal": {
+    "titre": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+    "media": "agro-media.fr",
+    "date": "2026-11-09T11:31:50Z",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.6535,
+   "ce_que_ca_implique": "Les clients doivent anticiper des changements de formulation pour répondre aux attentes en matière de goût et de performance.",
+   "faits": [
+    {
+     "enonce": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "citation": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "consequence": "Besoin de réévaluer les formulations pour s'adapter aux nouvelles tendances sensorielles.",
+     "impact_sensoriel": "Possibilité de nouveaux profils de goût et d'arômes plus naturels ou innovants."
+    }
+   ],
+   "entreprise": {
+    "nom": "Andros",
+    "raison": "Catégories communes : Glaces et desserts (54 produits sur 100 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (11 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/andros",
+    "categories": [
+     "glaces_desserts",
+     "boissons_sans_alcool"
+    ],
+    "pays": [],
+    "score": 3.042
+   },
+   "opportunite": {
+    "entreprise": "Andros",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Andros pourrait explorer des alternatives aux arômes traditionnels pour ses glaces et boissons sans alcool, en alignant ses produits avec les tendances sensorielles actuelles.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme de glaces et de boissons sans alcool qui pourraient être réformulés pour intégrer des arômes plus naturels ou innovants ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme de glaces et de boissons sans alcool qui pourraient être réformulés pour intégrer des arômes plus naturels ou innovants ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "agro-media.fr — Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Andros (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/andros"
+    }
+   ]
+  },
+  {
+   "id": "ecc8beec68edafd0--coty",
+   "signal": {
+    "titre": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+    "media": "agro-media.fr",
+    "date": "2026-11-09T11:31:50Z",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.6535,
+   "ce_que_ca_implique": "Les clients doivent anticiper des changements de formulation pour répondre aux attentes en matière de goût et de performance.",
+   "faits": [
+    {
+     "enonce": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "citation": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "consequence": "Besoin de réévaluer les formulations pour s'adapter aux nouvelles tendances sensorielles.",
+     "impact_sensoriel": "Possibilité de nouveaux profils de goût et d'arômes plus naturels ou innovants."
+    }
+   ],
+   "entreprise": {
+    "nom": "Coty",
+    "raison": "Catégories communes : Soins du visage et du corps, maquillage (23 produits sur 48 échantillonnés), Parfumerie fine (6 produits sur 48 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openbeautyfacts.org/brand/coty",
+    "categories": [
+     "soins_visage_corps",
+     "parfumerie_fine"
+    ],
+    "pays": [],
+    "score": 2.926
+   },
+   "opportunite": {
+    "entreprise": "Coty",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Fragrance & Beauty",
+    "hypothese": "Coty pourrait réévaluer ses parfums et cosmétiques pour intégrer des notes aromatiques plus naturelles ou innovantes, tout en maintenant la performance sensorielle.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient bénéficier d'une réinvention aromatique ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient bénéficier d'une réinvention aromatique ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "agro-media.fr — Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Coty (Open Food/Beauty Facts)",
+     "url": "https://world.openbeautyfacts.org/brand/coty"
+    }
+   ]
+  },
+  {
+   "id": "ecc8beec68edafd0--lvmh-parfums-et-cosmetiques",
+   "signal": {
+    "titre": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+    "media": "agro-media.fr",
+    "date": "2026-11-09T11:31:50Z",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.6535,
+   "ce_que_ca_implique": "Les clients doivent anticiper des changements de formulation pour répondre aux attentes en matière de goût et de performance.",
+   "faits": [
+    {
+     "enonce": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "citation": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "consequence": "Besoin de réévaluer les formulations pour s'adapter aux nouvelles tendances sensorielles.",
+     "impact_sensoriel": "Possibilité de nouveaux profils de goût et d'arômes plus naturels ou innovants."
+    }
+   ],
+   "entreprise": {
+    "nom": "LVMH (parfums et cosmétiques)",
+    "raison": "Catégories communes : Soins du visage et du corps, maquillage (9 produits sur 60 échantillonnés), Parfumerie fine (15 produits sur 60 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openbeautyfacts.org/brand/dior",
+    "categories": [
+     "soins_visage_corps",
+     "parfumerie_fine"
+    ],
+    "pays": [],
+    "score": 2.8
+   },
+   "opportunite": {
+    "entreprise": "LVMH (parfums et cosmétiques)",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Fragrance & Beauty",
+    "hypothese": "LVMH pourrait explorer des alternatives aux arômes traditionnels pour ses parfums et cosmétiques, en alignant ses produits avec les tendances sensorielles actuelles.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient être réformulés pour intégrer des arômes plus naturels ou innovants ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient être réformulés pour intégrer des arômes plus naturels ou innovants ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "agro-media.fr — Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence LVMH (parfums et cosmétiques) (Open Food/Beauty Facts)",
+     "url": "https://world.openbeautyfacts.org/brand/dior"
+    }
+   ]
+  },
+  {
+   "id": "ecc8beec68edafd0--chanel",
+   "signal": {
+    "titre": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+    "media": "agro-media.fr",
+    "date": "2026-11-09T11:31:50Z",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.6535,
+   "ce_que_ca_implique": "Les clients doivent anticiper des changements de formulation pour répondre aux attentes en matière de goût et de performance.",
+   "faits": [
+    {
+     "enonce": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "citation": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "consequence": "Besoin de réévaluer les formulations pour s'adapter aux nouvelles tendances sensorielles.",
+     "impact_sensoriel": "Possibilité de nouveaux profils de goût et d'arômes plus naturels ou innovants."
+    }
+   ],
+   "entreprise": {
+    "nom": "Chanel",
+    "raison": "Catégories communes : Soins du visage et du corps, maquillage (5 produits sur 26 échantillonnés), Parfumerie fine (6 produits sur 26 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openbeautyfacts.org/brand/chanel",
+    "categories": [
+     "soins_visage_corps",
+     "parfumerie_fine"
+    ],
+    "pays": [],
+    "score": 2.739
+   },
+   "opportunite": {
+    "entreprise": "Chanel",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Fragrance & Beauty",
+    "hypothese": "Chanel pourrait réévaluer ses parfums et cosmétiques pour intégrer des notes aromatiques plus naturelles ou innovantes, tout en maintenant la performance sensorielle.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient bénéficier d'une réinvention aromatique ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient bénéficier d'une réinvention aromatique ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "agro-media.fr — Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Chanel (Open Food/Beauty Facts)",
+     "url": "https://world.openbeautyfacts.org/brand/chanel"
+    }
+   ]
+  },
+  {
+   "id": "b7d3feb5a1b94598--unilever",
+   "signal": {
+    "titre": "Le café de spécialité, nouvel or noir",
+    "media": "lesechos.fr",
+    "date": "2026-11-06T08:00:39Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6011,
+   "ce_que_ca_implique": "Le café de spécialité devient une matière première clé pour les produits aromatisés et les boissons, poussant les clients à revoir leurs formulations.",
+   "faits": [
+    {
+     "enonce": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "citation": "Le café de spécialité, nouvel or noir",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "consequence": "Augmentation de la demande pour des produits aromatisés à base de café de spécialité.",
+     "impact_sensoriel": "Renforce le profil aromatique et la complexité des boissons et desserts."
+    }
+   ],
+   "entreprise": {
+    "nom": "Unilever",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés), Glaces et desserts (33 produits sur 200 échantillonnés), Café et thé (9 produits sur 200 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/unilever",
+    "categories": [
+     "boissons_sans_alcool",
+     "glaces_desserts",
+     "cafe_the"
+    ],
+    "pays": [],
+    "score": 3.718
+   },
+   "opportunite": {
+    "entreprise": "Unilever",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Unilever pourrait lancer des produits aromatisés à base de café de spécialité pour répondre à la demande croissante.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de boissons et desserts ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de boissons et desserts ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "lesechos.fr — Le café de spécialité, nouvel or noir",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Unilever (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/unilever"
+    }
+   ]
+  },
+  {
+   "id": "b7d3feb5a1b94598--andros",
+   "signal": {
+    "titre": "Le café de spécialité, nouvel or noir",
+    "media": "lesechos.fr",
+    "date": "2026-11-06T08:00:39Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6011,
+   "ce_que_ca_implique": "Le café de spécialité devient une matière première clé pour les produits aromatisés et les boissons, poussant les clients à revoir leurs formulations.",
+   "faits": [
+    {
+     "enonce": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "citation": "Le café de spécialité, nouvel or noir",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "consequence": "Augmentation de la demande pour des produits aromatisés à base de café de spécialité.",
+     "impact_sensoriel": "Renforce le profil aromatique et la complexité des boissons et desserts."
+    }
+   ],
+   "entreprise": {
+    "nom": "Andros",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (11 produits sur 100 échantillonnés), Glaces et desserts (54 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/andros",
+    "categories": [
+     "boissons_sans_alcool",
+     "glaces_desserts"
+    ],
+    "pays": [],
+    "score": 3.042
+   },
+   "opportunite": {
+    "entreprise": "Andros",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Andros pourrait lancer des boissons et desserts aromatisés à base de café de spécialité pour s'aligner sur la tendance.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets pour intégrer le café de spécialité dans vos gammes de boissons et desserts ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets pour intégrer le café de spécialité dans vos gammes de boissons et desserts ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "lesechos.fr — Le café de spécialité, nouvel or noir",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Andros (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/andros"
+    }
+   ]
+  },
+  {
+   "id": "b7d3feb5a1b94598--nestle",
+   "signal": {
+    "titre": "Le café de spécialité, nouvel or noir",
+    "media": "lesechos.fr",
+    "date": "2026-11-06T08:00:39Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6011,
+   "ce_que_ca_implique": "Le café de spécialité devient une matière première clé pour les produits aromatisés et les boissons, poussant les clients à revoir leurs formulations.",
+   "faits": [
+    {
+     "enonce": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "citation": "Le café de spécialité, nouvel or noir",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "consequence": "Augmentation de la demande pour des produits aromatisés à base de café de spécialité.",
+     "impact_sensoriel": "Renforce le profil aromatique et la complexité des boissons et desserts."
+    }
+   ],
+   "entreprise": {
+    "nom": "Nestlé",
+    "raison": "Catégories communes : Glaces et desserts (26 produits sur 105 échantillonnés), Café et thé (7 produits sur 105 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/nestle",
+    "categories": [
+     "glaces_desserts",
+     "cafe_the"
+    ],
+    "pays": [],
+    "score": 2.764
+   },
+   "opportunite": {
+    "entreprise": "Nestlé",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Nestlé pourrait lancer des produits à base de café de spécialité pour renforcer la complexité aromatique de ses boissons et desserts.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de glaces et boissons ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de glaces et boissons ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "lesechos.fr — Le café de spécialité, nouvel or noir",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Nestlé (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/nestle"
+    }
+   ]
+  },
+  {
+   "id": "b7d3feb5a1b94598--danone",
+   "signal": {
+    "titre": "Le café de spécialité, nouvel or noir",
+    "media": "lesechos.fr",
+    "date": "2026-11-06T08:00:39Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6011,
+   "ce_que_ca_implique": "Le café de spécialité devient une matière première clé pour les produits aromatisés et les boissons, poussant les clients à revoir leurs formulations.",
+   "faits": [
+    {
+     "enonce": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "citation": "Le café de spécialité, nouvel or noir",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "consequence": "Augmentation de la demande pour des produits aromatisés à base de café de spécialité.",
+     "impact_sensoriel": "Renforce le profil aromatique et la complexité des boissons et desserts."
+    }
+   ],
+   "entreprise": {
+    "nom": "Danone",
+    "raison": "Catégories communes : Glaces et desserts (88 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/danone",
+    "categories": [
+     "glaces_desserts"
+    ],
+    "pays": [],
+    "score": 2.233
+   },
+   "opportunite": {
+    "entreprise": "Danone",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Danone pourrait lancer des desserts aromatisés à base de café de spécialité pour s'adapter à la demande croissante.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets pour intégrer le café de spécialité dans vos gammes de desserts ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets pour intégrer le café de spécialité dans vos gammes de desserts ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "lesechos.fr — Le café de spécialité, nouvel or noir",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Danone (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/danone"
+    }
+   ]
+  },
+  {
+   "id": "b7d3feb5a1b94598--general-mills",
+   "signal": {
+    "titre": "Le café de spécialité, nouvel or noir",
+    "media": "lesechos.fr",
+    "date": "2026-11-06T08:00:39Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6011,
+   "ce_que_ca_implique": "Le café de spécialité devient une matière première clé pour les produits aromatisés et les boissons, poussant les clients à revoir leurs formulations.",
+   "faits": [
+    {
+     "enonce": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "citation": "Le café de spécialité, nouvel or noir",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "consequence": "Augmentation de la demande pour des produits aromatisés à base de café de spécialité.",
+     "impact_sensoriel": "Renforce le profil aromatique et la complexité des boissons et desserts."
+    }
+   ],
+   "entreprise": {
+    "nom": "General Mills",
+    "raison": "Catégories communes : Glaces et desserts (81 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/general-mills",
+    "categories": [
+     "glaces_desserts"
+    ],
+    "pays": [],
+    "score": 2.175
+   },
+   "opportunite": {
+    "entreprise": "General Mills",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "General Mills pourrait lancer des produits à base de café de spécialité pour répondre à la tendance des boissons et desserts aromatisés.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de desserts ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de desserts ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "lesechos.fr — Le café de spécialité, nouvel or noir",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence General Mills (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/general-mills"
+    }
+   ]
+  },
+  {
+   "id": "7c6495ad7a2aca78--nestle",
+   "signal": {
+    "titre": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+    "media": "capital.fr",
+    "date": "2026-11-07T11:39:01Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6007,
+   "ce_que_ca_implique": "Les hausses du café et du chocolat pourraient pousser les clients à chercher des alternatives ou à réduire les coûts de formulation.",
+   "faits": [
+    {
+     "enonce": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "citation": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "consequence": "Pression sur les coûts de formulation pour les produits contenant ces matières premières.",
+     "impact_sensoriel": "Risque de modification du profil aromatique ou de texture si des substituts sont utilisés."
+    }
+   ],
+   "entreprise": {
+    "nom": "Nestlé",
+    "raison": "Catégories communes : Café et thé (7 produits sur 105 échantillonnés), Confiserie et chocolat (17 produits sur 105 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/nestle",
+    "categories": [
+     "cafe_the",
+     "confiserie_chocolat"
+    ],
+    "pays": [],
+    "score": 2.692
+   },
+   "opportunite": {
+    "entreprise": "Nestlé",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Nestlé pourrait être amenée à substituer une partie de son café ou de son chocolat pour réduire les coûts de formulation.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont les produits de votre gamme contenant du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme contenant du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "capital.fr — Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Nestlé (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/nestle"
+    }
+   ]
+  },
+  {
+   "id": "7c6495ad7a2aca78--unilever",
+   "signal": {
+    "titre": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+    "media": "capital.fr",
+    "date": "2026-11-07T11:39:01Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6007,
+   "ce_que_ca_implique": "Les hausses du café et du chocolat pourraient pousser les clients à chercher des alternatives ou à réduire les coûts de formulation.",
+   "faits": [
+    {
+     "enonce": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "citation": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "consequence": "Pression sur les coûts de formulation pour les produits contenant ces matières premières.",
+     "impact_sensoriel": "Risque de modification du profil aromatique ou de texture si des substituts sont utilisés."
+    }
+   ],
+   "entreprise": {
+    "nom": "Unilever",
+    "raison": "Catégories communes : Café et thé (9 produits sur 200 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/unilever",
+    "categories": [
+     "cafe_the",
+     "boissons_sans_alcool"
+    ],
+    "pays": [],
+    "score": 2.568
+   },
+   "opportunite": {
+    "entreprise": "Unilever",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Unilever pourrait chercher des alternatives au café ou au chocolat pour atténuer l'impact des hausses de coûts.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur exposition aux hausses ? ",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur exposition aux hausses ? ",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "capital.fr — Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Unilever (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/unilever"
+    }
+   ]
+  },
+  {
+   "id": "7c6495ad7a2aca78--monster-beverage",
+   "signal": {
+    "titre": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+    "media": "capital.fr",
+    "date": "2026-11-07T11:39:01Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6007,
+   "ce_que_ca_implique": "Les hausses du café et du chocolat pourraient pousser les clients à chercher des alternatives ou à réduire les coûts de formulation.",
+   "faits": [
+    {
+     "enonce": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "citation": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "consequence": "Pression sur les coûts de formulation pour les produits contenant ces matières premières.",
+     "impact_sensoriel": "Risque de modification du profil aromatique ou de texture si des substituts sont utilisés."
+    }
+   ],
+   "entreprise": {
+    "nom": "Monster Beverage",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (74 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/monster-energy",
+    "categories": [
+     "boissons_sans_alcool"
+    ],
+    "pays": [],
+    "score": 2.117
+   },
+   "opportunite": {
+    "entreprise": "Monster Beverage",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Monster Beverage pourrait être amenée à substituer une partie de son café ou de son chocolat pour réduire les coûts de formulation.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "capital.fr — Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Monster Beverage (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/monster-energy"
+    }
+   ]
+  },
+  {
+   "id": "7c6495ad7a2aca78--lindt-sprungli",
+   "signal": {
+    "titre": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+    "media": "capital.fr",
+    "date": "2026-11-07T11:39:01Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6007,
+   "ce_que_ca_implique": "Les hausses du café et du chocolat pourraient pousser les clients à chercher des alternatives ou à réduire les coûts de formulation.",
+   "faits": [
+    {
+     "enonce": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "citation": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "consequence": "Pression sur les coûts de formulation pour les produits contenant ces matières premières.",
+     "impact_sensoriel": "Risque de modification du profil aromatique ou de texture si des substituts sont utilisés."
+    }
+   ],
+   "entreprise": {
+    "nom": "Lindt & Sprüngli",
+    "raison": "Catégories communes : Confiserie et chocolat (72 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/lindt",
+    "categories": [
+     "confiserie_chocolat"
+    ],
+    "pays": [],
+    "score": 2.1
+   },
+   "opportunite": {
+    "entreprise": "Lindt & Sprüngli",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Lindt & Sprüngli pourrait être amenée à substituer une partie de son café ou de son chocolat pour atténuer l'impact des hausses de coûts.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur exposition aux hausses ? ",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur exposition aux hausses ? ",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "capital.fr — Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Lindt & Sprüngli (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/lindt"
+    }
+   ]
+  },
+  {
+   "id": "7c6495ad7a2aca78--the-coca-cola-company",
+   "signal": {
+    "titre": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+    "media": "capital.fr",
+    "date": "2026-11-07T11:39:01Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6007,
+   "ce_que_ca_implique": "Les hausses du café et du chocolat pourraient pousser les clients à chercher des alternatives ou à réduire les coûts de formulation.",
+   "faits": [
+    {
+     "enonce": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "citation": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "consequence": "Pression sur les coûts de formulation pour les produits contenant ces matières premières.",
+     "impact_sensoriel": "Risque de modification du profil aromatique ou de texture si des substituts sont utilisés."
+    }
+   ],
+   "entreprise": {
+    "nom": "The Coca-Cola Company",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (58 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/coca-cola",
+    "categories": [
+     "boissons_sans_alcool"
+    ],
+    "pays": [],
+    "score": 1.983
+   },
+   "opportunite": {
+    "entreprise": "The Coca-Cola Company",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "The Coca-Cola Company pourrait être amenée à substituer une partie de son café ou de son chocolat pour réduire les coûts de formulation.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "capital.fr — Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence The Coca-Cola Company (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/coca-cola"
+    }
+   ]
+  },
+  {
+   "id": "e33c998eb217a600--andros",
+   "signal": {
+    "titre": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+    "media": "newsdeconso.fr",
+    "date": "2026-11-11T09:11:57Z",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+   },
+   "famille": "reglementation_sensorielle",
+   "score_filtre": 0.5749,
+   "ce_que_ca_implique": "Les colorants et arômes pourraient être évalués plus strictement dans le cadre des étiquetages nutritionnels, pouvant influencer les formulations et les stratégies marketing.",
+   "faits": [
+    {
+     "enonce": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "citation": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "consequence": "Renforcement des exigences réglementaires sur les additifs, pouvant affecter les formulations et les étiquetages.",
+     "impact_sensoriel": "Possibilité de réduction de l'utilisation de certains colorants/arômes, impactant la couleur, l'odeur et le goût des produits."
+    }
+   ],
+   "entreprise": {
+    "nom": "Andros",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (11 produits sur 100 échantillonnés), Produits laitiers (yaourts, fromages, laits) (3 produits sur 100 échantillonnés), Glaces et desserts (54 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/andros",
+    "categories": [
+     "boissons_sans_alcool",
+     "produits_laitiers",
+     "glaces_desserts"
+    ],
+    "pays": [],
+    "score": 4.067
+   },
+   "opportunite": {
+    "entreprise": "Andros",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Andros pourrait être amené à reformuler certains de ses produits pour s'adapter aux nouvelles exigences réglementaires liées aux arômes et colorants.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "newsdeconso.fr — L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Andros (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/andros"
+    }
+   ]
+  },
+  {
+   "id": "e33c998eb217a600--nestle",
+   "signal": {
+    "titre": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+    "media": "newsdeconso.fr",
+    "date": "2026-11-11T09:11:57Z",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+   },
+   "famille": "reglementation_sensorielle",
+   "score_filtre": 0.5749,
+   "ce_que_ca_implique": "Les colorants et arômes pourraient être évalués plus strictement dans le cadre des étiquetages nutritionnels, pouvant influencer les formulations et les stratégies marketing.",
+   "faits": [
+    {
+     "enonce": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "citation": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "consequence": "Renforcement des exigences réglementaires sur les additifs, pouvant affecter les formulations et les étiquetages.",
+     "impact_sensoriel": "Possibilité de réduction de l'utilisation de certains colorants/arômes, impactant la couleur, l'odeur et le goût des produits."
+    }
+   ],
+   "entreprise": {
+    "nom": "Nestlé",
+    "raison": "Catégories communes : Produits laitiers (yaourts, fromages, laits) (19 produits sur 105 échantillonnés), Glaces et desserts (26 produits sur 105 échantillonnés), Confiserie et chocolat (17 produits sur 105 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/nestle",
+    "categories": [
+     "produits_laitiers",
+     "glaces_desserts",
+     "confiserie_chocolat"
+    ],
+    "pays": [],
+    "score": 3.996
+   },
+   "opportunite": {
+    "entreprise": "Nestlé",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Nestlé pourrait être contraint de réviser ses formulations pour répondre aux critères de profilage nutritionnel plus stricts.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels produits de votre portefeuille contiennent des arômes ou colorants, et comment prévoyez-vous de les ajuster ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre portefeuille contiennent des arômes ou colorants, et comment prévoyez-vous de les ajuster ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "newsdeconso.fr — L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Nestlé (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/nestle"
+    }
+   ]
+  },
+  {
+   "id": "e33c998eb217a600--danone",
+   "signal": {
+    "titre": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+    "media": "newsdeconso.fr",
+    "date": "2026-11-11T09:11:57Z",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+   },
+   "famille": "reglementation_sensorielle",
+   "score_filtre": 0.5749,
+   "ce_que_ca_implique": "Les colorants et arômes pourraient être évalués plus strictement dans le cadre des étiquetages nutritionnels, pouvant influencer les formulations et les stratégies marketing.",
+   "faits": [
+    {
+     "enonce": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "citation": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "consequence": "Renforcement des exigences réglementaires sur les additifs, pouvant affecter les formulations et les étiquetages.",
+     "impact_sensoriel": "Possibilité de réduction de l'utilisation de certains colorants/arômes, impactant la couleur, l'odeur et le goût des produits."
+    }
+   ],
+   "entreprise": {
+    "nom": "Danone",
+    "raison": "Catégories communes : Produits laitiers (yaourts, fromages, laits) (87 produits sur 100 échantillonnés), Glaces et desserts (88 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/danone",
+    "categories": [
+     "produits_laitiers",
+     "glaces_desserts"
+    ],
+    "pays": [],
+    "score": 3.958
+   },
+   "opportunite": {
+    "entreprise": "Danone",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Danone pourrait être amené à réévaluer l'utilisation de certains arômes et colorants dans ses produits laitiers et desserts.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "newsdeconso.fr — L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Danone (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/danone"
+    }
+   ]
+  },
+  {
+   "id": "e33c998eb217a600--mondelez-international",
+   "signal": {
+    "titre": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+    "media": "newsdeconso.fr",
+    "date": "2026-11-11T09:11:57Z",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+   },
+   "famille": "reglementation_sensorielle",
+   "score_filtre": 0.5749,
+   "ce_que_ca_implique": "Les colorants et arômes pourraient être évalués plus strictement dans le cadre des étiquetages nutritionnels, pouvant influencer les formulations et les stratégies marketing.",
+   "faits": [
+    {
+     "enonce": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "citation": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "consequence": "Renforcement des exigences réglementaires sur les additifs, pouvant affecter les formulations et les étiquetages.",
+     "impact_sensoriel": "Possibilité de réduction de l'utilisation de certains colorants/arômes, impactant la couleur, l'odeur et le goût des produits."
+    }
+   ],
+   "entreprise": {
+    "nom": "Mondelēz International",
+    "raison": "Catégories communes : Produits laitiers (yaourts, fromages, laits) (3 produits sur 100 échantillonnés), Glaces et desserts (7 produits sur 100 échantillonnés), Confiserie et chocolat (27 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/mondelez",
+    "categories": [
+     "produits_laitiers",
+     "glaces_desserts",
+     "confiserie_chocolat"
+    ],
+    "pays": [],
+    "score": 3.808
+   },
+   "opportunite": {
+    "entreprise": "Mondelēz International",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Mondelēz International pourrait devoir réviser ses formulations de confiserie et desserts pour s'aligner sur les nouvelles normes de profilage nutritionnel.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels produits de votre gamme contiennent des arômes ou colorants, et comment prévoyez-vous de les ajuster ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre gamme contiennent des arômes ou colorants, et comment prévoyez-vous de les ajuster ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "newsdeconso.fr — L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Mondelēz International (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/mondelez"
+    }
+   ]
+  },
+  {
+   "id": "e33c998eb217a600--unilever",
+   "signal": {
+    "titre": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+    "media": "newsdeconso.fr",
+    "date": "2026-11-11T09:11:57Z",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+   },
+   "famille": "reglementation_sensorielle",
+   "score_filtre": 0.5749,
+   "ce_que_ca_implique": "Les colorants et arômes pourraient être évalués plus strictement dans le cadre des étiquetages nutritionnels, pouvant influencer les formulations et les stratégies marketing.",
+   "faits": [
+    {
+     "enonce": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "citation": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "consequence": "Renforcement des exigences réglementaires sur les additifs, pouvant affecter les formulations et les étiquetages.",
+     "impact_sensoriel": "Possibilité de réduction de l'utilisation de certains colorants/arômes, impactant la couleur, l'odeur et le goût des produits."
+    }
+   ],
+   "entreprise": {
+    "nom": "Unilever",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés), Glaces et desserts (33 produits sur 200 échantillonnés), Soins du visage et du corps, maquillage (6 produits sur 200 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/unilever",
+    "categories": [
+     "boissons_sans_alcool",
+     "glaces_desserts",
+     "soins_visage_corps"
+    ],
+    "pays": [],
+    "score": 3.705
+   },
+   "opportunite": {
+    "entreprise": "Unilever",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Unilever pourrait être contraint de réviser l'utilisation de certains arômes et colorants dans ses produits laitiers et desserts.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "newsdeconso.fr — L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Unilever (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/unilever"
+    }
+   ]
+  },
+  {
+   "id": "694bcce955752fbb--mars",
+   "signal": {
+    "titre": "Produits ultra-transformés : omniprésents dans les supermarchés, bientôt signalés par un logo ?",
+    "media": "sciencesetavenir.fr",
+    "date": "2026-11-06T16:02:29Z",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+   },
+   "famille": "mouvements_entreprises_ff",
+   "score_filtre": 0.5548,
+   "ce_que_ca_implique": "Les marques devront identifier les produits ultra-transformés via un logo, ce qui pourrait influencer les stratégies de communication et de formulation.",
+   "faits": [
+    {
+     "enonce": "Les produits ultra-transformés sont très présents dans les supermarchés.",
+     "citation": "Produits ultra-transformés : omniprésents dans les supermarchés",
+     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    },
+    {
+     "enonce": "Un logo pourrait bientôt identifier les produits ultra-transformés.",
+     "citation": "bientôt signalés par un logo ?",
+     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Un logo pourrait bientôt identifier les produits ultra-transformés.",
+     "consequence": "Nouvelle obligation de labellisation pour les fabricants, impact sur la communication et la formulation.",
+     "impact_sensoriel": "Aucun impact direct sur le goût, l'odeur ou la texture, mais possible influence sur les choix de formulation pour s'adapter aux normes."
+    }
+   ],
+   "entreprise": {
+    "nom": "Mars",
+    "raison": "Catégories communes : Plats préparés, soupes, sauces et condiments (8 produits sur 100 échantillonnés), Glaces et desserts (6 produits sur 100 échantillonnés), Biscuits, snacks salés et sucrés (48 produits sur 100 échantillonnés) ; commercialisée en DE, ES, FR.",
+    "source": "https://world.openfoodfacts.org/brand/mars",
+    "categories": [
+     "plats_prepares_sauces",
+     "glaces_desserts",
+     "biscuits_snacks"
+    ],
+    "pays": [
+     "DE",
+     "ES",
+     "FR"
+    ],
+    "score": 4.517
+   },
+   "opportunite": {
+    "entreprise": "Mars",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Mars pourrait lancer des produits ultra-transformés avec un logo distinctif pour répondre à la réglementation et attirer des consommateurs sensibles.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets de labellisation pour les produits ultra-transformés dans vos gammes de snacks et desserts ?",
+    "faits_utilises": [
+     0,
+     1
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets de labellisation pour les produits ultra-transformés dans vos gammes de snacks et desserts ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "sciencesetavenir.fr — Produits ultra-transformés : omniprésents dans les supermarchés, bientôt signalés par un logo ?",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Mars (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/mars"
+    }
+   ]
+  },
+  {
+   "id": "694bcce955752fbb--nestle",
+   "signal": {
+    "titre": "Produits ultra-transformés : omniprésents dans les supermarchés, bientôt signalés par un logo ?",
+    "media": "sciencesetavenir.fr",
+    "date": "2026-11-06T16:02:29Z",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+   },
+   "famille": "mouvements_entreprises_ff",
+   "score_filtre": 0.5548,
+   "ce_que_ca_implique": "Les marques devront identifier les produits ultra-transformés via un logo, ce qui pourrait influencer les stratégies de communication et de formulation.",
+   "faits": [
+    {
+     "enonce": "Les produits ultra-transformés sont très présents dans les supermarchés.",
+     "citation": "Produits ultra-transformés : omniprésents dans les supermarchés",
+     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    },
+    {
+     "enonce": "Un logo pourrait bientôt identifier les produits ultra-transformés.",
+     "citation": "bientôt signalés par un logo ?",
+     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Un logo pourrait bientôt identifier les produits ultra-transformés.",
+     "consequence": "Nouvelle obligation de labellisation pour les fabricants, impact sur la communication et la formulation.",
+     "impact_sensoriel": "Aucun impact direct sur le goût, l'odeur ou la texture, mais possible influence sur les choix de formulation pour s'adapter aux normes."
+    }
+   ],
+   "entreprise": {
+    "nom": "Nestlé",
+    "raison": "Catégories communes : Plats préparés, soupes, sauces et condiments (8 produits sur 105 échantillonnés), Glaces et desserts (26 produits sur 105 échantillonnés), Biscuits, snacks salés et sucrés (19 produits sur 105 échantillonnés) ; commercialisée en ES, FR.",
+    "source": "https://world.openfoodfacts.org/brand/nestle",
+    "categories": [
+     "plats_prepares_sauces",
+     "glaces_desserts",
+     "biscuits_snacks"
+    ],
+    "pays": [
+     "ES",
+     "FR"
+    ],
+    "score": 4.424
+   },
+   "opportunite": {
+    "entreprise": "Nestlé",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Nestlé pourrait lancer des produits ultra-transformés avec un logo spécifique pour s'aligner sur la réglementation et améliorer sa communication.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos plans pour identifier les produits ultra-transformés dans vos gammes de plats préparés et desserts ?",
+    "faits_utilises": [
+     0,
+     1
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos plans pour identifier les produits ultra-transformés dans vos gammes de plats préparés et desserts ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "sciencesetavenir.fr — Produits ultra-transformés : omniprésents dans les supermarchés, bientôt signalés par un logo ?",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Nestlé (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/nestle"
+    }
+   ]
+  },
+  {
+   "id": "694bcce955752fbb--unilever",
+   "signal": {
+    "titre": "Produits ultra-transformés : omniprésents dans les supermarchés, bientôt signalés par un logo ?",
+    "media": "sciencesetavenir.fr",
+    "date": "2026-11-06T16:02:29Z",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+   },
+   "famille": "mouvements_entreprises_ff",
+   "score_filtre": 0.5548,
+   "ce_que_ca_implique": "Les marques devront identifier les produits ultra-transformés via un logo, ce qui pourrait influencer les stratégies de communication et de formulation.",
+   "faits": [
+    {
+     "enonce": "Les produits ultra-transformés sont très présents dans les supermarchés.",
+     "citation": "Produits ultra-transformés : omniprésents dans les supermarchés",
+     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    },
+    {
+     "enonce": "Un logo pourrait bientôt identifier les produits ultra-transformés.",
+     "citation": "bientôt signalés par un logo ?",
+     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Un logo pourrait bientôt identifier les produits ultra-transformés.",
+     "consequence": "Nouvelle obligation de labellisation pour les fabricants, impact sur la communication et la formulation.",
+     "impact_sensoriel": "Aucun impact direct sur le goût, l'odeur ou la texture, mais possible influence sur les choix de formulation pour s'adapter aux normes."
+    }
+   ],
+   "entreprise": {
+    "nom": "Unilever",
+    "raison": "Catégories communes : Plats préparés, soupes, sauces et condiments (42 produits sur 200 échantillonnés), Glaces et desserts (33 produits sur 200 échantillonnés), Biscuits, snacks salés et sucrés (7 produits sur 200 échantillonnés) ; commercialisée en BE, DE, ES, FR, GR, NL.",
+    "source": "https://world.openfoodfacts.org/brand/unilever",
+    "categories": [
+     "plats_prepares_sauces",
+     "glaces_desserts",
+     "biscuits_snacks"
+    ],
+    "pays": [
+     "BE",
+     "DE",
+     "ES",
+     "FR",
+     "GR",
+     "NL"
+    ],
+    "score": 4.373
+   },
+   "opportunite": {
+    "entreprise": "Unilever",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Unilever pourrait lancer des produits ultra-transformés avec un logo clair pour répondre aux nouvelles normes et renforcer sa position de marque.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets de labellisation pour les produits ultra-transformés dans vos gammes de sauces et snacks ?",
+    "faits_utilises": [
+     0,
+     1
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets de labellisation pour les produits ultra-transformés dans vos gammes de sauces et snacks ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "sciencesetavenir.fr — Produits ultra-transformés : omniprésents dans les supermarchés, bientôt signalés par un logo ?",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Unilever (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/unilever"
+    }
+   ]
+  },
+  {
+   "id": "694bcce955752fbb--carrefour-marques-propres",
+   "signal": {
+    "titre": "Produits ultra-transformés : omniprésents dans les supermarchés, bientôt signalés par un logo ?",
+    "media": "sciencesetavenir.fr",
+    "date": "2026-11-06T16:02:29Z",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+   },
+   "famille": "mouvements_entreprises_ff",
+   "score_filtre": 0.5548,
+   "ce_que_ca_implique": "Les marques devront identifier les produits ultra-transformés via un logo, ce qui pourrait influencer les stratégies de communication et de formulation.",
+   "faits": [
+    {
+     "enonce": "Les produits ultra-transformés sont très présents dans les supermarchés.",
+     "citation": "Produits ultra-transformés : omniprésents dans les supermarchés",
+     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    },
+    {
+     "enonce": "Un logo pourrait bientôt identifier les produits ultra-transformés.",
+     "citation": "bientôt signalés par un logo ?",
+     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Un logo pourrait bientôt identifier les produits ultra-transformés.",
+     "consequence": "Nouvelle obligation de labellisation pour les fabricants, impact sur la communication et la formulation.",
+     "impact_sensoriel": "Aucun impact direct sur le goût, l'odeur ou la texture, mais possible influence sur les choix de formulation pour s'adapter aux normes."
+    }
+   ],
+   "entreprise": {
+    "nom": "Carrefour (marques propres)",
+    "raison": "Catégories communes : Plats préparés, soupes, sauces et condiments (18 produits sur 200 échantillonnés), Glaces et desserts (10 produits sur 200 échantillonnés), Biscuits, snacks salés et sucrés (18 produits sur 200 échantillonnés) ; commercialisée en BE, ES, FR, IT.",
+    "source": "https://world.openfoodfacts.org/brand/carrefour",
+    "categories": [
+     "plats_prepares_sauces",
+     "glaces_desserts",
+     "biscuits_snacks"
+    ],
+    "pays": [
+     "BE",
+     "ES",
+     "FR",
+     "IT"
+    ],
+    "score": 4.209
+   },
+   "opportunite": {
+    "entreprise": "Carrefour (marques propres)",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Carrefour pourrait lancer des produits ultra-transformés avec un logo distinctif pour répondre aux attentes réglementaires et renforcer sa gamme de produits propres.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets de labellisation pour les produits ultra-transformés dans vos gammes de plats préparés et snacks ?",
+    "faits_utilises": [
+     0,
+     1
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets de labellisation pour les produits ultra-transformés dans vos gammes de plats préparés et snacks ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "sciencesetavenir.fr — Produits ultra-transformés : omniprésents dans les supermarchés, bientôt signalés par un logo ?",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Carrefour (marques propres) (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/carrefour"
+    }
+   ]
+  },
+  {
+   "id": "694bcce955752fbb--mondelez-international",
+   "signal": {
+    "titre": "Produits ultra-transformés : omniprésents dans les supermarchés, bientôt signalés par un logo ?",
+    "media": "sciencesetavenir.fr",
+    "date": "2026-11-06T16:02:29Z",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+   },
+   "famille": "mouvements_entreprises_ff",
+   "score_filtre": 0.5548,
+   "ce_que_ca_implique": "Les marques devront identifier les produits ultra-transformés via un logo, ce qui pourrait influencer les stratégies de communication et de formulation.",
+   "faits": [
+    {
+     "enonce": "Les produits ultra-transformés sont très présents dans les supermarchés.",
+     "citation": "Produits ultra-transformés : omniprésents dans les supermarchés",
+     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    },
+    {
+     "enonce": "Un logo pourrait bientôt identifier les produits ultra-transformés.",
+     "citation": "bientôt signalés par un logo ?",
+     "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Un logo pourrait bientôt identifier les produits ultra-transformés.",
+     "consequence": "Nouvelle obligation de labellisation pour les fabricants, impact sur la communication et la formulation.",
+     "impact_sensoriel": "Aucun impact direct sur le goût, l'odeur ou la texture, mais possible influence sur les choix de formulation pour s'adapter aux normes."
+    }
+   ],
+   "entreprise": {
+    "nom": "Mondelēz International",
+    "raison": "Catégories communes : Glaces et desserts (7 produits sur 100 échantillonnés), Biscuits, snacks salés et sucrés (87 produits sur 100 échantillonnés) ; commercialisée en BE, DE, ES, FR, IT.",
+    "source": "https://world.openfoodfacts.org/brand/mondelez",
+    "categories": [
+     "glaces_desserts",
+     "biscuits_snacks"
+    ],
+    "pays": [
+     "BE",
+     "DE",
+     "ES",
+     "FR",
+     "IT"
+    ],
+    "score": 3.783
+   },
+   "opportunite": {
+    "entreprise": "Mondelēz International",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Mondelēz International pourrait lancer des produits ultra-transformés avec un logo clair pour s'adapter à la réglementation et améliorer sa communication.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets de labellisation pour les produits ultra-transformés dans vos gammes de biscuits et desserts ?",
+    "faits_utilises": [
+     0,
+     1
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets de labellisation pour les produits ultra-transformés dans vos gammes de biscuits et desserts ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "sciencesetavenir.fr — Produits ultra-transformés : omniprésents dans les supermarchés, bientôt signalés par un logo ?",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2xucS1teU9kZ3hGa1EtRTJVYXVQcUVyLWEtYXFpU0JxRHVPZ3FudlJtVFNndmxPaTd5cWVRNXdlU0FmMm5rNVNtVHQxLUtPNmlFbG1UN2ZqeTVPejU4TDRYQVM4T1VnaTNEWUtCdjBSTlk0ZkNENzJXQ3NVYjNHTS0tT1NsOHFpLUpoaFpLOWh2alVZQno0X2ZIOHAtZC1fWjNCWjBUdUhQdGxQakZlYnVJZ3Y2Q0ltZFk3YjJjcWdmMHpFVlNN?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Mondelēz International (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/mondelez"
+    }
+   ]
+  },
+  {
+   "id": "742731637bdffd5a--monster-beverage",
+   "signal": {
+    "titre": "Interdire les boissons énergisantes aux moins de 16 ans",
+    "media": "univadis.fr",
+    "date": "2026-11-10T15:13:28Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.5364,
+   "ce_que_ca_implique": "Les marques de boissons énergisantes doivent reformuler ou adapter leur ciblage pour les moins de 16 ans.",
+   "faits": [
+    {
+     "enonce": "Les boissons énergisantes sont interdites aux moins de 16 ans.",
+     "citation": "Interdire les boissons énergisantes aux moins de 16 ans",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Les boissons énergisantes sont interdites aux moins de 16 ans.",
+     "consequence": "Restriction de la commercialisation aux moins de 16 ans, nécessitant une reformulation ou un changement de positionnement.",
+     "impact_sensoriel": "Aucun impact direct sur le goût ou l'odeur, mais possible adaptation de la formulation pour répondre aux normes de sécurité."
+    }
+   ],
+   "entreprise": {
+    "nom": "Monster Beverage",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (74 produits sur 100 échantillonnés) ; commercialisée en DE, ES, FR, IE, SE.",
+    "source": "https://world.openfoodfacts.org/brand/monster-energy",
+    "categories": [
+     "boissons_sans_alcool"
+    ],
+    "pays": [
+     "DE",
+     "ES",
+     "FR",
+     "IE",
+     "SE"
+    ],
+    "score": 2.617
+   },
+   "opportunite": {
+    "entreprise": "Monster Beverage",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Monster Beverage pourrait être amenée à reformuler certains de ses produits sans alcool pour s'adapter à la réglementation sur les boissons énergisantes.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont les produits de votre gamme sans alcool qui pourraient être affectés par cette réglementation ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme sans alcool qui pourraient être affectés par cette réglementation ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "univadis.fr — Interdire les boissons énergisantes aux moins de 16 ans",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Monster Beverage (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/monster-energy"
+    }
+   ]
+  },
+  {
+   "id": "742731637bdffd5a--the-coca-cola-company",
+   "signal": {
+    "titre": "Interdire les boissons énergisantes aux moins de 16 ans",
+    "media": "univadis.fr",
+    "date": "2026-11-10T15:13:28Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.5364,
+   "ce_que_ca_implique": "Les marques de boissons énergisantes doivent reformuler ou adapter leur ciblage pour les moins de 16 ans.",
+   "faits": [
+    {
+     "enonce": "Les boissons énergisantes sont interdites aux moins de 16 ans.",
+     "citation": "Interdire les boissons énergisantes aux moins de 16 ans",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Les boissons énergisantes sont interdites aux moins de 16 ans.",
+     "consequence": "Restriction de la commercialisation aux moins de 16 ans, nécessitant une reformulation ou un changement de positionnement.",
+     "impact_sensoriel": "Aucun impact direct sur le goût ou l'odeur, mais possible adaptation de la formulation pour répondre aux normes de sécurité."
+    }
+   ],
+   "entreprise": {
+    "nom": "The Coca-Cola Company",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (58 produits sur 100 échantillonnés) ; commercialisée en BE, DE, ES, FR.",
+    "source": "https://world.openfoodfacts.org/brand/coca-cola",
+    "categories": [
+     "boissons_sans_alcool"
+    ],
+    "pays": [
+     "BE",
+     "DE",
+     "ES",
+     "FR"
+    ],
+    "score": 2.483
+   },
+   "opportunite": {
+    "entreprise": "The Coca-Cola Company",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "The Coca-Cola Company pourrait être amenée à reformuler certains de ses produits sans alcool pour s'adapter à la réglementation sur les boissons énergisantes.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont les produits de votre gamme sans alcool qui pourraient être affectés par cette réglementation ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme sans alcool qui pourraient être affectés par cette réglementation ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "univadis.fr — Interdire les boissons énergisantes aux moins de 16 ans",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence The Coca-Cola Company (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/coca-cola"
+    }
+   ]
+  }
+ ],
+ "diagnostic": {
+  "json_valides": 18,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [
+   "gdelt/french : GDELT : limite de débit dépassée, réessayez dans une minute. → repli googlenews OK",
+   "gdelt/french : GDELT : limite de débit dépassée, réessayez dans une minute. → repli googlenews OK"
+  ],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

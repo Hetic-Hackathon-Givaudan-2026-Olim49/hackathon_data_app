@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "c1b7da8cd26fc140",
+  "titre": "Interdiction des produits alimentaires au CBD en France : 35 000 emplois menacés et un secteur en crise",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yX3YtaTUzaXBCWHFxTGJlcF95SENSb0JiZ1hETmNpb2Y1Wm9uZ3ZubmRsZUY4WHZrRlFFZ3ZFeTA2c2FNb21ZSEVoYURjRDNCX2VPUDNqZE51VGlVTHVYcFc1aFJCQVMzNWlZ?oc=5",
+  "media": "horticulture-abadie-pyrenees.com",
+  "date": "2026-11-10T23:19:10Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.5014,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.474,
+   "matieres_premieres_aromatiques": 0.4733,
+   "tendances_gout_odorat": 0.4088,
+   "mouvements_entreprises_ff": 0.5014,
+   "hors_perimetre": 0.3092
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

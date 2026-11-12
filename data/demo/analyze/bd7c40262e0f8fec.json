@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "bd7c40262e0f8fec",
+  "titre": "Moins cher qu'Amazon, cette machine à café Delonghi atteint un prix ultime",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFd4RWJxbDh2UUg1NkhmQlZlRHlpNlppSm1HMXl5aVFYQ1pRTFVGNkdYT2dQZmdicmprZzNGZnAxTTU3RVpFN2t5WXM2eEJHTWJ0Qy05ZUtqbElsdy1ld2hNZnUyMGV4bHd2ckV1YmZvdVhYbnpqU0FRdDlnSVM5b2E4YjQ4UnBoMmtaenBCZXM3d2VWS3NKeDZoTzZZa29wWkNVSlFmejZteUh0QlVyeGFGUHRIQVZSekdYa3FuQldpX0dD?oc=5",
+  "media": "20minutes.fr",
+  "date": "2026-11-10T05:42:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5271,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.334,
+   "matieres_premieres_aromatiques": 0.5271,
+   "tendances_gout_odorat": 0.3935,
+   "mouvements_entreprises_ff": 0.3782,
+   "hors_perimetre": 0.4128
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

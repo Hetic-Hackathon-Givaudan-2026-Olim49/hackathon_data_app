@@ -1,0 +1,436 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "7c6495ad7a2aca78",
+  "titre": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5",
+  "media": "capital.fr",
+  "date": "2026-11-07T11:39:01Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.6007,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.42,
+   "matieres_premieres_aromatiques": 0.6007,
+   "tendances_gout_odorat": 0.4534,
+   "mouvements_entreprises_ff": 0.4964,
+   "hors_perimetre": 0.4208
+  }
+ },
+ "analyse": {
+  "faits": [
+   {
+    "enonce": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+    "citation": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+   }
+  ],
+  "hypotheses": {
+   "resume": "Les hausses du café et du chocolat pourraient pousser les clients à chercher des alternatives ou à réduire les coûts de formulation.",
+   "chaine_impact": [
+    {
+     "fait": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "consequence": "Pression sur les coûts de formulation pour les produits contenant ces matières premières.",
+     "impact_sensoriel": "Risque de modification du profil aromatique ou de texture si des substituts sont utilisés."
+    }
+   ],
+   "categories_produits": [
+    "cafe_the",
+    "confiserie_chocolat",
+    "boissons_sans_alcool"
+   ],
+   "pays": [
+    "FR",
+    "UE"
+   ],
+   "ingredients_notes": [
+    "café",
+    "chocolat"
+   ],
+   "confiance": "moyen"
+  }
+ },
+ "entreprises": [
+  {
+   "nom": "Nestlé",
+   "raison": "Catégories communes : Café et thé (7 produits sur 105 échantillonnés), Confiserie et chocolat (17 produits sur 105 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+   "source": "https://world.openfoodfacts.org/brand/nestle",
+   "categories": [
+    "cafe_the",
+    "confiserie_chocolat"
+   ],
+   "pays": [],
+   "score": 2.692
+  },
+  {
+   "nom": "Unilever",
+   "raison": "Catégories communes : Café et thé (9 produits sur 200 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+   "source": "https://world.openfoodfacts.org/brand/unilever",
+   "categories": [
+    "cafe_the",
+    "boissons_sans_alcool"
+   ],
+   "pays": [],
+   "score": 2.568
+  },
+  {
+   "nom": "Monster Beverage",
+   "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (74 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+   "source": "https://world.openfoodfacts.org/brand/monster-energy",
+   "categories": [
+    "boissons_sans_alcool"
+   ],
+   "pays": [],
+   "score": 2.117
+  },
+  {
+   "nom": "Lindt & Sprüngli",
+   "raison": "Catégories communes : Confiserie et chocolat (72 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+   "source": "https://world.openfoodfacts.org/brand/lindt",
+   "categories": [
+    "confiserie_chocolat"
+   ],
+   "pays": [],
+   "score": 2.1
+  },
+  {
+   "nom": "The Coca-Cola Company",
+   "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (58 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+   "source": "https://world.openfoodfacts.org/brand/coca-cola",
+   "categories": [
+    "boissons_sans_alcool"
+   ],
+   "pays": [],
+   "score": 1.983
+  }
+ ],
+ "fiches": [
+  {
+   "id": "7c6495ad7a2aca78--nestle",
+   "signal": {
+    "titre": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+    "media": "capital.fr",
+    "date": "2026-11-07T11:39:01Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6007,
+   "ce_que_ca_implique": "Les hausses du café et du chocolat pourraient pousser les clients à chercher des alternatives ou à réduire les coûts de formulation.",
+   "faits": [
+    {
+     "enonce": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "citation": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "consequence": "Pression sur les coûts de formulation pour les produits contenant ces matières premières.",
+     "impact_sensoriel": "Risque de modification du profil aromatique ou de texture si des substituts sont utilisés."
+    }
+   ],
+   "entreprise": {
+    "nom": "Nestlé",
+    "raison": "Catégories communes : Café et thé (7 produits sur 105 échantillonnés), Confiserie et chocolat (17 produits sur 105 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/nestle",
+    "categories": [
+     "cafe_the",
+     "confiserie_chocolat"
+    ],
+    "pays": [],
+    "score": 2.692
+   },
+   "opportunite": {
+    "entreprise": "Nestlé",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Nestlé pourrait être amenée à substituer une partie de son café ou de son chocolat pour réduire les coûts de formulation.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont les produits de votre gamme contenant du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme contenant du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "capital.fr — Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Nestlé (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/nestle"
+    }
+   ]
+  },
+  {
+   "id": "7c6495ad7a2aca78--unilever",
+   "signal": {
+    "titre": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+    "media": "capital.fr",
+    "date": "2026-11-07T11:39:01Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6007,
+   "ce_que_ca_implique": "Les hausses du café et du chocolat pourraient pousser les clients à chercher des alternatives ou à réduire les coûts de formulation.",
+   "faits": [
+    {
+     "enonce": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "citation": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "consequence": "Pression sur les coûts de formulation pour les produits contenant ces matières premières.",
+     "impact_sensoriel": "Risque de modification du profil aromatique ou de texture si des substituts sont utilisés."
+    }
+   ],
+   "entreprise": {
+    "nom": "Unilever",
+    "raison": "Catégories communes : Café et thé (9 produits sur 200 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/unilever",
+    "categories": [
+     "cafe_the",
+     "boissons_sans_alcool"
+    ],
+    "pays": [],
+    "score": 2.568
+   },
+   "opportunite": {
+    "entreprise": "Unilever",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Unilever pourrait chercher des alternatives au café ou au chocolat pour atténuer l'impact des hausses de coûts.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur exposition aux hausses ? ",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur exposition aux hausses ? ",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "capital.fr — Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Unilever (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/unilever"
+    }
+   ]
+  },
+  {
+   "id": "7c6495ad7a2aca78--monster-beverage",
+   "signal": {
+    "titre": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+    "media": "capital.fr",
+    "date": "2026-11-07T11:39:01Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6007,
+   "ce_que_ca_implique": "Les hausses du café et du chocolat pourraient pousser les clients à chercher des alternatives ou à réduire les coûts de formulation.",
+   "faits": [
+    {
+     "enonce": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "citation": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "consequence": "Pression sur les coûts de formulation pour les produits contenant ces matières premières.",
+     "impact_sensoriel": "Risque de modification du profil aromatique ou de texture si des substituts sont utilisés."
+    }
+   ],
+   "entreprise": {
+    "nom": "Monster Beverage",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (74 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/monster-energy",
+    "categories": [
+     "boissons_sans_alcool"
+    ],
+    "pays": [],
+    "score": 2.117
+   },
+   "opportunite": {
+    "entreprise": "Monster Beverage",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Monster Beverage pourrait être amenée à substituer une partie de son café ou de son chocolat pour réduire les coûts de formulation.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "capital.fr — Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Monster Beverage (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/monster-energy"
+    }
+   ]
+  },
+  {
+   "id": "7c6495ad7a2aca78--lindt-sprungli",
+   "signal": {
+    "titre": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+    "media": "capital.fr",
+    "date": "2026-11-07T11:39:01Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6007,
+   "ce_que_ca_implique": "Les hausses du café et du chocolat pourraient pousser les clients à chercher des alternatives ou à réduire les coûts de formulation.",
+   "faits": [
+    {
+     "enonce": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "citation": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "consequence": "Pression sur les coûts de formulation pour les produits contenant ces matières premières.",
+     "impact_sensoriel": "Risque de modification du profil aromatique ou de texture si des substituts sont utilisés."
+    }
+   ],
+   "entreprise": {
+    "nom": "Lindt & Sprüngli",
+    "raison": "Catégories communes : Confiserie et chocolat (72 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/lindt",
+    "categories": [
+     "confiserie_chocolat"
+    ],
+    "pays": [],
+    "score": 2.1
+   },
+   "opportunite": {
+    "entreprise": "Lindt & Sprüngli",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Lindt & Sprüngli pourrait être amenée à substituer une partie de son café ou de son chocolat pour atténuer l'impact des hausses de coûts.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur exposition aux hausses ? ",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur exposition aux hausses ? ",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "capital.fr — Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Lindt & Sprüngli (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/lindt"
+    }
+   ]
+  },
+  {
+   "id": "7c6495ad7a2aca78--the-coca-cola-company",
+   "signal": {
+    "titre": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+    "media": "capital.fr",
+    "date": "2026-11-07T11:39:01Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6007,
+   "ce_que_ca_implique": "Les hausses du café et du chocolat pourraient pousser les clients à chercher des alternatives ou à réduire les coûts de formulation.",
+   "faits": [
+    {
+     "enonce": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "citation": "Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Thierry Cotillard alerte sur des hausses «délirantes» de café et de chocolat.",
+     "consequence": "Pression sur les coûts de formulation pour les produits contenant ces matières premières.",
+     "impact_sensoriel": "Risque de modification du profil aromatique ou de texture si des substituts sont utilisés."
+    }
+   ],
+   "entreprise": {
+    "nom": "The Coca-Cola Company",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (58 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/coca-cola",
+    "categories": [
+     "boissons_sans_alcool"
+    ],
+    "pays": [],
+    "score": 1.983
+   },
+   "opportunite": {
+    "entreprise": "The Coca-Cola Company",
+    "type_opportunite": "substitution_ingredient",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "The Coca-Cola Company pourrait être amenée à substituer une partie de son café ou de son chocolat pour réduire les coûts de formulation.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre gamme contiennent du café ou du chocolat, et comment évaluez-vous leur vulnérabilité aux hausses ? ",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "capital.fr — Café, chocolat, des hausses «délirantes» réclamées sur vos courses, alerte Thierry Cotillard, patron d’Intermarché",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlRaYVpRSFNHb2F2Q25fWVhKWWZ6amJNaDF5M0Z4aE1veWFKNjd5c1FDa1lHbVJGV1NmMVNVVHJWWTJZOFY5WWhUSnVoR3dlWFlHbEhCLXNwMEtQdGdYT1hjOFZRVTNtMDhGNW5LVzVCdDhQVllZZ1ZrQ0NISmhrS2gwMWZrVnlBYnF4QnJXcTdpVTNpd3ktSkVENkRHaHVvSzZDVmdNZE1tYU1YZDJSWERndm9TQnNsZHV5RlVYMGJGdXFyY2ljdFRVeEhmUEpYb3IzdWl4Z1ZVV2k2?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence The Coca-Cola Company (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/coca-cola"
+    }
+   ]
+  }
+ ],
+ "diagnostic": {
+  "json_valides": 3,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": "titre",
+  "duree_s": null
+ }
+}

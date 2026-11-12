@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "6a5e87415f6e312f",
+  "titre": "Donnez du goût à l’innovation chez Jean Niel - L’interview de Christine Capponi",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlRYTTZpdm1razJYbzZPZTdCY3BDallsbU5zZDh0MzZVbHR6cndlUElKTE9RcVRLam5vQ0JmeUppTDFNZDJYZGcxUjA2OXJ0MHVOSkstQzg0VWxacXlTRjRzQVZPLVJlVDlGNXRFWGM5ZzhMd1A5TlVteTRkRlJ2QmRMN2FreXVpNkc4ZHpxN1V3aHlOazQzakkwVExmX1g1M1p2NjlNb1hnakc5MFo5anV1bw?oc=5",
+  "media": "mondedesgrandesecoles.fr",
+  "date": "2026-11-09T09:25:18Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "tendances_gout_odorat",
+  "score": 0.4619,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3736,
+   "matieres_premieres_aromatiques": 0.3484,
+   "tendances_gout_odorat": 0.4619,
+   "mouvements_entreprises_ff": 0.4189,
+   "hors_perimetre": 0.4074
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

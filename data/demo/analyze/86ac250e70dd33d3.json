@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "86ac250e70dd33d3",
+  "titre": "Le régulateur britannique de la concurrence exprime des réserves sur la cession des activités alimentaires d’Unilever à McCormick",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU2E0SVRXX3RRYmxkWlR6SHZlUlNMLVVFdmFKcEM4alFqRzdjbHlqenlyQl9FX1FMZm5YYnc1OWxGUFNzT1c5TjRPanI2czRiNEhZY2pRR2c0QWNaOTZFd0lUWVJXT2VaalZtM0lERFdhXzZfUV9abFBwbnFWYmM0aVRxemo0Nm1aaFpmQlpDaTBFSGFzdzRTTUVneWdFYTdOXzlVa1lRb3YtQW1GWUU2ZnR5alpZUGV6eFFHOUx0Wl9YVDB6emliOXdLZDhUNWlGejF1ZElDRTEzckxJLWdvRXB6T1g1U2JXZy1BbTU3VGcwdw?oc=5",
+  "media": "ch.zonebourse.com",
+  "date": "2026-11-11T07:50:20Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.4673,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4388,
+   "matieres_premieres_aromatiques": 0.4054,
+   "tendances_gout_odorat": 0.4021,
+   "mouvements_entreprises_ff": 0.4673,
+   "hors_perimetre": 0.34
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

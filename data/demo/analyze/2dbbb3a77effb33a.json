@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "2dbbb3a77effb33a",
+  "titre": "Cacao: la production ivoirienne pourrait chuter jusqu'à 25% sous l'effet d'El Niño",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFBsVmZLNkhQbzFERmhJLUZ6REFwLWpaOVRGSlpyMHNtU2VvcDM3VUFZR1pGU2VDZlhvVGtsMXdldm5PSFlTU2d4YkRKYUsyTlh1d0xTMHZMcE1fR1Y1RlRmMU55cjE1R0tkdHRYVWo5elYyMGxlUDVaRk5WU2FxNjUzSnQzczhlblprd1NNc3pkWnFtVjZ2T3NrRWF0WXNpMHpWT1Zn?oc=5",
+  "media": "agra.fr",
+  "date": "2026-11-10T15:34:42Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5098,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3677,
+   "matieres_premieres_aromatiques": 0.5098,
+   "tendances_gout_odorat": 0.3723,
+   "mouvements_entreprises_ff": 0.4092,
+   "hors_perimetre": 0.3599
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

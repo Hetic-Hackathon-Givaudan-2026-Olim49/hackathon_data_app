@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "ab1037533abb958b",
+  "titre": "Côte d’Ivoire : Le phénomène El Niño menace de réduire la production de cacao de 25 %",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSGVDR2FOVDJpb2JtZUxLSktseHpXZm1UcGZwMGhHTkZMX3RQbVU2eV9sVzl4ZTRVYUVqUGZKOGpGd1NucHFyY01hLWdtMlhVdG1HSlJRSHU3XzNlVnk2aEhENm9mZWRreUNMQ2M5UUxBNFFlcFhQMGN0MGhremN5TW50Z3hKcnZCTHIxTmdadTZqZExtRGRHN2FtMEtSb1hZWmRRaWtHRk9NNzJwRHIxbXlQS01xV1hDbF9PdGY5TQ?oc=5",
+  "media": "sahel-intelligence.com",
+  "date": "2026-11-11T11:20:38Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5187,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3727,
+   "matieres_premieres_aromatiques": 0.5187,
+   "tendances_gout_odorat": 0.3669,
+   "mouvements_entreprises_ff": 0.3937,
+   "hors_perimetre": 0.3473
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

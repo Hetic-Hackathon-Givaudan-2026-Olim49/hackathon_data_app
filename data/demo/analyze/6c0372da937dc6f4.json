@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "6c0372da937dc6f4",
+  "titre": "Aliments “sans additifs” : méfiez-vous des mentions faussement rassurantes",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVjZkT1RrVDJGREtyWVVrd1BXUUFEdm1helJqSXNFc3JYbEVTaVEtLUR4NHpuYWpzZ3ZSUjRSanpwWFp5alVBNEdQc2s2YjdDWmtWS2xrcnZURW5NUV84YVM3QmVqZnNVYnV4MjJkdkpLcnJCd0pfanNrY0t4NU9TNk03UERidw?oc=5",
+  "media": "mutualistes.com",
+  "date": "2026-11-05T15:29:05Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "reglementation_sensorielle",
+  "score": 0.523,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.523,
+   "matieres_premieres_aromatiques": 0.3792,
+   "tendances_gout_odorat": 0.449,
+   "mouvements_entreprises_ff": 0.4381,
+   "hors_perimetre": 0.3288
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

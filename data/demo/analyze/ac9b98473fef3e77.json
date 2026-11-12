@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "ac9b98473fef3e77",
+  "titre": "Yunnan : Baoshan accélère la transformation et la modernisation de son industrie caféière",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xWlpXZE5IQ2tpMFN2cnE3aFRHSXFaREd1a0FLUGxHYzRQaVp3U0xKX0JZSS1iRjdiM0lOYXdFOXJreXQtYnNWb3RQalgwaF9XQTNacXc5Yk9CXzFIUjlEZXIyWWViUHZXVGxuQzQtMWNCbFFENHQwWA?oc=5",
+  "media": "french.china.org.cn",
+  "date": "2026-11-12T08:43:33Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "tendances_gout_odorat",
+  "score": 0.4155,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3285,
+   "matieres_premieres_aromatiques": 0.3924,
+   "tendances_gout_odorat": 0.4155,
+   "mouvements_entreprises_ff": 0.4114,
+   "hors_perimetre": 0.37
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

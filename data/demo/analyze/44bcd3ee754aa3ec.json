@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "44bcd3ee754aa3ec",
+  "titre": "Côte d'Ivoire. \"Super El Niño\" : la production de cacao menacée, \"un manque à gagner colossal\" redouté",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYzY0aDJ4eW9NelRkUHFPcXJ4Y29GMGE3R1gzaGNySFhDNFpaUG9WLThDcndjVFJET2NmSE4yVFBxWW5xTjYySFRvUHJFY1NmMDZVbzdSeElfVnl4NEExVXB2OVlTQ2xwWEZpV0FhWXdsY2FWR2loTGRnaE4wOW9jRHp0VnloZEFEQ2hJVVpfS1Y2X0ZuLXdMQjV6dUpkeEhKby1DSE9Cek9SYXVLR3BKNzZ3d1NYeUNJYnJGem1FNThYckY3WnoxVjJBR2NOaHdlbEEtVEN3?oc=5",
+  "media": "africaradio.com",
+  "date": "2026-11-10T14:25:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5044,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3345,
+   "matieres_premieres_aromatiques": 0.5044,
+   "tendances_gout_odorat": 0.3422,
+   "mouvements_entreprises_ff": 0.4084,
+   "hors_perimetre": 0.3133
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "fdca766b38464e65",
+  "titre": "Ces biscuits vendus comme \"bons pour la santé\" réservent quelques surprises : il faut se méfier de ces 2 marques, alerte 60 Millions de consommateurs",
+  "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQWXdXejhUbXVTbVlsbEdrSWZFZHp0X0s4VE9RVkx6YTVSRDJNVWVXS1F2RzVTSjdiY3FSY25ENjdmenhCN1kxQ0JKRU9kR3VqRXhEX3RzS3g3bm1PX0g2OE5MeWxaaUMwX3cwY01hbTNCck9adFVyRWpJd3BJbDJUTDlXYWJ4dERaZVJrOTY2Z2haTXNpQkhwU1c2N1ZRVXFiN1RXQlZXeWEwcExMZ3h6VmhiRzV0NG9UTG5RNVZHSkhKM2txYUsxVGtMd2NrRjVlcUhwTkdPY0FzX2VvOHY3WGRTQllTZThkaVFNRE82bXUxSzVuQlFGZG8yblB1N2ZXYVhEQ3UxUzlpU0lJaXdtV1Q4blR6Y25jMGZlT1pVb1BoTzltcVNQQ2dQeEFuUE96aHNJUV9zLW1SMkhQVnFQSUo1OHdVZG8?oc=5",
+  "media": "topsante.com",
+  "date": "2026-11-08T11:04:20Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "tendances_gout_odorat",
+  "score": 0.4588,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4416,
+   "matieres_premieres_aromatiques": 0.3687,
+   "tendances_gout_odorat": 0.4588,
+   "mouvements_entreprises_ff": 0.4462,
+   "hors_perimetre": 0.3396
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

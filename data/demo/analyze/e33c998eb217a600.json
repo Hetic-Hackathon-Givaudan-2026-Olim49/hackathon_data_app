@@ -1,0 +1,453 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "e33c998eb217a600",
+  "titre": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5",
+  "media": "newsdeconso.fr",
+  "date": "2026-11-11T09:11:57Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "reglementation_sensorielle",
+  "score": 0.5749,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.5749,
+   "matieres_premieres_aromatiques": 0.502,
+   "tendances_gout_odorat": 0.5613,
+   "mouvements_entreprises_ff": 0.4919,
+   "hors_perimetre": 0.3638
+  }
+ },
+ "analyse": {
+  "faits": [
+   {
+    "enonce": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+    "citation": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+   }
+  ],
+  "hypotheses": {
+   "resume": "Les colorants et arômes pourraient être évalués plus strictement dans le cadre des étiquetages nutritionnels, pouvant influencer les formulations et les stratégies marketing.",
+   "chaine_impact": [
+    {
+     "fait": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "consequence": "Renforcement des exigences réglementaires sur les additifs, pouvant affecter les formulations et les étiquetages.",
+     "impact_sensoriel": "Possibilité de réduction de l'utilisation de certains colorants/arômes, impactant la couleur, l'odeur et le goût des produits."
+    }
+   ],
+   "categories_produits": [
+    "boissons_sans_alcool",
+    "boissons_alcoolisees",
+    "produits_laitiers",
+    "glaces_desserts",
+    "confiserie_chocolat",
+    "parfumerie_fine",
+    "soins_visage_corps"
+   ],
+   "pays": [
+    "MONDE"
+   ],
+   "ingredients_notes": [
+    "colorants",
+    "arômes"
+   ],
+   "confiance": "moyen"
+  }
+ },
+ "entreprises": [
+  {
+   "nom": "Andros",
+   "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (11 produits sur 100 échantillonnés), Produits laitiers (yaourts, fromages, laits) (3 produits sur 100 échantillonnés), Glaces et desserts (54 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+   "source": "https://world.openfoodfacts.org/brand/andros",
+   "categories": [
+    "boissons_sans_alcool",
+    "produits_laitiers",
+    "glaces_desserts"
+   ],
+   "pays": [],
+   "score": 4.067
+  },
+  {
+   "nom": "Nestlé",
+   "raison": "Catégories communes : Produits laitiers (yaourts, fromages, laits) (19 produits sur 105 échantillonnés), Glaces et desserts (26 produits sur 105 échantillonnés), Confiserie et chocolat (17 produits sur 105 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+   "source": "https://world.openfoodfacts.org/brand/nestle",
+   "categories": [
+    "produits_laitiers",
+    "glaces_desserts",
+    "confiserie_chocolat"
+   ],
+   "pays": [],
+   "score": 3.996
+  },
+  {
+   "nom": "Danone",
+   "raison": "Catégories communes : Produits laitiers (yaourts, fromages, laits) (87 produits sur 100 échantillonnés), Glaces et desserts (88 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+   "source": "https://world.openfoodfacts.org/brand/danone",
+   "categories": [
+    "produits_laitiers",
+    "glaces_desserts"
+   ],
+   "pays": [],
+   "score": 3.958
+  },
+  {
+   "nom": "Mondelēz International",
+   "raison": "Catégories communes : Produits laitiers (yaourts, fromages, laits) (3 produits sur 100 échantillonnés), Glaces et desserts (7 produits sur 100 échantillonnés), Confiserie et chocolat (27 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+   "source": "https://world.openfoodfacts.org/brand/mondelez",
+   "categories": [
+    "produits_laitiers",
+    "glaces_desserts",
+    "confiserie_chocolat"
+   ],
+   "pays": [],
+   "score": 3.808
+  },
+  {
+   "nom": "Unilever",
+   "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés), Glaces et desserts (33 produits sur 200 échantillonnés), Soins du visage et du corps, maquillage (6 produits sur 200 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+   "source": "https://world.openfoodfacts.org/brand/unilever",
+   "categories": [
+    "boissons_sans_alcool",
+    "glaces_desserts",
+    "soins_visage_corps"
+   ],
+   "pays": [],
+   "score": 3.705
+  }
+ ],
+ "fiches": [
+  {
+   "id": "e33c998eb217a600--andros",
+   "signal": {
+    "titre": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+    "media": "newsdeconso.fr",
+    "date": "2026-11-11T09:11:57Z",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+   },
+   "famille": "reglementation_sensorielle",
+   "score_filtre": 0.5749,
+   "ce_que_ca_implique": "Les colorants et arômes pourraient être évalués plus strictement dans le cadre des étiquetages nutritionnels, pouvant influencer les formulations et les stratégies marketing.",
+   "faits": [
+    {
+     "enonce": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "citation": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "consequence": "Renforcement des exigences réglementaires sur les additifs, pouvant affecter les formulations et les étiquetages.",
+     "impact_sensoriel": "Possibilité de réduction de l'utilisation de certains colorants/arômes, impactant la couleur, l'odeur et le goût des produits."
+    }
+   ],
+   "entreprise": {
+    "nom": "Andros",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (11 produits sur 100 échantillonnés), Produits laitiers (yaourts, fromages, laits) (3 produits sur 100 échantillonnés), Glaces et desserts (54 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/andros",
+    "categories": [
+     "boissons_sans_alcool",
+     "produits_laitiers",
+     "glaces_desserts"
+    ],
+    "pays": [],
+    "score": 4.067
+   },
+   "opportunite": {
+    "entreprise": "Andros",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Andros pourrait être amené à reformuler certains de ses produits pour s'adapter aux nouvelles exigences réglementaires liées aux arômes et colorants.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "newsdeconso.fr — L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Andros (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/andros"
+    }
+   ]
+  },
+  {
+   "id": "e33c998eb217a600--nestle",
+   "signal": {
+    "titre": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+    "media": "newsdeconso.fr",
+    "date": "2026-11-11T09:11:57Z",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+   },
+   "famille": "reglementation_sensorielle",
+   "score_filtre": 0.5749,
+   "ce_que_ca_implique": "Les colorants et arômes pourraient être évalués plus strictement dans le cadre des étiquetages nutritionnels, pouvant influencer les formulations et les stratégies marketing.",
+   "faits": [
+    {
+     "enonce": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "citation": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "consequence": "Renforcement des exigences réglementaires sur les additifs, pouvant affecter les formulations et les étiquetages.",
+     "impact_sensoriel": "Possibilité de réduction de l'utilisation de certains colorants/arômes, impactant la couleur, l'odeur et le goût des produits."
+    }
+   ],
+   "entreprise": {
+    "nom": "Nestlé",
+    "raison": "Catégories communes : Produits laitiers (yaourts, fromages, laits) (19 produits sur 105 échantillonnés), Glaces et desserts (26 produits sur 105 échantillonnés), Confiserie et chocolat (17 produits sur 105 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/nestle",
+    "categories": [
+     "produits_laitiers",
+     "glaces_desserts",
+     "confiserie_chocolat"
+    ],
+    "pays": [],
+    "score": 3.996
+   },
+   "opportunite": {
+    "entreprise": "Nestlé",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Nestlé pourrait être contraint de réviser ses formulations pour répondre aux critères de profilage nutritionnel plus stricts.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels produits de votre portefeuille contiennent des arômes ou colorants, et comment prévoyez-vous de les ajuster ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre portefeuille contiennent des arômes ou colorants, et comment prévoyez-vous de les ajuster ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "newsdeconso.fr — L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Nestlé (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/nestle"
+    }
+   ]
+  },
+  {
+   "id": "e33c998eb217a600--danone",
+   "signal": {
+    "titre": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+    "media": "newsdeconso.fr",
+    "date": "2026-11-11T09:11:57Z",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+   },
+   "famille": "reglementation_sensorielle",
+   "score_filtre": 0.5749,
+   "ce_que_ca_implique": "Les colorants et arômes pourraient être évalués plus strictement dans le cadre des étiquetages nutritionnels, pouvant influencer les formulations et les stratégies marketing.",
+   "faits": [
+    {
+     "enonce": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "citation": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "consequence": "Renforcement des exigences réglementaires sur les additifs, pouvant affecter les formulations et les étiquetages.",
+     "impact_sensoriel": "Possibilité de réduction de l'utilisation de certains colorants/arômes, impactant la couleur, l'odeur et le goût des produits."
+    }
+   ],
+   "entreprise": {
+    "nom": "Danone",
+    "raison": "Catégories communes : Produits laitiers (yaourts, fromages, laits) (87 produits sur 100 échantillonnés), Glaces et desserts (88 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/danone",
+    "categories": [
+     "produits_laitiers",
+     "glaces_desserts"
+    ],
+    "pays": [],
+    "score": 3.958
+   },
+   "opportunite": {
+    "entreprise": "Danone",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Danone pourrait être amené à réévaluer l'utilisation de certains arômes et colorants dans ses produits laitiers et desserts.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "newsdeconso.fr — L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Danone (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/danone"
+    }
+   ]
+  },
+  {
+   "id": "e33c998eb217a600--mondelez-international",
+   "signal": {
+    "titre": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+    "media": "newsdeconso.fr",
+    "date": "2026-11-11T09:11:57Z",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+   },
+   "famille": "reglementation_sensorielle",
+   "score_filtre": 0.5749,
+   "ce_que_ca_implique": "Les colorants et arômes pourraient être évalués plus strictement dans le cadre des étiquetages nutritionnels, pouvant influencer les formulations et les stratégies marketing.",
+   "faits": [
+    {
+     "enonce": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "citation": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "consequence": "Renforcement des exigences réglementaires sur les additifs, pouvant affecter les formulations et les étiquetages.",
+     "impact_sensoriel": "Possibilité de réduction de l'utilisation de certains colorants/arômes, impactant la couleur, l'odeur et le goût des produits."
+    }
+   ],
+   "entreprise": {
+    "nom": "Mondelēz International",
+    "raison": "Catégories communes : Produits laitiers (yaourts, fromages, laits) (3 produits sur 100 échantillonnés), Glaces et desserts (7 produits sur 100 échantillonnés), Confiserie et chocolat (27 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/mondelez",
+    "categories": [
+     "produits_laitiers",
+     "glaces_desserts",
+     "confiserie_chocolat"
+    ],
+    "pays": [],
+    "score": 3.808
+   },
+   "opportunite": {
+    "entreprise": "Mondelēz International",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Mondelēz International pourrait devoir réviser ses formulations de confiserie et desserts pour s'aligner sur les nouvelles normes de profilage nutritionnel.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels produits de votre gamme contiennent des arômes ou colorants, et comment prévoyez-vous de les ajuster ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels produits de votre gamme contiennent des arômes ou colorants, et comment prévoyez-vous de les ajuster ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "newsdeconso.fr — L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Mondelēz International (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/mondelez"
+    }
+   ]
+  },
+  {
+   "id": "e33c998eb217a600--unilever",
+   "signal": {
+    "titre": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+    "media": "newsdeconso.fr",
+    "date": "2026-11-11T09:11:57Z",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+   },
+   "famille": "reglementation_sensorielle",
+   "score_filtre": 0.5749,
+   "ce_que_ca_implique": "Les colorants et arômes pourraient être évalués plus strictement dans le cadre des étiquetages nutritionnels, pouvant influencer les formulations et les stratégies marketing.",
+   "faits": [
+    {
+     "enonce": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "citation": "L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'OMS souhaite inclure les colorants et arômes alimentaires dans ses critères de profilage nutritionnel.",
+     "consequence": "Renforcement des exigences réglementaires sur les additifs, pouvant affecter les formulations et les étiquetages.",
+     "impact_sensoriel": "Possibilité de réduction de l'utilisation de certains colorants/arômes, impactant la couleur, l'odeur et le goût des produits."
+    }
+   ],
+   "entreprise": {
+    "nom": "Unilever",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés), Glaces et desserts (33 produits sur 200 échantillonnés), Soins du visage et du corps, maquillage (6 produits sur 200 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/unilever",
+    "categories": [
+     "boissons_sans_alcool",
+     "glaces_desserts",
+     "soins_visage_corps"
+    ],
+    "pays": [],
+    "score": 3.705
+   },
+   "opportunite": {
+    "entreprise": "Unilever",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Unilever pourrait être contraint de réviser l'utilisation de certains arômes et colorants dans ses produits laitiers et desserts.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme qui utilisent des arômes ou colorants, et comment envisagez-vous leur adaptation ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "newsdeconso.fr — L’OMS veut intégrer les colorants et arômes alimentaires dans ses critères de profilage nutritionnel",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR25xU3loLUdVbExqNGd2ZWlkRnQ2UkdaTjVrRkEyUTZkRXdlUDg5RVJnSjYyME9YdEFRZkhpU2t0aWdxNnc4SGdHaWFVYU1qemxpbkJrenAwaWRJVG11cElIT1hKem1Ba3JSTjB0Rk5UUDUybGZFaHpMMTdZYS12QTJfVWo0Y282d1p4Tk1FUGxqeEduOHFiMDQ0RWFBYzVxVU02RUh2dXlXNFVHYUFRY0lmcGNXRHo3OXZneHdlTXNjbEc5NldQb1JWdEdKT0E?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Unilever (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/unilever"
+    }
+   ]
+  }
+ ],
+ "diagnostic": {
+  "json_valides": 3,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": "titre",
+  "duree_s": null
+ }
+}

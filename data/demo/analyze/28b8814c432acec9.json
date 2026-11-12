@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "28b8814c432acec9",
+  "titre": "Compléments de curcuma : quels effets sur la santé ?",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQkpxdWFzY2RQNDJsblpIcFd2MGdMOE5pUXhqbXRhNXhTOG51cmc4NFg5RzFrN1FJS0U0MHZHdDFSMEFZQkpVaTZxTGExdjJPekRqNkp5V1ZicWJVOXdNRk9aeWZ6d2drTDgtOFpJNW9sTnA1V05fWWZDMUUwM1RJYURVRDNpb1dpN3F6c3FpOFZaTHBNSW1HWjZrYy1LRVVXWXpMUVlBcXZ3Ty1LVHdtLWI3N2xRUzJWRnpjSm1rakFnaVplX0hJQXZHOUQxa2t1a0ZEMA?oc=5",
+  "media": "topsante.com",
+  "date": "2026-11-12T07:25:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "tendances_gout_odorat",
+  "score": 0.4668,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3932,
+   "matieres_premieres_aromatiques": 0.4036,
+   "tendances_gout_odorat": 0.4668,
+   "mouvements_entreprises_ff": 0.3585,
+   "hors_perimetre": 0.3225
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

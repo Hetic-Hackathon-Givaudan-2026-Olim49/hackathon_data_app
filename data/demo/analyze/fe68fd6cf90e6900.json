@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "fe68fd6cf90e6900",
+  "titre": "L'autorité de régulation britannique exige des mesures correctives en matière de concurrence dans le cadre de",
+  "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPWnRPbnNhX3FHSlZmWnY5Q0Vaanc3QzA4TU91V0l6dFdKb05wdF9IcC1fV1FnNDRaV1daYnFjNWR2SkZpbkQ4Ujk0UEhkSzJhSUx2VnBMbWpQWVZnRi1Kd0hCdDQtTjB6QUVrZm9sbFg5Rm1JeGVQNmlmbVRXWmpvSGxQRTMwYS1TRldQWTBtY1FIUzA2dzZHNnhzWUY2OHYwRDdQcnV2TUd2T3VtY05fUFp1VXFVNTVGQ3RPb000Z1lTSWFVVlVWTEtVX01YT3N5ZmNoTk5ONVpfYzFCUzFZTDZsR3JHbGVvcmtwRW9raFVMWEdMMGdUWnlNV0xBNkJHaE93NVZpVEVyWmM3ZTRQbjlBUkcyN05rSDZ6LUJaZ2tWRlg4eHJ2RnJWMjBST09tLWtvYkR3aWNMaDd2ZFVGNENubUxMTFpjd0ZZcFJuUkw3emhfX2ZsMFJfYVU4LUJySGVoc2lGSk9qUHVtSTVEcVlybmVsb1ljRURNNG1qWDhscGVJY0JVQWRfWnY3R0RhX3l30gGTA0FVX3lxTE9adE9uc2FfcUdKVmZadjlDRVpqdzdDMDhNT3VXSXp0V0pvTnB0X0hwLV9XUWc0NFpXV1picWM1ZHZKRmluRDhSOTRQSGRLMmFJTHZWcExtalBZVmdGLUp3SEJ0NC1OMHpBRWtmb2xsWDlGbUl4ZVA2aWZtVFdaam9IbFBFMzBhLVNGV1BZMG1jUUhTMDZ3Nkc2eHNZRjY4djBEN1BydXZNR3ZPdW1jTl9QWnVVcVU1NUZDdE9vTTRnWVNJYVVWVVZMS1VfTVhPc3lmY2hOTk41Wl9jMUJTMVlMNmxHckdsZW9ya3BFb2toVUxYR0wwZ1RaeU1XTEE2QkdoT3c1VmlURXJaYzdlNFBuOUFSRzI3TmtINnotQlpna1ZGWDh4cnZGclYyMFJPT20ta29iRHdpY0xoN3ZkVUY0Q25tTExMWmN3RllwUm5STDd6aF9fZmwwUl9hVTgtQnJIZWhzaUZKT2pQdW1JNURxWXJuZWxvWWNFRE00bWpYOGxwZUljQlVBZF9adjdHRGFfeXc?oc=5",
+  "media": "boursorama.com",
+  "date": "2026-11-11T15:19:43Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "reglementation_sensorielle",
+  "score": 0.4921,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4921,
+   "matieres_premieres_aromatiques": 0.4643,
+   "tendances_gout_odorat": 0.4532,
+   "mouvements_entreprises_ff": 0.4374,
+   "hors_perimetre": 0.4318
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

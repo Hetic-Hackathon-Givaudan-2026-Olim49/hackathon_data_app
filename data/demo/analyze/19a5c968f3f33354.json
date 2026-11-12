@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "19a5c968f3f33354",
+  "titre": "Campagne agrumicole 2026-2027 : la filière résiste, malgré un recul attendu de 20% de la production",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQWJ1aUpGWElhWHNramNBcVl0bUluVW9ybTNSY2d2RElmNU1yRVU3V1BXTWVTNWN3em9CbDRsSm1sbmNuV2JpNnlobUNzOXQxNy1OZG1QQTBKQ0pXc1JUaU5qQkpZeWFMR3UweFE3a3FBd0x3eGFkZlkwakpZUmJrMmxwalM1MXNtaGV5a2xSendzWDhYUXVDODJlOGhacElRYmttNFVZeWRDUFpaSnFSeU5UMVpLRXJqNEZNTDZnVEpMZUJtTURyWUJtazF4eGhKZUE?oc=5",
+  "media": "medias24.com",
+  "date": "2026-11-08T14:38:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.4306,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3326,
+   "matieres_premieres_aromatiques": 0.4306,
+   "tendances_gout_odorat": 0.408,
+   "mouvements_entreprises_ff": 0.4083,
+   "hors_perimetre": 0.3227
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

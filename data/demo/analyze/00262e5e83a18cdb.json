@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "00262e5e83a18cdb",
+  "titre": "Grève des salariés de Nestlé-Lactalis à Cuincy : la production de l’usine est à l’arrêt",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FYjRKV0IyckdXNlE0Vmstc2prdkthQTIzNTRUR19RV2lURmU5MHh3THJIRGNWaWZ5Q1JtaWtpRWRUNzF3ckFJNkxDcFVuWmI0Vk9iMzVURk5VQXdHUEwtTGZOdTA2czViWVBPTUNrSlc?oc=5",
+  "media": "lobservateur.fr",
+  "date": "2026-11-05T14:11:14Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.4687,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4086,
+   "matieres_premieres_aromatiques": 0.4131,
+   "tendances_gout_odorat": 0.368,
+   "mouvements_entreprises_ff": 0.4687,
+   "hors_perimetre": 0.3501
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

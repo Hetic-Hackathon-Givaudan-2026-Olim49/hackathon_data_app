@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "d6b7a736156425ad",
+  "titre": "Collagène marin : lequel choisir ? Notre comparatif (19 analysés)",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1haDNUb0QzN1d4Y29aVXkyaVB3OW1oQ2J3SndNMDQ4Q1VvZlZqa3dmRExsNTUxUXFVLXJBUlM0ZjBQWWJ3eDdCeThZeVNYNEt3ZkE?oc=5",
+  "media": "touteslesbox.fr",
+  "date": "2026-11-12T09:47:28Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "tendances_gout_odorat",
+  "score": 0.343,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3117,
+   "matieres_premieres_aromatiques": 0.2789,
+   "tendances_gout_odorat": 0.343,
+   "mouvements_entreprises_ff": 0.3201,
+   "hors_perimetre": 0.3135
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "e123c69a1ee7ad53",
+  "titre": "\"Additive washing\" : ces emballages alimentaires qui peuvent induire les consommateurs en erreur",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZFNYVmlOaHJvbFlVbTZhOXhZV1FjVi1FUHI1c0F2N3UwSGI2bFpfQTFvYnItbVR4a0xSbnZGeGRyZkw3VUxhaXBQdnVhMDB2V0hqV1FjVFh4MlZsdEctcTFBY2g1QW1jTWxrSjEzVzlvSE1SRHZLTmZrVno5bVBFRW1SOVNBUEVIUTdwQ3MyR2JLNHJLeWhUSW54QzJBVEhsWXJiS2JMYm5yWGEtMnU3RjFhTU8ydmtoS2xoX3kzNUFIRXdCVl83ajdYdVZQMElJVU1ULVJhRXAwQQ?oc=5",
+  "media": "radio.vinci-autoroutes.com",
+  "date": "2026-11-07T23:50:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "reglementation_sensorielle",
+  "score": 0.531,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.531,
+   "matieres_premieres_aromatiques": 0.4237,
+   "tendances_gout_odorat": 0.4794,
+   "mouvements_entreprises_ff": 0.5055,
+   "hors_perimetre": 0.4186
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

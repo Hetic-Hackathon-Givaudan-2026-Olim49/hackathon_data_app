@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "47686124cc479bdc",
+  "titre": "La tectonique des glaces chez Nestlé et Magnum donne des idées à General Mills pour Häagen-Dazs",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSGktUUlBcXlOTGszNDhMMHpabHhTcDhVcUkxUGgzMFpDdmpPc2g2RlFEemhiZXBpd2pYZE1VWDZ0cDN6aHFkT25RY3lTUF8zLTdHd3NxVHNrakp6amlzQS12YTZjQ2JZZkt1aUhkaDVXaVYtNS1IbklkOENfSmZQOUhiS0RqVUpmeVdraGQ1WUFPcEFUSVFFaTBzZG80WkxuLVI1amNmamRrUEtDM1pvNGlNcUtuRkpBTUZGOXRqTnJoLUllU19ScldHUGpOQ0lSQ203aVJnTGozb1JiZVBud2FGeTZGakpEVjhKdTEzYUJvcjBZZFlXRA?oc=5",
+  "media": "lesechos.fr",
+  "date": "2026-11-06T11:16:35Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.518,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3633,
+   "matieres_premieres_aromatiques": 0.3637,
+   "tendances_gout_odorat": 0.3963,
+   "mouvements_entreprises_ff": 0.518,
+   "hors_perimetre": 0.3354
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

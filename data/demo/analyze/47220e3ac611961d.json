@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "47220e3ac611961d",
+  "titre": "Sa nouvelle plateforme logistique traitera 16% des volumes de Danette, Activia, Alpro en France : Danone double ses capacités de stockage dans le Grand Ouest",
+  "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQeU9HMjVPUnMyYnVkUDJCVWNTMlZOTGRDcUUtdzlCeUFLb3NZNTI0UkFLY1BIajRkVndaZzQ1a2dnOXI5TzR5YUY4emJZdjFGS2NBLV9Jam50Yk1DS1BYWkJGNjlKR0JZUFMtdUFNZXJSb3NzcWdfbl9CX2Uya3FzRjFDb2xDb09fY3hNd2hRQm5BOTFMeDRNMVFCMTE1NWFQaE9IQWUxTjBpREhpcFJjaW5SRjh3NzlpSE5xQ2RxQnVvQlNuNUF3clRPMWs2VEY4bUdjV1pzNS1qSENkTW5SdTJ6RmdZazg3RUFFODBJQ0dLblJrMzdNV3dIUm9ZaGh3MUYtX05HSTFZOTlaalJXVTdWeldDSHl4azJVRlAwaVA2MWJ1Uk9xaE10Z25UX1J4Y3VaMFRVRXY4a3FzN0hRcFZSNER0NjFUZWFWdmFROUhnTlNhZ3c?oc=5",
+  "media": "usinenouvelle.com",
+  "date": "2026-11-10T17:30:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.5142,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.391,
+   "matieres_premieres_aromatiques": 0.4099,
+   "tendances_gout_odorat": 0.4275,
+   "mouvements_entreprises_ff": 0.5142,
+   "hors_perimetre": 0.3766
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

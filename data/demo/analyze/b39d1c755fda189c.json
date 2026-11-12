@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "b39d1c755fda189c",
+  "titre": "La maison mère des cosmétiques Bourjois, Rimmel et Marc Jacobs va supprimer 155 de ses 200 emplois en France",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWJWbG82cEc4aXZmNG1ETFBpZmJEQlJZZGhsVnBCNnJoQXVlNWNmVnFKRjBRVFd0MHdLZEw3c1RnT3huS1BzVXVRdTdoMncwT1FSRzlodVM0b1FxblFrTjlQNkJzQm55TG9OUVRKby1peUNyTG04X0hyTlZZdHc2RGs2bFZjRXhxVG40MHlnN2M0UUha?oc=5",
+  "media": "fr.news.yahoo.com",
+  "date": "2026-11-06T16:17:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.4664,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4595,
+   "matieres_premieres_aromatiques": 0.4011,
+   "tendances_gout_odorat": 0.4171,
+   "mouvements_entreprises_ff": 0.4664,
+   "hors_perimetre": 0.3653
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

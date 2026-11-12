@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "3e382e973aebe7f1",
+  "titre": "Amazon n'attend pas le début du Black Friday pour pulvériser le prix de cette machine à café Krups",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc295eG52QXgyT3FTZlgwbWlocUttOXVyV3RUeHpTeUtlZGJnZjZDZmdwVWxja2g1cGRYVThNNnVPQVI2Mm1JbEU1Y0QySHpSX2xFMUswcU9rWTFIRmpibVJnSU1QZ0VWeEJxcHVoaFEtS3Z0MjFWY1d2TlZVM1hSaXpVbTBuTXdTT2NRdVdqUHR6bV9SckVrRkZMZE4zc0pLM2tWOGF0d0txV2dGaWE4T19hZDhaRE5ncm1UaTB6U0cyLUhha2hoOV9OYjY3RklMQ25Rd3RtLXBrOU03T2c?oc=5",
+  "media": "ladepeche.fr",
+  "date": "2026-11-12T05:42:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5094,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3609,
+   "matieres_premieres_aromatiques": 0.5094,
+   "tendances_gout_odorat": 0.4195,
+   "mouvements_entreprises_ff": 0.4315,
+   "hors_perimetre": 0.4383
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "86ef61985e5754f1",
+  "titre": "Alerte chez E. Leclerc : ne consommez pas ces cordons bleus Côté Croc, un risque d'allergie détecté",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSEhQMmZHOGtZQ3R0NG1XbWlNVE1sOFFsNjNXRnZpdGxzTExDVFpuM2JJZTdERXpBaGxLdGVPdTVoM1VDcGJ5Tl83am96RFVLYi1QX21hUGxCeExQQk54dldYZ1FNTnVXLWlxNHFQcXdlU0ZlMVVhT1hkVjNmZzY3eFB5VVV2Ull1VVN2ZUltLWhoNDA0U2ljV0RVSTU2VTVHdXRuYnFVcFZmQ09pamRvZ0k0NGlLaWY3WlVjZkVob25KX21venNXSTlQSnY3eWhPLUUtUmV3UTlETlhpdXFqVFRMSmxZSEpSSXF5UUZoS194R3M?oc=5",
+  "media": "doctissimo.fr",
+  "date": "2026-11-12T11:17:43Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "reglementation_sensorielle",
+  "score": 0.46,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.46,
+   "matieres_premieres_aromatiques": 0.3707,
+   "tendances_gout_odorat": 0.3841,
+   "mouvements_entreprises_ff": 0.382,
+   "hors_perimetre": 0.4065
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

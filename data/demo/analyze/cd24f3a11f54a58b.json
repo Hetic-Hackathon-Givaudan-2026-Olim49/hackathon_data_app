@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "cd24f3a11f54a58b",
+  "titre": "L’entreprise agroalimentaire NESTLÉ recrute pour ces postes – 05 novembre 2026",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3JIby0weDRxSmRwbG5oanNONXNQZVNrNG5VZk1yZW13czNDTVhQbjlBSGNyRWpRN0VMWldWOVdaTG0wUEpYX3NXMklvQ253NUFjMTdVNjBLQkwzTGpGbVFfU3pwaHc0RUg2YVh0M2hKOFRPZldaV0F2bEFLTEVfb2pUajhBYU80S0FpTGRrbnZuYW1JWmtuUC1MUi1aVVMt?oc=5",
+  "media": "yop.l-frii.com",
+  "date": "2026-11-05T22:20:48Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "reglementation_sensorielle",
+  "score": 0.4637,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4637,
+   "matieres_premieres_aromatiques": 0.374,
+   "tendances_gout_odorat": 0.4188,
+   "mouvements_entreprises_ff": 0.438,
+   "hors_perimetre": 0.3787
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "ab09a41afaa403fd",
+  "titre": "Rappel de produit : attention, ces cordons-bleus de dinde vendus par E.Leclerc ne doivent pas être consommés",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRDR0NElMU1F4aURUd0tubnFLVnhrSmlRcjRETnpyWmJKYm1pbmFiU1g0TmtKMDlwSTRSa21hcEIzRHp6X2hiYVNkTUU3UV9wUHFTa2NCSE95cVBGeGN1ei1DYmp3QjduU1ROTDRVMGVpNFdNMWNXaGNFcm5xRXdtUHN5ZnhsRFpTZjN2bi1ua1Rsc1ZJRk9KRnZXMldLc2FjZ3hFTURiRndEdDNVVWFWenVlNW1YZ9IBuwFBVV95cUxOMGpKdVVzMk9YZzhXSXE1X3Boc1R3ZVRiUFFnTVdxUFVLVmEyQnNvQVV2R09lNDRvbWJ1c2dNR3FOMm84QjhyRlEtbVp5LXVrVXpDUVZFcnZwaUl5OVQycWtCMnBIOXVFWjlDYkNYOWQ0SDZ0b1R1NlAxdG5DajJyS3VQeTFEYWx3ZksxZnZlaVBMREJBWVAyclYzVXhhMlBLdzNmTE1mVVdZb2ZlNnZqN1AtakJkRDBpTzQ4?oc=5",
+  "media": "cnews.fr",
+  "date": "2026-11-11T11:20:59Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "reglementation_sensorielle",
+  "score": 0.495,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.495,
+   "matieres_premieres_aromatiques": 0.3673,
+   "tendances_gout_odorat": 0.3834,
+   "mouvements_entreprises_ff": 0.4108,
+   "hors_perimetre": 0.3289
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

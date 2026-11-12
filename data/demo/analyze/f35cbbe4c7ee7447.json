@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "f35cbbe4c7ee7447",
+  "titre": "Une chocolaterie de Douarnenez remporte la tablette d’or, un prix départageant 200 artisans",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObU5rUWJzRmlPUU03ejNUbk9nUmVESC0wbXVCOWZTOWNXc2xleUNmcXdOLVJHWEcwQ1d1QThsMlJNWlVsTEFZMThqLVpfemlVanQ2OExyTFNvTkJweXdrM05qTjhBVUJwME1hd21LclNEckF0UTh1RWRQaHA5SWdaRXpoOGlsYmRrM1dUSGN5NFZhSTVlcGphc2lHc0RCdTdqeGN2aHAxOXhOVGVvWlVIRVlBZjJBRWtfYWxYdVBfZFlJVzJLOHoxUUFja2dzYTJsbTNNQXRqZ0pFY1pfQ3lVaTFDOTV1UG96Z3VTR0tMZkJHbEhxSjFRaUFNOFR2OVRiRzltSVB3Wkx3NVdO?oc=5",
+  "media": "ouest-france.fr",
+  "date": "2026-11-10T18:30:15Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.3933,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.351,
+   "matieres_premieres_aromatiques": 0.3933,
+   "tendances_gout_odorat": 0.3729,
+   "mouvements_entreprises_ff": 0.3755,
+   "hors_perimetre": 0.3876
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

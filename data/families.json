@@ -1,0 +1,128 @@
+{
+  "_doc": "Descriptions de référence des 4 familles (étape 2) et requêtes GDELT par défaut (étape 1). Les descriptions sont rédigées comme des titres d'actualité, car le filtre compare des titres. Score d'une actualité pour une famille = similarité maximale avec ses descriptions, dans les langues activées (NEWS_LANGUAGES). Après modification : relancer `python -m veille.filter --reindex`. La clé `hors_perimetre` sert de contre-exemple : une actualité n'est retenue que si sa meilleure famille dépasse le seuil ET le score hors périmètre.",
+  "reglementation_sensorielle": {
+    "libelle": "Réglementation sensorielle",
+    "descriptions": {
+      "french": [
+        "L'Union européenne interdit ou restreint un additif, un arôme ou un colorant alimentaire",
+        "Nouvelle réglementation sur les allergènes de parfum dans les cosmétiques",
+        "Taxe sur les boissons sucrées et objectifs de réduction du sucre et du sel",
+        "L'EFSA ou l'ANSES réévalue la sécurité d'un édulcorant ou d'un arôme",
+        "Nouvelles règles d'étiquetage nutritionnel et Nutri-Score pour les produits alimentaires",
+        "Interdiction d'un ingrédient parfumant ou d'un conservateur dans les produits d'hygiène"
+      ],
+      "english": [
+        "EU bans or restricts a food additive, flavouring or colouring",
+        "New regulation on fragrance allergens in cosmetics",
+        "Sugar tax on soft drinks and salt and sugar reduction targets",
+        "EFSA or FDA reassesses the safety of a sweetener or flavouring",
+        "New nutrition labelling rules and front-of-pack labels for food",
+        "Ban on a fragrance ingredient or preservative in personal care products"
+      ]
+    },
+    "requetes_gdelt": {
+      "french": "(arôme OR arômes OR additif OR édulcorant OR allergène OR colorant OR cosmétiques) (interdiction OR réglementation OR règlement OR EFSA OR ANSES OR étiquetage)",
+      "english": "(flavouring OR flavoring OR additive OR sweetener OR allergen OR cosmetics OR fragrance) (ban OR regulation OR EFSA OR FDA OR labelling OR labeling)"
+    }
+  },
+  "matieres_premieres_aromatiques": {
+    "libelle": "Matières premières aromatiques",
+    "descriptions": {
+      "french": [
+        "Le prix de la vanille, du cacao ou du café atteint un niveau record",
+        "Mauvaise récolte d'agrumes et pénurie d'huiles essentielles",
+        "Sécheresse et climat menacent la production de menthe, de lavande ou de rose",
+        "Flambée des cours des matières premières agricoles utilisées en parfumerie et en alimentation",
+        "Madagascar, la Côte d'Ivoire ou l'Inde : production en baisse d'une matière première aromatique",
+        "Tensions sur l'approvisionnement en ingrédients naturels pour arômes et parfums"
+      ],
+      "english": [
+        "Vanilla, cocoa or coffee prices hit record high",
+        "Poor citrus harvest and essential oil shortage",
+        "Drought and climate threaten mint, lavender or rose production",
+        "Soaring prices of agricultural raw materials used in fragrance and food",
+        "Madagascar, Ivory Coast or India: falling output of an aromatic crop",
+        "Supply tensions for natural ingredients used in flavours and fragrances"
+      ]
+    },
+    "requetes_gdelt": {
+      "french": "(vanille OR cacao OR café OR agrumes OR menthe OR lavande OR patchouli OR vétiver OR \"huiles essentielles\") (prix OR récolte OR pénurie OR production OR sécheresse)",
+      "english": "(vanilla OR cocoa OR coffee OR citrus OR mint OR lavender OR patchouli OR vetiver OR \"essential oils\") (price OR harvest OR shortage OR production OR drought)"
+    }
+  },
+  "tendances_gout_odorat": {
+    "libelle": "Tendances goût et odorat",
+    "descriptions": {
+      "french": [
+        "Les consommateurs recherchent de nouvelles saveurs et des goûts plus naturels",
+        "Tendance des boissons sans alcool, sans sucre et des saveurs exotiques",
+        "Nouvelle tendance olfactive dans les parfums et les produits de beauté",
+        "Les produits végétaux et les alternatives à la viande doivent améliorer leur goût",
+        "Les marques misent sur des arômes inédits pour séduire la génération Z",
+        "Engouement pour les saveurs épicées, fermentées ou fonctionnelles"
+      ],
+      "english": [
+        "Consumers seek new flavours and more natural tastes",
+        "Trend for alcohol-free, sugar-free drinks and exotic flavours",
+        "New scent trend in perfumes and beauty products",
+        "Plant-based foods and meat alternatives need better taste",
+        "Brands bet on novel flavours to win over Gen Z",
+        "Rising demand for spicy, fermented or functional flavours"
+      ]
+    },
+    "requetes_gdelt": {
+      "french": "(saveur OR saveurs OR goût OR parfums OR fragrance OR olfactive) (tendance OR consommateurs OR engouement OR nouveauté)",
+      "english": "(flavor OR flavour OR taste OR fragrance OR scent) (trend OR consumers OR craze OR launch)"
+    }
+  },
+  "mouvements_entreprises_ff": {
+    "libelle": "Mouvements d'entreprises F&F (agroalimentaire, boissons, cosmétique, parfumerie)",
+    "descriptions": {
+      "french": [
+        "Un géant de l'agroalimentaire rachète une marque de boissons ou de snacks",
+        "Un groupe de cosmétiques acquiert une marque de parfum ou de soins",
+        "Fermeture ou ouverture d'une usine agroalimentaire",
+        "Restructuration et cession d'activités chez un grand groupe de produits de grande consommation",
+        "Une marque de beauté lance une nouvelle gamme de parfums",
+        "Un industriel de l'alimentation annonce une nouvelle gamme de produits",
+        "Un groupe agroalimentaire ou de boissons supprime des emplois ou annonce un plan social",
+        "Nestlé, Danone, Unilever ou PepsiCo réorganise ses marques de glaces, de boissons ou de snacks"
+      ],
+      "english": [
+        "Food giant acquires a beverage or snack brand",
+        "Cosmetics group buys a fragrance or skincare brand",
+        "Food factory closure or new plant opening",
+        "Restructuring and divestment at a major consumer goods company",
+        "Beauty brand launches a new fragrance line",
+        "Food manufacturer announces a new product range",
+        "Food or beverage group cuts jobs or announces layoffs",
+        "Nestle, Danone, Unilever or PepsiCo reshuffles its ice cream, drinks or snacks brands"
+      ]
+    },
+    "requetes_gdelt": {
+      "french": "(Nestlé OR Danone OR Unilever OR Oréal OR PepsiCo OR Lactalis OR Ferrero OR Mondelez OR Pernod OR Coty) (rachat OR acquisition OR cession OR usine OR lancement OR restructuration)",
+      "english": "(Nestle OR Danone OR Unilever OR Oreal OR PepsiCo OR Mondelez OR Ferrero OR Coty OR Estee OR Kraft) (acquisition OR acquire OR divest OR plant OR launch OR restructuring)"
+    }
+  },
+  "hors_perimetre": {
+    "libelle": "Hors périmètre (contre-exemples, jamais retenus)",
+    "descriptions": {
+      "french": [
+        "Une entreprise technologique dévoile un nouveau smartphone ou un logiciel",
+        "Résultat d'un match de football ou d'une compétition sportive",
+        "Élection, gouvernement et débat politique",
+        "Prix de l'énergie, du pétrole et de l'électricité",
+        "Inflation, taux d'intérêt et conjoncture économique générale",
+        "Faits divers, accident, météo et trafic"
+      ],
+      "english": [
+        "Tech company unveils a new smartphone or software",
+        "Football match result or sports competition",
+        "Election, government and political debate",
+        "Energy, oil and electricity prices",
+        "Inflation, interest rates and general economic outlook",
+        "Crime, accident, weather and traffic news"
+      ]
+    }
+  }
+}

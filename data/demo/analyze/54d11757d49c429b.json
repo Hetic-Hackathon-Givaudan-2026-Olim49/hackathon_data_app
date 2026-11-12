@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "54d11757d49c429b",
+  "titre": "Machine à café De'Longhi : Carrefour baisse de 100 euros le prix de ce modèle Magnifica avec broyeur",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnpISTlwYmtQckhuWDRBWWsyek01UDBtaEZsQjU3aGNwaXF1cFRTdUwtcEp6andZZEc2WXZENEZELXk2M1JZcmZzY29pUi1YT3dLOE9RcXdmNzl3N05Oekl3eFJqOUpOWjBqRzF4SmRKUXZJMUFZMk5nM21YN1ZWZGVYUS0zdk5tMDNkTEFiX1g5QmZYd2FKbGlYMzNqamU0VGNhcVRsY0UwRUpHWnljUjIwZHBGTzEzblBHR1V2R24yajBWZ1ljY2F1b1gzdTV0OXJlSXdqeUkyN2pGSzczUlBR?oc=5",
+  "media": "parismatch.com",
+  "date": "2026-11-10T17:17:54Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.3892,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3394,
+   "matieres_premieres_aromatiques": 0.3892,
+   "tendances_gout_odorat": 0.3315,
+   "mouvements_entreprises_ff": 0.3786,
+   "hors_perimetre": 0.3376
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

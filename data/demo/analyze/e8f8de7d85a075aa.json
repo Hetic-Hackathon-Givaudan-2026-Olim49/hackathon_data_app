@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "e8f8de7d85a075aa",
+  "titre": "Clasol augmente sa production d'agrumes de près de 800 hectares",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFd4bmJpbFdZOTFWQmlaNUdkNS1Vd3N3bDUtcm9FMi13N0dKZjQtWFJsNWhXcTdmbVMtQXpidjFOOUc0MmpyNlFZQzB0Smpod0hsdzhCWjVRZHdnNF9mZ010UFNBc2ZYaXYwekx0YVJpVWhLTnA3SmFISG5udW9jQTdrXzNaYkNtYUZqRk1YTGh2cWJleVk5WHgxRGUtbXJRSm0wRFNFU0dUQQ?oc=5",
+  "media": "freshplaza.fr",
+  "date": "2026-11-11T12:47:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.4254,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3465,
+   "matieres_premieres_aromatiques": 0.4254,
+   "tendances_gout_odorat": 0.3659,
+   "mouvements_entreprises_ff": 0.3912,
+   "hors_perimetre": 0.3083
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

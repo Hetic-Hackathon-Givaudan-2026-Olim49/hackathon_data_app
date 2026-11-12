@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "c91f2550bbddd65c",
+  "titre": "Cette machine à café De'Longhi Vertuo passe sous la barre des 50 euros : les stocks fondent à vue d’œil",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbkpfWEREUTAySmpVSzdxc3FvOXdRdEdwcVdTTmhoV3BjYlpwejhBZ043Sl96MHo4VWJfdzczZWFTMWxuU254UHJ6aVRHNGNqQkNQQW5seGtmbjRJcVJjTFBmaDhUUVp0Yk45MWdSWmJaRW1OSld2U1RhcVBqUGZxMVY3dURlMV9BTUpnZEZFcjJYenI2QUNOUDNtT2dyWE8yd2RqMFlob2prWnhjSnhlNU5YREJoUFJRY3pPUVNOTUdMSWdsRDNlZDIxejR0YjJTYTFwMjNnSklDdw?oc=5",
+  "media": "parismatch.com",
+  "date": "2026-11-09T06:00:15Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5149,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3481,
+   "matieres_premieres_aromatiques": 0.5149,
+   "tendances_gout_odorat": 0.3935,
+   "mouvements_entreprises_ff": 0.3977,
+   "hors_perimetre": 0.4102
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

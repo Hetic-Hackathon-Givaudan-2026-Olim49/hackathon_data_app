@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "f46e8af6718472ce",
+  "titre": "Rappel de charcuterie chez E.Leclerc : attention au risque allergène non déclaré",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVXpTeFR5cVRKQ09yT0ZKRFdFWHpXUElXeS1tanp2c0NjM3huNko2d1VldHhVT3ZISS1BaTZZSGQ2aG1hWm9uQWRGMDFoTlVSX3kyRG1waFQtdGgwa0lkTFFQTTRpbElFN1FoVzYyMWdpd05LZ0hzQV85enhZVEIzd25BczZaR2YxN3JmUlV1V09SeERyVEVsREVGT1luNFFpa1pKc2h3U2pja29aemZZRm1yRkVaR3pvUXdGeXMxaFo5OXZCTlE?oc=5",
+  "media": "ohmymag.com",
+  "date": "2026-11-12T11:04:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "reglementation_sensorielle",
+  "score": 0.4916,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4916,
+   "matieres_premieres_aromatiques": 0.3882,
+   "tendances_gout_odorat": 0.3948,
+   "mouvements_entreprises_ff": 0.4613,
+   "hors_perimetre": 0.3464
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

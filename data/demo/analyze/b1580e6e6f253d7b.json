@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "b1580e6e6f253d7b",
+  "titre": "Le groupe de cosmétiques Coty prévoit de supprimer 155 de ses 200 postes en France, selon les syndicats",
+  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSkxwa25FREJ1ZVpvUmExc1FGbU4xN3J3cW90QklaLVpvVHp4aDFIMGVRMFhFV3hlbVU2U1czUmF5dHBsTDhRUE5QdHBoNjh3bmRHd0VQZnBJZVdwNVdlUFhfdXN0QlNHRUwta2VMNlp4TVVXR3lOaTNtTDF0N1NzZVlnZ0tDQWRfeDkyUTd2RnRwbVdHb19DbFFfaktZdUdBTTg4ZllGc2lrSV9JLVkzeF9BbmNrMmtJTnZVTmtYdWtreGV1TkVtbmxTTVc4Q1hvMmVDazJSNkl1OGZJWl9aZmt0SWRSRjFWR3BhWkRNQW94anJndGVHdjlJU3J2T0Y1VG5VTzh3WUZPRWtvRE9tNFJWcHNmbUk?oc=5",
+  "media": "ouest-france.fr",
+  "date": "2026-11-06T13:55:16Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.4768,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4397,
+   "matieres_premieres_aromatiques": 0.3966,
+   "tendances_gout_odorat": 0.38,
+   "mouvements_entreprises_ff": 0.4768,
+   "hors_perimetre": 0.3496
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

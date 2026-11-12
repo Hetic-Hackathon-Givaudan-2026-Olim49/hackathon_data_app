@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "8790a3a59c085652",
+  "titre": "Le groupe de cosmétiques Coty va restructurer ses activités en France",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWHBpV3VwU2Q3VnozamJlR0VYdUJiVVpwTDJ1TmtqVHB5dG80b3UxNWRQVjdCMEdGYjFNM2RXSXlFQUpucjV6dDE2OF9tcUl1M1RMUTFuWXJqZGNtclBqRkktaDdIcUJ4OG8wQXcwUFhRaG4xd01tWms5SUdVX1FINEctcnZxR05aY3hSZEstSWtHQTltbDZPQ1NNRFFkU0VjQlBqUlJyUDlXWVQ2MU50U1hTS3NjMlNKSml1bkdZNDlndUhMc2R0alhSLXhZMzBHQkhYTnN6RTdXbnRnM1RjamVTWWRYQdIB5gFBVV95cUxPWHBpV3VwU2Q3VnozamJlR0VYdUJiVVpwTDJ1TmtqVHB5dG80b3UxNWRQVjdCMEdGYjFNM2RXSXlFQUpucjV6dDE2OF9tcUl1M1RMUTFuWXJqZGNtclBqRkktaDdIcUJ4OG8wQXcwUFhRaG4xd01tWms5SUdVX1FINEctcnZxR05aY3hSZEstSWtHQTltbDZPQ1NNRFFkU0VjQlBqUlJyUDlXWVQ2MU50U1hTS3NjMlNKSml1bkdZNDlndUhMc2R0alhSLXhZMzBHQkhYTnN6RTdXbnRnM1RjamVTWWRYQQ?oc=5",
+  "media": "boursorama.com",
+  "date": "2026-11-10T18:25:22Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.5107,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4897,
+   "matieres_premieres_aromatiques": 0.4267,
+   "tendances_gout_odorat": 0.4561,
+   "mouvements_entreprises_ff": 0.5107,
+   "hors_perimetre": 0.3686
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}
