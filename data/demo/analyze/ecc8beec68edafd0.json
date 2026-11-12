@@ -1,0 +1,444 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "ecc8beec68edafd0",
+  "titre": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5",
+  "media": "agro-media.fr",
+  "date": "2026-11-09T11:31:50Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "tendances_gout_odorat",
+  "score": 0.6535,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.5329,
+   "matieres_premieres_aromatiques": 0.4935,
+   "tendances_gout_odorat": 0.6535,
+   "mouvements_entreprises_ff": 0.5552,
+   "hors_perimetre": 0.435
+  }
+ },
+ "analyse": {
+  "faits": [
+   {
+    "enonce": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+    "citation": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+    "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+   }
+  ],
+  "hypotheses": {
+   "resume": "Les clients doivent anticiper des changements de formulation pour répondre aux attentes en matière de goût et de performance.",
+   "chaine_impact": [
+    {
+     "fait": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "consequence": "Besoin de réévaluer les formulations pour s'adapter aux nouvelles tendances sensorielles.",
+     "impact_sensoriel": "Possibilité de nouveaux profils de goût et d'arômes plus naturels ou innovants."
+    }
+   ],
+   "categories_produits": [
+    "glaces_desserts",
+    "boissons_sans_alcool",
+    "soins_visage_corps",
+    "parfumerie_fine"
+   ],
+   "pays": [
+    "MONDE"
+   ],
+   "ingredients_notes": [
+    "arômes naturels",
+    "arômes innovants"
+   ],
+   "confiance": "moyen"
+  }
+ },
+ "entreprises": [
+  {
+   "nom": "Unilever",
+   "raison": "Catégories communes : Glaces et desserts (33 produits sur 200 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés), Soins du visage et du corps, maquillage (6 produits sur 200 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+   "source": "https://world.openfoodfacts.org/brand/unilever",
+   "categories": [
+    "glaces_desserts",
+    "boissons_sans_alcool",
+    "soins_visage_corps"
+   ],
+   "pays": [],
+   "score": 3.705
+  },
+  {
+   "nom": "Andros",
+   "raison": "Catégories communes : Glaces et desserts (54 produits sur 100 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (11 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+   "source": "https://world.openfoodfacts.org/brand/andros",
+   "categories": [
+    "glaces_desserts",
+    "boissons_sans_alcool"
+   ],
+   "pays": [],
+   "score": 3.042
+  },
+  {
+   "nom": "Coty",
+   "raison": "Catégories communes : Soins du visage et du corps, maquillage (23 produits sur 48 échantillonnés), Parfumerie fine (6 produits sur 48 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+   "source": "https://world.openbeautyfacts.org/brand/coty",
+   "categories": [
+    "soins_visage_corps",
+    "parfumerie_fine"
+   ],
+   "pays": [],
+   "score": 2.926
+  },
+  {
+   "nom": "LVMH (parfums et cosmétiques)",
+   "raison": "Catégories communes : Soins du visage et du corps, maquillage (9 produits sur 60 échantillonnés), Parfumerie fine (15 produits sur 60 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+   "source": "https://world.openbeautyfacts.org/brand/dior",
+   "categories": [
+    "soins_visage_corps",
+    "parfumerie_fine"
+   ],
+   "pays": [],
+   "score": 2.8
+  },
+  {
+   "nom": "Chanel",
+   "raison": "Catégories communes : Soins du visage et du corps, maquillage (5 produits sur 26 échantillonnés), Parfumerie fine (6 produits sur 26 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+   "source": "https://world.openbeautyfacts.org/brand/chanel",
+   "categories": [
+    "soins_visage_corps",
+    "parfumerie_fine"
+   ],
+   "pays": [],
+   "score": 2.739
+  }
+ ],
+ "fiches": [
+  {
+   "id": "ecc8beec68edafd0--unilever",
+   "signal": {
+    "titre": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+    "media": "agro-media.fr",
+    "date": "2026-11-09T11:31:50Z",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.6535,
+   "ce_que_ca_implique": "Les clients doivent anticiper des changements de formulation pour répondre aux attentes en matière de goût et de performance.",
+   "faits": [
+    {
+     "enonce": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "citation": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "consequence": "Besoin de réévaluer les formulations pour s'adapter aux nouvelles tendances sensorielles.",
+     "impact_sensoriel": "Possibilité de nouveaux profils de goût et d'arômes plus naturels ou innovants."
+    }
+   ],
+   "entreprise": {
+    "nom": "Unilever",
+    "raison": "Catégories communes : Glaces et desserts (33 produits sur 200 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés), Soins du visage et du corps, maquillage (6 produits sur 200 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/unilever",
+    "categories": [
+     "glaces_desserts",
+     "boissons_sans_alcool",
+     "soins_visage_corps"
+    ],
+    "pays": [],
+    "score": 3.705
+   },
+   "opportunite": {
+    "entreprise": "Unilever",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Unilever pourrait réévaluer ses formulations de glaces et de boissons sans alcool pour intégrer des arômes innovants tout en maintenant la performance industrielle.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme de glaces et de boissons sans alcool qui pourraient bénéficier d'une réinvention aromatique ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme de glaces et de boissons sans alcool qui pourraient bénéficier d'une réinvention aromatique ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "agro-media.fr — Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Unilever (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/unilever"
+    }
+   ]
+  },
+  {
+   "id": "ecc8beec68edafd0--andros",
+   "signal": {
+    "titre": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+    "media": "agro-media.fr",
+    "date": "2026-11-09T11:31:50Z",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.6535,
+   "ce_que_ca_implique": "Les clients doivent anticiper des changements de formulation pour répondre aux attentes en matière de goût et de performance.",
+   "faits": [
+    {
+     "enonce": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "citation": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "consequence": "Besoin de réévaluer les formulations pour s'adapter aux nouvelles tendances sensorielles.",
+     "impact_sensoriel": "Possibilité de nouveaux profils de goût et d'arômes plus naturels ou innovants."
+    }
+   ],
+   "entreprise": {
+    "nom": "Andros",
+    "raison": "Catégories communes : Glaces et desserts (54 produits sur 100 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (11 produits sur 100 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openfoodfacts.org/brand/andros",
+    "categories": [
+     "glaces_desserts",
+     "boissons_sans_alcool"
+    ],
+    "pays": [],
+    "score": 3.042
+   },
+   "opportunite": {
+    "entreprise": "Andros",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Andros pourrait explorer des alternatives aux arômes traditionnels pour ses glaces et boissons sans alcool, en alignant ses produits avec les tendances sensorielles actuelles.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme de glaces et de boissons sans alcool qui pourraient être réformulés pour intégrer des arômes plus naturels ou innovants ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme de glaces et de boissons sans alcool qui pourraient être réformulés pour intégrer des arômes plus naturels ou innovants ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "agro-media.fr — Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Andros (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/andros"
+    }
+   ]
+  },
+  {
+   "id": "ecc8beec68edafd0--coty",
+   "signal": {
+    "titre": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+    "media": "agro-media.fr",
+    "date": "2026-11-09T11:31:50Z",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.6535,
+   "ce_que_ca_implique": "Les clients doivent anticiper des changements de formulation pour répondre aux attentes en matière de goût et de performance.",
+   "faits": [
+    {
+     "enonce": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "citation": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "consequence": "Besoin de réévaluer les formulations pour s'adapter aux nouvelles tendances sensorielles.",
+     "impact_sensoriel": "Possibilité de nouveaux profils de goût et d'arômes plus naturels ou innovants."
+    }
+   ],
+   "entreprise": {
+    "nom": "Coty",
+    "raison": "Catégories communes : Soins du visage et du corps, maquillage (23 produits sur 48 échantillonnés), Parfumerie fine (6 produits sur 48 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openbeautyfacts.org/brand/coty",
+    "categories": [
+     "soins_visage_corps",
+     "parfumerie_fine"
+    ],
+    "pays": [],
+    "score": 2.926
+   },
+   "opportunite": {
+    "entreprise": "Coty",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Fragrance & Beauty",
+    "hypothese": "Coty pourrait réévaluer ses parfums et cosmétiques pour intégrer des notes aromatiques plus naturelles ou innovantes, tout en maintenant la performance sensorielle.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient bénéficier d'une réinvention aromatique ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient bénéficier d'une réinvention aromatique ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "agro-media.fr — Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Coty (Open Food/Beauty Facts)",
+     "url": "https://world.openbeautyfacts.org/brand/coty"
+    }
+   ]
+  },
+  {
+   "id": "ecc8beec68edafd0--lvmh-parfums-et-cosmetiques",
+   "signal": {
+    "titre": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+    "media": "agro-media.fr",
+    "date": "2026-11-09T11:31:50Z",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.6535,
+   "ce_que_ca_implique": "Les clients doivent anticiper des changements de formulation pour répondre aux attentes en matière de goût et de performance.",
+   "faits": [
+    {
+     "enonce": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "citation": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "consequence": "Besoin de réévaluer les formulations pour s'adapter aux nouvelles tendances sensorielles.",
+     "impact_sensoriel": "Possibilité de nouveaux profils de goût et d'arômes plus naturels ou innovants."
+    }
+   ],
+   "entreprise": {
+    "nom": "LVMH (parfums et cosmétiques)",
+    "raison": "Catégories communes : Soins du visage et du corps, maquillage (9 produits sur 60 échantillonnés), Parfumerie fine (15 produits sur 60 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openbeautyfacts.org/brand/dior",
+    "categories": [
+     "soins_visage_corps",
+     "parfumerie_fine"
+    ],
+    "pays": [],
+    "score": 2.8
+   },
+   "opportunite": {
+    "entreprise": "LVMH (parfums et cosmétiques)",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Fragrance & Beauty",
+    "hypothese": "LVMH pourrait explorer des alternatives aux arômes traditionnels pour ses parfums et cosmétiques, en alignant ses produits avec les tendances sensorielles actuelles.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient être réformulés pour intégrer des arômes plus naturels ou innovants ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient être réformulés pour intégrer des arômes plus naturels ou innovants ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "agro-media.fr — Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence LVMH (parfums et cosmétiques) (Open Food/Beauty Facts)",
+     "url": "https://world.openbeautyfacts.org/brand/dior"
+    }
+   ]
+  },
+  {
+   "id": "ecc8beec68edafd0--chanel",
+   "signal": {
+    "titre": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+    "media": "agro-media.fr",
+    "date": "2026-11-09T11:31:50Z",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.6535,
+   "ce_que_ca_implique": "Les clients doivent anticiper des changements de formulation pour répondre aux attentes en matière de goût et de performance.",
+   "faits": [
+    {
+     "enonce": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "citation": "Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "L'article aborde les alternatives aux arômes alimentaires pour réinventer le goût tout en maintenant la performance industrielle.",
+     "consequence": "Besoin de réévaluer les formulations pour s'adapter aux nouvelles tendances sensorielles.",
+     "impact_sensoriel": "Possibilité de nouveaux profils de goût et d'arômes plus naturels ou innovants."
+    }
+   ],
+   "entreprise": {
+    "nom": "Chanel",
+    "raison": "Catégories communes : Soins du visage et du corps, maquillage (5 produits sur 26 échantillonnés), Parfumerie fine (6 produits sur 26 échantillonnés) ; pays non précisé par l'actualité (impact mondial).",
+    "source": "https://world.openbeautyfacts.org/brand/chanel",
+    "categories": [
+     "soins_visage_corps",
+     "parfumerie_fine"
+    ],
+    "pays": [],
+    "score": 2.739
+   },
+   "opportunite": {
+    "entreprise": "Chanel",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Fragrance & Beauty",
+    "hypothese": "Chanel pourrait réévaluer ses parfums et cosmétiques pour intégrer des notes aromatiques plus naturelles ou innovantes, tout en maintenant la performance sensorielle.",
+    "fenetre_action": "0-12 mois",
+    "question_client": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient bénéficier d'une réinvention aromatique ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme de parfumerie et de soins qui pourraient bénéficier d'une réinvention aromatique ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "agro-media.fr — Arômes alimentaires : Quelles alternatives pour réinventer le goût sans sacrifier la performance industrielle",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHZabW1hSGRGZFpXblB5TWNOakcxa3JLMHBjVnd2MFRfbDctcUllZDJMejBJVXp1RTctSlBzdDZ6bkNRZDlNMFVBMlk5akVnaDg3ODBjOU1rUHZ6Mkl6UGp6eGlPaGFaTk5VdU9OMDVPNk40bGRBY3lNaE94NFY0cFRIZ1ZxTGd4VGdIb01zbWlENVA3a1Bta3NsWERLWlNoMzlyNWpBeVhreWp4QXNHOUJkU3c3VGtha2hfeFROelR4c1QxZG82RkxqQmlqXzg0dzdkRFlRRUZCdGd1bVcyVS1TbERhNmc?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Chanel (Open Food/Beauty Facts)",
+     "url": "https://world.openbeautyfacts.org/brand/chanel"
+    }
+   ]
+  }
+ ],
+ "diagnostic": {
+  "json_valides": 3,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": "titre",
+  "duree_s": null
+ }
+}

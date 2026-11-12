@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "ac7ce11de3f6f1dc",
+  "titre": "Marché des systèmes d'arôme de saumure d'olive à faible teneur en sodium : la demande clean-label soutient la croissance jusqu'en 2035 - Actualités et statistiques",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa2hDa1FxTGN6ZXpXUkM3bkQtUm5hT1JrRTBER1BLc21sUVRvVHo4SVhSSy1GNk5MYzRhT1BZdnRta2hCdW5fX0ZpbENmaFpHcl9rUjlhelRZdTE0eHI4TUI1Y2U0ZmQ2QmxEaGhrWDJvb1R3T3paY3RtMmhVdHNlZjN1OTltZU1odTVtTUZUQ3lvMzZhTjBIdjYwZmFwYVhKdVQ5MGFaT3U2aXhFcmJJZ3hEWUsxeGVlVzhKTDhUSEV1Q1MxRVpqX09yeGFra180OW9fNURrS1VqUVI5ZUd0SXZ2eGZHZ0Z4Ync?oc=5",
+  "media": "indexbox.io",
+  "date": "2026-11-08T04:21:03Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "tendances_gout_odorat",
+  "score": 0.4999,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4324,
+   "matieres_premieres_aromatiques": 0.4481,
+   "tendances_gout_odorat": 0.4999,
+   "mouvements_entreprises_ff": 0.4509,
+   "hors_perimetre": 0.3748
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "d6d3780c11810b2c",
+  "titre": "Rappel alimentaire en Belgique : attention si vous avez acheté ces biscuits, un allergène a été découvert",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yRmRqR1pIZUsycWd4MGhTNGc1V18zbGtMNTBRRml0c0hVeWpJRFItVzNITFViYjJKT1VONm9GaW1sZTk3RW96b2M0bmo4Vnk0SXUyTkJ3T045MVdhc3lvSkNUeF83LU5SVi1RWm5FU01QMG8zT0JyV0xFN3Ntdw?oc=5",
+  "media": "econostrum.info",
+  "date": "2026-11-09T14:05:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "reglementation_sensorielle",
+  "score": 0.5273,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.5273,
+   "matieres_premieres_aromatiques": 0.4276,
+   "tendances_gout_odorat": 0.43,
+   "mouvements_entreprises_ff": 0.461,
+   "hors_perimetre": 0.3579
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

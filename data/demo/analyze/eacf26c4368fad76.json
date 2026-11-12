@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "eacf26c4368fad76",
+  "titre": "« Les jeunes Français n’ont jamais aussi peu fumé… mais il faut faire la guerre à la nicotine » (Mildeca)",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYzQ0NmNVa094aGt3VmRhOHNxQkNJREkxcW9vTUpOb2w1ZnFfRzA5cTJBdnBFeVhMX0FNeDByMGJHUGpUUGlaeDkzNzJaOXVhVllrN1NCR3JjeFBmQzhlSGN5ZEdXNE1vcXZUdlBOb0t2NXlCMHBONTJtVWJoUEtVT29qZzUzMkxOTzVkWkpYNVpEVGVQWlFpdXFUX3Z4WW00dlpYdjZXdFdFenl1OEkxTFhLQVd5Z3VLNjlmOXVQRXNvdm5hbmVMOQ?oc=5",
+  "media": "lemondedutabac.com",
+  "date": "2026-11-10T10:56:40Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "tendances_gout_odorat",
+  "score": 0.4229,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4079,
+   "matieres_premieres_aromatiques": 0.3704,
+   "tendances_gout_odorat": 0.4229,
+   "mouvements_entreprises_ff": 0.355,
+   "hors_perimetre": 0.3644
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

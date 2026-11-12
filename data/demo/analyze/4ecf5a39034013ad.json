@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "4ecf5a39034013ad",
+  "titre": "McCormick : le projet de rachat d'actifs d'Unilever sous surveillance au Royaume-Uni",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZE10cklaZGQ4LWtOX0MydEREQkdra2JKRXNZSVFVRDB6LXRGOWRWNFZ4RkVndnRoYWsxYThQYlZxZjgzblNUVGd2R291V1hVd09EVVFFTlYya2p1YWZXY2pKTkVRcEVtMXhUR0Z3TmNERHJRRkhUU3V6eEZXTFRaaFJoUWlQekQ1ZXVEUkdDQXRINlBhbm9lVDVmeUZhZ3lpT3RhVXNjbWhSa0NkWWdJQkItcWdVVWlFeXhIZWVQZkpoZXBaTGtET09jRXZlV2xZN1VXT3dkeVZqbFgzdVhWUm5lR1pzeGFTN0pnVUFuajk3elFvOXF30gH3AUFVX3lxTE1kTXRySVpkZDgta05fQzJ0RERCR2trYkpFc1lJUVVEMHotdEY5ZFY0VnhGRWd2dGhhazFhOFBiVnFmODNuU1RUZ3ZHb3VXWFV3T0RVUUVOVjJranVhZldjakpORVFwRW0xeFRHRndOY0REclFGSFRTdXp4RldMVFpoUmhRaVB6RDVldURSR0NBdEg2UGFub2VUNWZ5RmFneWlPdGFVc2NtaFJrQ2RZZ0lCQi1xZ1VVaUV5eEhlZVBmSmhlcFpMa0RPT2NFdmVXbFk3VVdPd2R5VmpsWDN1WFZSbmVHWnN4YVM3SmdVQW5qOTd6UW85cXc?oc=5",
+  "media": "boursorama.com",
+  "date": "2026-11-11T11:01:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.444,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3844,
+   "matieres_premieres_aromatiques": 0.3879,
+   "tendances_gout_odorat": 0.3641,
+   "mouvements_entreprises_ff": 0.444,
+   "hors_perimetre": 0.36
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

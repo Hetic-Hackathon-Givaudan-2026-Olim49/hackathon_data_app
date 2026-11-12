@@ -1,0 +1,288 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "742731637bdffd5a",
+  "titre": "Interdire les boissons énergisantes aux moins de 16 ans",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5",
+  "media": "univadis.fr",
+  "date": "2026-11-10T15:13:28Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "tendances_gout_odorat",
+  "score": 0.5364,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.5288,
+   "matieres_premieres_aromatiques": 0.4233,
+   "tendances_gout_odorat": 0.5364,
+   "mouvements_entreprises_ff": 0.4744,
+   "hors_perimetre": 0.4092
+  }
+ },
+ "analyse": {
+  "faits": [
+   {
+    "enonce": "Les boissons énergisantes sont interdites aux moins de 16 ans.",
+    "citation": "Interdire les boissons énergisantes aux moins de 16 ans",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+   }
+  ],
+  "hypotheses": {
+   "resume": "Les marques de boissons énergisantes doivent reformuler ou adapter leur ciblage pour les moins de 16 ans.",
+   "chaine_impact": [
+    {
+     "fait": "Les boissons énergisantes sont interdites aux moins de 16 ans.",
+     "consequence": "Restriction de la commercialisation aux moins de 16 ans, nécessitant une reformulation ou un changement de positionnement.",
+     "impact_sensoriel": "Aucun impact direct sur le goût ou l'odeur, mais possible adaptation de la formulation pour répondre aux normes de sécurité."
+    }
+   ],
+   "categories_produits": [
+    "boissons_alcoolisees",
+    "boissons_sans_alcool"
+   ],
+   "pays": [
+    "UE"
+   ],
+   "ingredients_notes": [
+    "stimulants",
+    "caféine"
+   ],
+   "confiance": "moyen"
+  }
+ },
+ "entreprises": [
+  {
+   "nom": "Heineken",
+   "raison": "Catégories communes : Boissons alcoolisées (bières, spiritueux, vins) (78 produits sur 100 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (10 produits sur 100 échantillonnés) ; commercialisée en DE, ES, FR, IE, IT, NL, PL.",
+   "source": "https://world.openfoodfacts.org/brand/heineken",
+   "categories": [
+    "boissons_alcoolisees",
+    "boissons_sans_alcool"
+   ],
+   "pays": [
+    "DE",
+    "ES",
+    "FR",
+    "IE",
+    "IT",
+    "NL",
+    "PL"
+   ],
+   "score": 3.733
+  },
+  {
+   "nom": "Pernod Ricard",
+   "raison": "Catégories communes : Boissons alcoolisées (bières, spiritueux, vins) (45 produits sur 100 échantillonnés), Boissons sans alcool (sodas, jus, eaux aromatisées) (4 produits sur 100 échantillonnés) ; commercialisée en BE, DE, FR, IE.",
+   "source": "https://world.openfoodfacts.org/brand/pernod-ricard",
+   "categories": [
+    "boissons_alcoolisees",
+    "boissons_sans_alcool"
+   ],
+   "pays": [
+    "BE",
+    "DE",
+    "FR",
+    "IE"
+   ],
+   "score": 3.408
+  },
+  {
+   "nom": "Monster Beverage",
+   "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (74 produits sur 100 échantillonnés) ; commercialisée en DE, ES, FR, IE, SE.",
+   "source": "https://world.openfoodfacts.org/brand/monster-energy",
+   "categories": [
+    "boissons_sans_alcool"
+   ],
+   "pays": [
+    "DE",
+    "ES",
+    "FR",
+    "IE",
+    "SE"
+   ],
+   "score": 2.617
+  },
+  {
+   "nom": "The Coca-Cola Company",
+   "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (58 produits sur 100 échantillonnés) ; commercialisée en BE, DE, ES, FR.",
+   "source": "https://world.openfoodfacts.org/brand/coca-cola",
+   "categories": [
+    "boissons_sans_alcool"
+   ],
+   "pays": [
+    "BE",
+    "DE",
+    "ES",
+    "FR"
+   ],
+   "score": 2.483
+  },
+  {
+   "nom": "AB InBev",
+   "raison": "Catégories communes : Boissons alcoolisées (bières, spiritueux, vins) (56 produits sur 100 échantillonnés) ; commercialisée en BE, DE, ES, FR, IT, NL.",
+   "source": "https://world.openfoodfacts.org/brand/ab-inbev",
+   "categories": [
+    "boissons_alcoolisees"
+   ],
+   "pays": [
+    "BE",
+    "DE",
+    "ES",
+    "FR",
+    "IT",
+    "NL"
+   ],
+   "score": 2.467
+  }
+ ],
+ "fiches": [
+  {
+   "id": "742731637bdffd5a--monster-beverage",
+   "signal": {
+    "titre": "Interdire les boissons énergisantes aux moins de 16 ans",
+    "media": "univadis.fr",
+    "date": "2026-11-10T15:13:28Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.5364,
+   "ce_que_ca_implique": "Les marques de boissons énergisantes doivent reformuler ou adapter leur ciblage pour les moins de 16 ans.",
+   "faits": [
+    {
+     "enonce": "Les boissons énergisantes sont interdites aux moins de 16 ans.",
+     "citation": "Interdire les boissons énergisantes aux moins de 16 ans",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Les boissons énergisantes sont interdites aux moins de 16 ans.",
+     "consequence": "Restriction de la commercialisation aux moins de 16 ans, nécessitant une reformulation ou un changement de positionnement.",
+     "impact_sensoriel": "Aucun impact direct sur le goût ou l'odeur, mais possible adaptation de la formulation pour répondre aux normes de sécurité."
+    }
+   ],
+   "entreprise": {
+    "nom": "Monster Beverage",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (74 produits sur 100 échantillonnés) ; commercialisée en DE, ES, FR, IE, SE.",
+    "source": "https://world.openfoodfacts.org/brand/monster-energy",
+    "categories": [
+     "boissons_sans_alcool"
+    ],
+    "pays": [
+     "DE",
+     "ES",
+     "FR",
+     "IE",
+     "SE"
+    ],
+    "score": 2.617
+   },
+   "opportunite": {
+    "entreprise": "Monster Beverage",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Monster Beverage pourrait être amenée à reformuler certains de ses produits sans alcool pour s'adapter à la réglementation sur les boissons énergisantes.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont les produits de votre gamme sans alcool qui pourraient être affectés par cette réglementation ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme sans alcool qui pourraient être affectés par cette réglementation ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "univadis.fr — Interdire les boissons énergisantes aux moins de 16 ans",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Monster Beverage (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/monster-energy"
+    }
+   ]
+  },
+  {
+   "id": "742731637bdffd5a--the-coca-cola-company",
+   "signal": {
+    "titre": "Interdire les boissons énergisantes aux moins de 16 ans",
+    "media": "univadis.fr",
+    "date": "2026-11-10T15:13:28Z",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+   },
+   "famille": "tendances_gout_odorat",
+   "score_filtre": 0.5364,
+   "ce_que_ca_implique": "Les marques de boissons énergisantes doivent reformuler ou adapter leur ciblage pour les moins de 16 ans.",
+   "faits": [
+    {
+     "enonce": "Les boissons énergisantes sont interdites aux moins de 16 ans.",
+     "citation": "Interdire les boissons énergisantes aux moins de 16 ans",
+     "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Les boissons énergisantes sont interdites aux moins de 16 ans.",
+     "consequence": "Restriction de la commercialisation aux moins de 16 ans, nécessitant une reformulation ou un changement de positionnement.",
+     "impact_sensoriel": "Aucun impact direct sur le goût ou l'odeur, mais possible adaptation de la formulation pour répondre aux normes de sécurité."
+    }
+   ],
+   "entreprise": {
+    "nom": "The Coca-Cola Company",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (58 produits sur 100 échantillonnés) ; commercialisée en BE, DE, ES, FR.",
+    "source": "https://world.openfoodfacts.org/brand/coca-cola",
+    "categories": [
+     "boissons_sans_alcool"
+    ],
+    "pays": [
+     "BE",
+     "DE",
+     "ES",
+     "FR"
+    ],
+    "score": 2.483
+   },
+   "opportunite": {
+    "entreprise": "The Coca-Cola Company",
+    "type_opportunite": "reformulation",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "The Coca-Cola Company pourrait être amenée à reformuler certains de ses produits sans alcool pour s'adapter à la réglementation sur les boissons énergisantes.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont les produits de votre gamme sans alcool qui pourraient être affectés par cette réglementation ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont les produits de votre gamme sans alcool qui pourraient être affectés par cette réglementation ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "univadis.fr — Interdire les boissons énergisantes aux moins de 16 ans",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFXMVVPRHpoeU9WMnlrd0hpdEdUUm1aWUgxejBUbTV1UkJfR1ZueklhYV9KbnRLU3pxaDA3LTduM1VyeU1SNy1BZ3d3OThfdlVOY2JNVTl1QkFDS3pfOWo0aTFJY0Y5M3FQdUxlRm45NzNUcDdHNHJTX3JZNS1uTVFqMHh4Y2w0SGRyeS1rQnNYM3gxSEo1aFE4cTN2c1ltX1kwOFhZbVdQS0RJbF9zYmpZLTJrQ1NMaVZ3Qm40NGRBLVFfR1ZvVTBsRG5yeVhJbGo0LXRQZ05GeWYx?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence The Coca-Cola Company (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/coca-cola"
+    }
+   ]
+  }
+ ],
+ "diagnostic": {
+  "json_valides": 3,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": "titre",
+  "duree_s": null
+ }
+}

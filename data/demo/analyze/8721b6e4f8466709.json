@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "8721b6e4f8466709",
+  "titre": "Le groupe de cosmétiques Coty prévoit 155 suppressions de postes sur 200 en France (sources syndicales)",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PRzNISjZMbXZRN0NQYjdkd21KVzRadWpHU3ZpTzVoVWItNDhXa2M4U1VCZHZhSDhUOXpPU0JfeGtTNENrYXBfYzFFODRXYW5kZmQ1eThvczI3RU8wU21scjVaRQ?oc=5",
+  "media": "tradingview.com",
+  "date": "2026-11-06T14:46:22Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.4831,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4422,
+   "matieres_premieres_aromatiques": 0.4128,
+   "tendances_gout_odorat": 0.3882,
+   "mouvements_entreprises_ff": 0.4831,
+   "hors_perimetre": 0.3672
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

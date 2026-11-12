@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "7a3fd82feb7c39cf",
+  "titre": "PepsiCo supprime un millier d’emplois suite à un revers aux États-Unis",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVZzLURRQ2NZN09xcVQ5d2J6X3pUTzJvOXJJZ1lSaWNBUjlPdk9QTjFrV2JJOTc4LU9NQ2dUVnFuemduWG1Oel9iOXdpNWphLXU4d0RDdzFPWVUtX2IzbGl0ZnJpRmFXTG1yWkttZGxJMXI2SXpGNjFoZ3dzeXlxLVJNVTFjb3FhdE8zSHpkeFprbHRJVHVvT3A1WVMyXzctcjJBZkxud1VoSkNpak5lZA?oc=5",
+  "media": "retaildetail.be",
+  "date": "2026-11-10T13:23:21Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.4877,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3944,
+   "matieres_premieres_aromatiques": 0.3807,
+   "tendances_gout_odorat": 0.3787,
+   "mouvements_entreprises_ff": 0.4877,
+   "hors_perimetre": 0.3648
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

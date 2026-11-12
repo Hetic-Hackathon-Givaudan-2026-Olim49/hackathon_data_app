@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "9c6a7e7c64188587",
+  "titre": "Café de l’éco Alpes : de la production à la transformation, la souveraineté alimentaire passe par le collectif",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTTUyQnJ6VnQzNEo4Y1dvSTJUVERkdVByNGxMdnVfeEZQM0wwNkpZQVRMNUpBNENUQTZvUHhkeVl6VGJvUWQyOWpvQkxpTjl6aGRBdkNBVTdxVkZUbFZTZFQ3eGJjY0l1M1V3dUZDTTN1ODVmemZOUmYweUdxUXF3dG9WLWpFMXBGMlVRNzN2dnQ5VU1Ga1gtV3l3NWw0djB4WjFpWEhwdUpOOVExLTBadGRQSU53cHJwa19IQTF4d054OV9TYW9JYzdjTDhwNEYtVjhGcVN1STBHU25fOTkwbUUtdXpQRTRhYmlmSmZJRWczNDZkMzI2Vg?oc=5",
+  "media": "laprovence.com",
+  "date": "2026-11-06T18:52:48Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "tendances_gout_odorat",
+  "score": 0.45,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.377,
+   "matieres_premieres_aromatiques": 0.403,
+   "tendances_gout_odorat": 0.45,
+   "mouvements_entreprises_ff": 0.4388,
+   "hors_perimetre": 0.3245
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

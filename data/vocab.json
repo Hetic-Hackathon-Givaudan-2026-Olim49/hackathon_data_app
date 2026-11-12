@@ -1,0 +1,257 @@
+{
+ "_doc": "Vocabulaire contrôlé partagé par l'étape 3 (le LLM ne peut choisir que ces valeurs, imposées par JSON Schema) et l'étape 4 (jointure déterministe). `division` = division Givaudan la plus concernée par la catégorie. Pays : codes ISO 3166-1 alpha-2, plus les régions UE et MONDE.",
+ "categories": {
+  "boissons_sans_alcool": {
+   "libelle": "Boissons sans alcool (sodas, jus, eaux aromatisées)",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:non-alcoholic-beverages",
+    "en:sodas",
+    "en:carbonated-drinks",
+    "en:energy-drinks",
+    "en:iced-teas",
+    "en:juices-and-nectars",
+    "en:fruit-juices",
+    "en:flavored-waters",
+    "en:waters",
+    "en:soft-drinks"
+   ]
+  },
+  "boissons_alcoolisees": {
+   "libelle": "Boissons alcoolisées (bières, spiritueux, vins)",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:alcoholic-beverages",
+    "en:beers",
+    "en:spirits",
+    "en:wines",
+    "en:ciders",
+    "en:liqueurs",
+    "en:whiskies",
+    "en:vodkas",
+    "en:rums"
+   ]
+  },
+  "cafe_the": {
+   "libelle": "Café et thé",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:coffees",
+    "en:teas"
+   ]
+  },
+  "produits_laitiers": {
+   "libelle": "Produits laitiers (yaourts, fromages, laits)",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:dairies",
+    "en:yogurts",
+    "en:cheeses"
+   ]
+  },
+  "glaces_desserts": {
+   "libelle": "Glaces et desserts",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:ice-creams",
+    "en:desserts"
+   ]
+  },
+  "confiserie_chocolat": {
+   "libelle": "Confiserie et chocolat",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:chocolates",
+    "en:confectioneries",
+    "en:candies"
+   ]
+  },
+  "biscuits_snacks": {
+   "libelle": "Biscuits, snacks salés et sucrés",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:biscuits",
+    "en:salty-snacks",
+    "en:chips-and-fries",
+    "en:snacks"
+   ]
+  },
+  "cereales_petit_dejeuner": {
+   "libelle": "Céréales du petit-déjeuner",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:breakfast-cereals"
+   ]
+  },
+  "plats_prepares_sauces": {
+   "libelle": "Plats préparés, soupes, sauces et condiments",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:meals",
+    "en:soups",
+    "en:sauces",
+    "en:condiments"
+   ]
+  },
+  "alternatives_vegetales": {
+   "libelle": "Alternatives végétales (lait, viande)",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:meat-analogues",
+    "en:plant-based-milk-alternatives",
+    "en:dairy-substitutes",
+    "en:meat-alternatives",
+    "en:plant-based-yogurt-alternatives",
+    "en:milk-substitutes"
+   ]
+  },
+  "nutrition_infantile_sante": {
+   "libelle": "Nutrition infantile, médicale et compléments",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:baby-foods",
+    "en:dietary-supplements"
+   ]
+  },
+  "aliments_animaux": {
+   "libelle": "Aliments pour animaux",
+   "division": "Taste & Wellbeing",
+   "off": [
+    "en:pet-food"
+   ]
+  },
+  "parfumerie_fine": {
+   "libelle": "Parfumerie fine",
+   "division": "Fragrance & Beauty",
+   "off": [
+    "en:perfumes",
+    "en:fragrances",
+    "en:eau-de-parfum",
+    "en:eau-de-toilette",
+    "en:perfume",
+    "en:fragrance"
+   ]
+  },
+  "soins_visage_corps": {
+   "libelle": "Soins du visage et du corps, maquillage",
+   "division": "Fragrance & Beauty",
+   "off": [
+    "en:skin-care",
+    "en:body-care",
+    "en:make-up",
+    "en:makeup",
+    "en:face",
+    "en:face-makeup",
+    "en:facial-creams",
+    "en:body",
+    "en:body-creams",
+    "en:hand-creams",
+    "en:suncare",
+    "en:sunscreen",
+    "en:in-sun-protections",
+    "en:skincare",
+    "en:lip-care",
+    "en:eye-makeup",
+    "en:lipsticks",
+    "en:moisturizers"
+   ]
+  },
+  "hygiene_capillaire": {
+   "libelle": "Hygiène, gels douche, shampoings, déodorants, dentifrices",
+   "division": "Fragrance & Beauty",
+   "off": [
+    "en:shower-gels",
+    "en:shampoos",
+    "en:deodorants",
+    "en:toothpastes",
+    "en:hair",
+    "en:hygiene",
+    "en:soaps",
+    "en:hair-care",
+    "en:conditioners",
+    "en:hair-dyes",
+    "en:oral-care",
+    "en:toothpaste",
+    "en:mouthwashes",
+    "en:shower-gel",
+    "en:deodorant"
+   ]
+  },
+  "entretien_maison": {
+   "libelle": "Entretien de la maison (lessives, nettoyants, désodorisants)",
+   "division": "Fragrance & Beauty",
+   "off": [
+    "en:household-products",
+    "en:laundry-detergents",
+    "en:dishwashing-products",
+    "en:cleaning-products",
+    "en:air-fresheners",
+    "en:detergents"
+   ]
+  }
+ },
+ "pays": {
+  "FR": "France",
+  "DE": "Allemagne",
+  "IT": "Italie",
+  "ES": "Espagne",
+  "PT": "Portugal",
+  "BE": "Belgique",
+  "NL": "Pays-Bas",
+  "CH": "Suisse",
+  "GB": "Royaume-Uni",
+  "IE": "Irlande",
+  "PL": "Pologne",
+  "SE": "Suède",
+  "DK": "Danemark",
+  "AT": "Autriche",
+  "GR": "Grèce",
+  "TR": "Turquie",
+  "RU": "Russie",
+  "US": "États-Unis",
+  "CA": "Canada",
+  "MX": "Mexique",
+  "BR": "Brésil",
+  "AR": "Argentine",
+  "CN": "Chine",
+  "JP": "Japon",
+  "KR": "Corée du Sud",
+  "IN": "Inde",
+  "ID": "Indonésie",
+  "TH": "Thaïlande",
+  "VN": "Viêt Nam",
+  "PH": "Philippines",
+  "AU": "Australie",
+  "MA": "Maroc",
+  "DZ": "Algérie",
+  "TN": "Tunisie",
+  "EG": "Égypte",
+  "NG": "Nigeria",
+  "CI": "Côte d'Ivoire",
+  "GH": "Ghana",
+  "KE": "Kenya",
+  "ZA": "Afrique du Sud",
+  "MG": "Madagascar",
+  "SA": "Arabie saoudite",
+  "AE": "Émirats arabes unis",
+  "UE": "Union européenne (tous les pays membres)",
+  "MONDE": "Monde entier / non localisé"
+ },
+ "regions": {
+  "UE": [
+   "FR",
+   "DE",
+   "IT",
+   "ES",
+   "PT",
+   "BE",
+   "NL",
+   "IE",
+   "PL",
+   "SE",
+   "DK",
+   "AT",
+   "GR"
+  ]
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "36c127a82faa2ae9",
+  "titre": "L'industrie agroalimentaire s'oppose aux recommandations de l'OMS concernant les produits contenant des colora",
+  "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPNXFndFBiTWZQa1d3NzJxVVFQZDVFZEIzVG52bmlNemdKZDJRVDlNSkxRZ3Z3UU5icGY5ZG9NcTJ2QXF1VnJManBVcU85cjNnSUxUaHlLY2lzRkJZc0piZjJGZEUxUnpzZEE1Y0xZaVRvSHF4RkNqUFVtSXVpd0JVZ1g3Qm9ZZGFYaV81bWx4UHMxdWczWVZiSkhybUJoOE9qVEhLOUhwRjdDWGpCZmsyQU9XaWF0QTdYR3BEUkVfUUl5eTBjZm1xODVTeDYxc2NGdEp5bEdOQzJOb2k1bjFUblZKYWYwYVRlcFdOcWplc25tMlNRYUFrWEMtVUczVmVBNGxCN0NPWVdJeEtTclI3WU52VlJDb1UtMGtKR0NsdHdoMWZSRGF5bUpfclJpNndZR1pBMmNSQ3BwSWZEWXlhYjNnUjjSAcQCQVVfeXFMTzVxZ3RQYk1mUGtXdzcycVVRUGQ1RWRCM1Rudm5pTXpnSmQyUVQ5TUpMUWd2d1FOYnBmOWRvTXEydkFxdVZyTGpwVXFPOXIzZ0lMVGh5S2Npc0ZCWXNKYmYyRmRFMVJ6c2RBNWNMWWlUb0hxeEZDalBVbUl1aXdCVWdYN0JvWWRhWGlfNW1seFBzMXVnM1lWYkpIcm1CaDhPalRISzlIcEY3Q1hqQmZrMkFPV2lhdEE3WEdwRFJFX1FJeXkwY2ZtcTg1U3g2MXNjRnRKeWxHTkMyTm9pNW4xVG5WSmFmMGFUZXBXTnFqZXNubTJTUWFBa1hDLVVHM1ZlQTRsQjdDT1lXSXhLU3JSN1lOdlZSQ29VLTBrSkdDbHR3aDFmUkRheW1KX3JSaTZ3WUdaQTJjUkNwcElmRFl5YWIzZ1I4?oc=5",
+  "media": "boursorama.com",
+  "date": "2026-11-09T15:16:32Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "reglementation_sensorielle",
+  "score": 0.5389,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.5389,
+   "matieres_premieres_aromatiques": 0.4743,
+   "tendances_gout_odorat": 0.4655,
+   "mouvements_entreprises_ff": 0.4924,
+   "hors_perimetre": 0.3579
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

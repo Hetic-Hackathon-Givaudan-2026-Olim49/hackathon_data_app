@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "1001aafbed5bbcaf",
+  "titre": "DS Smith reçoit le prix Lighthouse de Nestlé Allemagne",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHVoSTVTNnJ2OTNib05fRzA1OXFUak9fV19FekNvNWlTcmE2aDUzaU9vS1UxblhzQTJRRXM1ZHByU3FBR1VRQnhQdVV1eUhVN0tmRm1LaWZCV3J2Q0o5RUc2RFhnekFlaktWa1NRT2JvZFRsOFhSbVczcDJfNzZ4REYtTlJUR0FXWXdacmw5YTNTQ2dfWE1UTkp5ckRnQlNpd0s0T0VqWXJNaHFJZXBXU0otRzQ0Rk0?oc=5",
+  "media": "lemaitrepapetier.ca",
+  "date": "2026-11-06T14:46:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "reglementation_sensorielle",
+  "score": 0.3986,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3986,
+   "matieres_premieres_aromatiques": 0.3059,
+   "tendances_gout_odorat": 0.3739,
+   "mouvements_entreprises_ff": 0.3913,
+   "hors_perimetre": 0.3493
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

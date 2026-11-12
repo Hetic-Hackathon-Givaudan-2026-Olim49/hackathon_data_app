@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "4810588cf91e1459",
+  "titre": "Agrumes : la récolte 2026-2027 attendue en recul de 20 %",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJVi0wVTAwQjBIVzRjMUdIYTNWeC0wT216bDRURjBzYVNiSnJFUWN3YWswZ0wyZkJpRnY0eHlQYzVrNmt1UVp5aVN1WFZHTWlTTG5fY1hGTV8zSEFKMno2ZkxBZW1xRUlrdEhzeE0wTUNwWWF2UEZBTmQwaURTZw?oc=5",
+  "media": "laverite.ma",
+  "date": "2026-11-10T16:19:41Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5508,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3667,
+   "matieres_premieres_aromatiques": 0.5508,
+   "tendances_gout_odorat": 0.4011,
+   "mouvements_entreprises_ff": 0.3597,
+   "hors_perimetre": 0.3246
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

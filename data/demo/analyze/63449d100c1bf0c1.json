@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "63449d100c1bf0c1",
+  "titre": "Grève à l’usine Lactalis de Cuincy, ce jeudi, à l’appel de la CGT : « Il n’y a rien qui sort et rien qui entre",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObDJpblZxUEVhWUU5am9ER1RzLTllMWpqYzBnM0pzNUkweFU3a3ptV0p5ZlI4VzVqMG1kbTRrUzI5NDZ0TWVlYlF6QXp3Y0Z4eU42Nmc1aTU2T193Vk1zalZUQ1BQSnp5WElyMktyN0NTNXRoSjBITVNwdjdTZ3ppbnl3MzczT3VSREdtX0d5ZWJUeTBQbFdJeUY4dVNSQTRLdzVqemwtQjI5VWpKOW9FNTU5S2ppd1l0XzNOdlJ5Zk1LUUpnajNUMjhqTnNFUW1l?oc=5",
+  "media": "lavoixdunord.fr",
+  "date": "2026-11-05T15:55:01Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.457,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.39,
+   "matieres_premieres_aromatiques": 0.3639,
+   "tendances_gout_odorat": 0.3685,
+   "mouvements_entreprises_ff": 0.457,
+   "hors_perimetre": 0.389
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

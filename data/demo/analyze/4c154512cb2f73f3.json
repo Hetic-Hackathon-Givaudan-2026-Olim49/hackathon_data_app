@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "4c154512cb2f73f3",
+  "titre": "Cordon-bleu : ne mangez pas ces produits vendus chez E.Leclerc, ils font l'objet d'un rappel national",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcWdhdHhQeThNTlp2akpZN3ZnVmdhMktGamJrX2xUd21zeVFETmY4WjFnSlVVVE92X0Z4WmMzc21kUnJDTVRCT19tT2ZyekdySU56UnJRNkpVNkNrVVBXUHl5NkhSem00c2VJbllBSnpZR1liY05LMlhjWXJUM25VNlM3UXp6a0dYYUU0UUYyWE5XMHlLSXBNb3h1Y2ZNa3VnMFNKVmZjVXN6Z25OeDRvNGN3aFhoT3hQUF9vNVR6cVVILTdCQ1ZuWDlsMDlKMW9COW1lQTd1OHZSZ3pESVZ3MDE5eG1rQUh3NFI4Vm14OA?oc=5",
+  "media": "corsematin.com",
+  "date": "2026-11-11T13:26:59Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "reglementation_sensorielle",
+  "score": 0.4561,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4561,
+   "matieres_premieres_aromatiques": 0.3651,
+   "tendances_gout_odorat": 0.4013,
+   "mouvements_entreprises_ff": 0.4157,
+   "hors_perimetre": 0.3181
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

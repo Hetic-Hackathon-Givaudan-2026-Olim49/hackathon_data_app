@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "0642f42a6b6de29c",
+  "titre": "Cosmétiques et parfums : Coty prêt à supprimer les trois quarts de ses effectifs en France",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaFNlV08zakhqbzktTlBPT3h5Y0JGdzhlWjdoS0tGOUxzLXItdXdqT1p0OTRtdEVIY2lldjZzM293blFxZWp5ODJKWWVyaEpfcW9YY2UzTnpQcW8td3c2MFlJMFYwbGFCa3VPcUFJVEhlZE1OVmV2Nk1jakdKSm0zSFUtMUJJNUhnX2hhRFhJSmVGNG9uM3NhTS1SQjNwNXJlN2ozSE1PamFESFVWQ1BUSEk4c3Q4cVlNV3pwY0Z5clVZTFN0WFpzRlUwemxualFSYzdteXJoeGl5amQwdXJjX3Z4QQ?oc=5",
+  "media": "lesechos.fr",
+  "date": "2026-11-06T19:39:41Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.4896,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4789,
+   "matieres_premieres_aromatiques": 0.4848,
+   "tendances_gout_odorat": 0.4781,
+   "mouvements_entreprises_ff": 0.4896,
+   "hors_perimetre": 0.3601
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

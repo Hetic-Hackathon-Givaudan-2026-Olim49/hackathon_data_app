@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "94c57c70b90dba01",
+  "titre": "L'indice MXV continue de baisser, les prix du cuivre et du cacao diminuent.",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXZoNlBoRVd6dVJXcWZDdXZyd2lyNUlNeHlTNS1TUTNkRW9MMnRlb0NPRkYyLWhlQnJ1bG9sSFJaajMtckRLSWd1ZVR3TjRSVFRnVVpNWXhDcXhBOUVuUE1HZTk1QjItSDFUMmtCUDZnTkdPUk9BWXNpWWdLOXY5ZE80bw?oc=5",
+  "media": "vietnam.vn",
+  "date": "2026-11-11T09:50:18Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5922,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4104,
+   "matieres_premieres_aromatiques": 0.5922,
+   "tendances_gout_odorat": 0.4502,
+   "mouvements_entreprises_ff": 0.4026,
+   "hors_perimetre": 0.5321
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

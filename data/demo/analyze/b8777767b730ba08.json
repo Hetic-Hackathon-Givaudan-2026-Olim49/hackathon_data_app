@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "b8777767b730ba08",
+  "titre": "Le plan social de la Cibem, filiale de Lactalis à Saint-Pierre-en-Auge, devant les juges d’appel",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQngxWEo3cmdHbEs3MHBUUGtqOWVDQjNUdUg1MjRhczRZdXJnWEJ2cGtlTXJmMkg2enBfdGt2ZEI2MlYyVWM5QzFiUVR1RWtpX3RhOERrenJZa3FwTTktTGVtbUI4WGhOb0Q4bTMwSGk3ZnhZNHM2UG9WZmdoRUNCdExtQUpMUWlWTElkbWlwdGRaejJ0RGdZY1lKUFh0NGFEcUQyQUdrTGJuaHJ4Rm9lYU9JajYyQzVMN1lvSzJDTXU0Y3EzcVI1T0ZiM21ra29Sc0t6c1h2ZnlfcXJOZjdVeEJDemN2dGxLZHFqY0cyUXFpbHptUVd0SE1Jd3RmemtvbzBVZA?oc=5",
+  "media": "ouest-france.fr",
+  "date": "2026-11-06T17:30:53Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.485,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4064,
+   "matieres_premieres_aromatiques": 0.4024,
+   "tendances_gout_odorat": 0.3751,
+   "mouvements_entreprises_ff": 0.485,
+   "hors_perimetre": 0.352
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

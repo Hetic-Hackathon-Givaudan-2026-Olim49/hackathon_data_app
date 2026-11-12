@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "2ded515c31bcbabf",
+  "titre": "Machine à café à grains : ces 3 modèles premium voient leur prix chuter pendant le Black November (De’Longhi, Philips...)",
+  "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPSGJOa1ROZkxHd2F4Umc1VDRJaEo0TDMxYUhacTFDRmtyU2VBVjBxVjJVS2ZhY25KRTA1VEtzemVBSE5VMS0xZkNZS21YSjBfVlphNy1raVBtOWNJbGE0aUJXVF9BWkU4ZWNXTGZWTGpDR2NrTWtZMXRrS1d5M18tdXVuOUQxMXZSOGU3Z1pMMkRkTlhvenowaklKUXpNQlBOSXc3T1ZHVkFkTlRmdF85ekJMM3hpLXd2MTVIVXd4TXpYeW14VzhjMkZ5dWkyb0lrMVZURmZRN2xkTnJSc2pFa2VsUDFIVWdaMVBka1lEdzhpdFdoWThPOFdyYnd4eThCblE1aG5kRkZzNk9RZkYzcnBSS0tPN0pTSUpDN3ZPNXRqOHFveDA2Nk50UGs0UFhYTm1mbGJtcjVYejR3MksxMU1PdUdnUQ?oc=5",
+  "media": "leparisien.fr",
+  "date": "2026-11-08T07:30:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5039,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3671,
+   "matieres_premieres_aromatiques": 0.5039,
+   "tendances_gout_odorat": 0.3606,
+   "mouvements_entreprises_ff": 0.409,
+   "hors_perimetre": 0.3878
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "f22cb48b0a290d45",
+  "titre": "Domtar : un mécanicien innove à Saint-Félicien",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenpHd1B5bk81eHg2SWtULUVtM3RuY2lOWWE2Zl9CejFJNm9BZWoySHA1VXFhN3FqaEhtR0FCcW9ycmczckJWVy1Ja0ZxOHlNa1l5SlZEQ3VVbXQ3M0tpTnEwZG9wbGMxV3VYYm81dy1aTFN2Z3NrTk5XUEFxYVpUT2s3OF90bEIwY3IyYk5YYUFHWHE3N0ktQWQyQ2p4RDV3dWFzNE15OEFOOHEwRTU0N3VhMzVlYUQ0WjMyN09qcGRaQQ?oc=5",
+  "media": "lemaitrepapetier.ca",
+  "date": "2026-11-11T16:18:42Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.4451,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.2843,
+   "matieres_premieres_aromatiques": 0.24,
+   "tendances_gout_odorat": 0.3681,
+   "mouvements_entreprises_ff": 0.4451,
+   "hors_perimetre": 0.4192
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

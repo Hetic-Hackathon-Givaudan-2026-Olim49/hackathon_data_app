@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "199f65a9d16db848",
+  "titre": "Stress en vue sur le cacao",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR1B0ellMVTJYdnBBRTVUeFBHUUg4ODlaVDV2dGlmcFBOcDZhV1p5QWR2eml5cllISVM1MTM1cmdkSE5WSEZhb19UcTB6eEt6V1ZTWVNQdHl3VUxQYnJheGZaN1RoLVVkZzVfbmNndllmb1FyYUhydks5N0JubllldzRZeVRyT0pFSlR3MThRUlFtR2Q0Z2FHOGpuSDI2M3dTVlRV?oc=5",
+  "media": "investir.lesechos.fr",
+  "date": "2026-11-09T15:15:54Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5507,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4453,
+   "matieres_premieres_aromatiques": 0.5507,
+   "tendances_gout_odorat": 0.4386,
+   "mouvements_entreprises_ff": 0.4413,
+   "hors_perimetre": 0.4092
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "0ce29cce0e633c58",
+  "titre": "Côte d’Ivoire: le volume d’exportation du cacao détrôné par le caoutchouc",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZG51dzNjTzRsM1NCM2tlbnNYUnZqWFctam9SRk9Pdkp4TlNhN3NJUHRWS09jaHVQLTlLdDhOSGcxTUpVd3huRXVuWkN1QkNROUt5VW0zVHR1TVp6NHNWMTJHS05tODBuUlFSU2ItSzZiaEpBdFJhWVlhY253N1QxeDFKYVp0bWNZbWdlOE9xa2hlMEpITTJiVmFwcWR2VkNhdElXTVpHLVB0SHV2ZDYwczNVU2JrN1JVOGtqZUR6dVhNQnBzM3ZCVE9nMA?oc=5",
+  "media": "rfi.fr",
+  "date": "2026-11-09T07:51:41Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5248,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3609,
+   "matieres_premieres_aromatiques": 0.5248,
+   "tendances_gout_odorat": 0.3754,
+   "mouvements_entreprises_ff": 0.3342,
+   "hors_perimetre": 0.2851
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

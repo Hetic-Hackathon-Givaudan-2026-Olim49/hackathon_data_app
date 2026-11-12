@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "73ad9f8a71f91dc5",
+  "titre": "Les 5 Meilleures Protéines Végétales en 2026",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FZTdKenYxNFV2S0c0VllBeFplaF8xdU9BNExsUFd0Y3NVTktMWlBDczZ3WGQ1Vk5Cd2duUTVrVGR6dWJwMUZSRDVPWE5zNHZzT2hPUHdpbUZ4ekNOUEI0YlNMTU1KVFotWm1XZkppSWhYYjJyRGFsaTNn?oc=5",
+  "media": "edp-nutrition.fr",
+  "date": "2026-11-06T08:00:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "tendances_gout_odorat",
+  "score": 0.4995,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4065,
+   "matieres_premieres_aromatiques": 0.3463,
+   "tendances_gout_odorat": 0.4995,
+   "mouvements_entreprises_ff": 0.3408,
+   "hors_perimetre": 0.3546
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

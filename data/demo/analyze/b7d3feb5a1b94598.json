@@ -1,0 +1,438 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "b7d3feb5a1b94598",
+  "titre": "Le café de spécialité, nouvel or noir",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5",
+  "media": "lesechos.fr",
+  "date": "2026-11-06T08:00:39Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.6011,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3486,
+   "matieres_premieres_aromatiques": 0.6011,
+   "tendances_gout_odorat": 0.5017,
+   "mouvements_entreprises_ff": 0.4504,
+   "hors_perimetre": 0.3823
+  }
+ },
+ "analyse": {
+  "faits": [
+   {
+    "enonce": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+    "citation": "Le café de spécialité, nouvel or noir",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+   }
+  ],
+  "hypotheses": {
+   "resume": "Le café de spécialité devient une matière première clé pour les produits aromatisés et les boissons, poussant les clients à revoir leurs formulations.",
+   "chaine_impact": [
+    {
+     "fait": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "consequence": "Augmentation de la demande pour des produits aromatisés à base de café de spécialité.",
+     "impact_sensoriel": "Renforce le profil aromatique et la complexité des boissons et desserts."
+    }
+   ],
+   "categories_produits": [
+    "boissons_sans_alcool",
+    "glaces_desserts",
+    "cafe_the"
+   ],
+   "pays": [
+    "MONDE"
+   ],
+   "ingredients_notes": [
+    "café de spécialité"
+   ],
+   "confiance": "spéculatif"
+  }
+ },
+ "entreprises": [
+  {
+   "nom": "Unilever",
+   "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés), Glaces et desserts (33 produits sur 200 échantillonnés), Café et thé (9 produits sur 200 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+   "source": "https://world.openfoodfacts.org/brand/unilever",
+   "categories": [
+    "boissons_sans_alcool",
+    "glaces_desserts",
+    "cafe_the"
+   ],
+   "pays": [],
+   "score": 3.718
+  },
+  {
+   "nom": "Andros",
+   "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (11 produits sur 100 échantillonnés), Glaces et desserts (54 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+   "source": "https://world.openfoodfacts.org/brand/andros",
+   "categories": [
+    "boissons_sans_alcool",
+    "glaces_desserts"
+   ],
+   "pays": [],
+   "score": 3.042
+  },
+  {
+   "nom": "Nestlé",
+   "raison": "Catégories communes : Glaces et desserts (26 produits sur 105 échantillonnés), Café et thé (7 produits sur 105 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+   "source": "https://world.openfoodfacts.org/brand/nestle",
+   "categories": [
+    "glaces_desserts",
+    "cafe_the"
+   ],
+   "pays": [],
+   "score": 2.764
+  },
+  {
+   "nom": "Danone",
+   "raison": "Catégories communes : Glaces et desserts (88 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+   "source": "https://world.openfoodfacts.org/brand/danone",
+   "categories": [
+    "glaces_desserts"
+   ],
+   "pays": [],
+   "score": 2.233
+  },
+  {
+   "nom": "General Mills",
+   "raison": "Catégories communes : Glaces et desserts (81 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+   "source": "https://world.openfoodfacts.org/brand/general-mills",
+   "categories": [
+    "glaces_desserts"
+   ],
+   "pays": [],
+   "score": 2.175
+  }
+ ],
+ "fiches": [
+  {
+   "id": "b7d3feb5a1b94598--unilever",
+   "signal": {
+    "titre": "Le café de spécialité, nouvel or noir",
+    "media": "lesechos.fr",
+    "date": "2026-11-06T08:00:39Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6011,
+   "ce_que_ca_implique": "Le café de spécialité devient une matière première clé pour les produits aromatisés et les boissons, poussant les clients à revoir leurs formulations.",
+   "faits": [
+    {
+     "enonce": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "citation": "Le café de spécialité, nouvel or noir",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "consequence": "Augmentation de la demande pour des produits aromatisés à base de café de spécialité.",
+     "impact_sensoriel": "Renforce le profil aromatique et la complexité des boissons et desserts."
+    }
+   ],
+   "entreprise": {
+    "nom": "Unilever",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (6 produits sur 200 échantillonnés), Glaces et desserts (33 produits sur 200 échantillonnés), Café et thé (9 produits sur 200 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/unilever",
+    "categories": [
+     "boissons_sans_alcool",
+     "glaces_desserts",
+     "cafe_the"
+    ],
+    "pays": [],
+    "score": 3.718
+   },
+   "opportunite": {
+    "entreprise": "Unilever",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Unilever pourrait lancer des produits aromatisés à base de café de spécialité pour répondre à la demande croissante.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de boissons et desserts ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de boissons et desserts ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "lesechos.fr — Le café de spécialité, nouvel or noir",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Unilever (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/unilever"
+    }
+   ]
+  },
+  {
+   "id": "b7d3feb5a1b94598--andros",
+   "signal": {
+    "titre": "Le café de spécialité, nouvel or noir",
+    "media": "lesechos.fr",
+    "date": "2026-11-06T08:00:39Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6011,
+   "ce_que_ca_implique": "Le café de spécialité devient une matière première clé pour les produits aromatisés et les boissons, poussant les clients à revoir leurs formulations.",
+   "faits": [
+    {
+     "enonce": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "citation": "Le café de spécialité, nouvel or noir",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "consequence": "Augmentation de la demande pour des produits aromatisés à base de café de spécialité.",
+     "impact_sensoriel": "Renforce le profil aromatique et la complexité des boissons et desserts."
+    }
+   ],
+   "entreprise": {
+    "nom": "Andros",
+    "raison": "Catégories communes : Boissons sans alcool (sodas, jus, eaux aromatisées) (11 produits sur 100 échantillonnés), Glaces et desserts (54 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/andros",
+    "categories": [
+     "boissons_sans_alcool",
+     "glaces_desserts"
+    ],
+    "pays": [],
+    "score": 3.042
+   },
+   "opportunite": {
+    "entreprise": "Andros",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Andros pourrait lancer des boissons et desserts aromatisés à base de café de spécialité pour s'aligner sur la tendance.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets pour intégrer le café de spécialité dans vos gammes de boissons et desserts ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets pour intégrer le café de spécialité dans vos gammes de boissons et desserts ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "lesechos.fr — Le café de spécialité, nouvel or noir",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Andros (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/andros"
+    }
+   ]
+  },
+  {
+   "id": "b7d3feb5a1b94598--nestle",
+   "signal": {
+    "titre": "Le café de spécialité, nouvel or noir",
+    "media": "lesechos.fr",
+    "date": "2026-11-06T08:00:39Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6011,
+   "ce_que_ca_implique": "Le café de spécialité devient une matière première clé pour les produits aromatisés et les boissons, poussant les clients à revoir leurs formulations.",
+   "faits": [
+    {
+     "enonce": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "citation": "Le café de spécialité, nouvel or noir",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "consequence": "Augmentation de la demande pour des produits aromatisés à base de café de spécialité.",
+     "impact_sensoriel": "Renforce le profil aromatique et la complexité des boissons et desserts."
+    }
+   ],
+   "entreprise": {
+    "nom": "Nestlé",
+    "raison": "Catégories communes : Glaces et desserts (26 produits sur 105 échantillonnés), Café et thé (7 produits sur 105 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/nestle",
+    "categories": [
+     "glaces_desserts",
+     "cafe_the"
+    ],
+    "pays": [],
+    "score": 2.764
+   },
+   "opportunite": {
+    "entreprise": "Nestlé",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Nestlé pourrait lancer des produits à base de café de spécialité pour renforcer la complexité aromatique de ses boissons et desserts.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de glaces et boissons ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de glaces et boissons ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "lesechos.fr — Le café de spécialité, nouvel or noir",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Nestlé (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/nestle"
+    }
+   ]
+  },
+  {
+   "id": "b7d3feb5a1b94598--danone",
+   "signal": {
+    "titre": "Le café de spécialité, nouvel or noir",
+    "media": "lesechos.fr",
+    "date": "2026-11-06T08:00:39Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6011,
+   "ce_que_ca_implique": "Le café de spécialité devient une matière première clé pour les produits aromatisés et les boissons, poussant les clients à revoir leurs formulations.",
+   "faits": [
+    {
+     "enonce": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "citation": "Le café de spécialité, nouvel or noir",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "consequence": "Augmentation de la demande pour des produits aromatisés à base de café de spécialité.",
+     "impact_sensoriel": "Renforce le profil aromatique et la complexité des boissons et desserts."
+    }
+   ],
+   "entreprise": {
+    "nom": "Danone",
+    "raison": "Catégories communes : Glaces et desserts (88 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/danone",
+    "categories": [
+     "glaces_desserts"
+    ],
+    "pays": [],
+    "score": 2.233
+   },
+   "opportunite": {
+    "entreprise": "Danone",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "Danone pourrait lancer des desserts aromatisés à base de café de spécialité pour s'adapter à la demande croissante.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets pour intégrer le café de spécialité dans vos gammes de desserts ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets pour intégrer le café de spécialité dans vos gammes de desserts ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "lesechos.fr — Le café de spécialité, nouvel or noir",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence Danone (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/danone"
+    }
+   ]
+  },
+  {
+   "id": "b7d3feb5a1b94598--general-mills",
+   "signal": {
+    "titre": "Le café de spécialité, nouvel or noir",
+    "media": "lesechos.fr",
+    "date": "2026-11-06T08:00:39Z",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+   },
+   "famille": "matieres_premieres_aromatiques",
+   "score_filtre": 0.6011,
+   "ce_que_ca_implique": "Le café de spécialité devient une matière première clé pour les produits aromatisés et les boissons, poussant les clients à revoir leurs formulations.",
+   "faits": [
+    {
+     "enonce": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "citation": "Le café de spécialité, nouvel or noir",
+     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    }
+   ],
+   "chaine_impact": [
+    {
+     "fait": "Le café de spécialité est désormais considéré comme un nouveau trésor.",
+     "consequence": "Augmentation de la demande pour des produits aromatisés à base de café de spécialité.",
+     "impact_sensoriel": "Renforce le profil aromatique et la complexité des boissons et desserts."
+    }
+   ],
+   "entreprise": {
+    "nom": "General Mills",
+    "raison": "Catégories communes : Glaces et desserts (81 produits sur 100 échantillonnés) ; pays cités = origine de la matière première, impact sur tous les marchés.",
+    "source": "https://world.openfoodfacts.org/brand/general-mills",
+    "categories": [
+     "glaces_desserts"
+    ],
+    "pays": [],
+    "score": 2.175
+   },
+   "opportunite": {
+    "entreprise": "General Mills",
+    "type_opportunite": "lancement",
+    "division_givaudan": "Taste & Wellbeing",
+    "hypothese": "General Mills pourrait lancer des produits à base de café de spécialité pour répondre à la tendance des boissons et desserts aromatisés.",
+    "fenetre_action": "0-6 mois",
+    "question_client": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de desserts ?",
+    "faits_utilises": [
+     0
+    ],
+    "confiance": "moyen"
+   },
+   "question_a_poser": "Quels sont vos projets pour intégrer le café de spécialité dans vos formulations de desserts ?",
+   "confiance": "moyen",
+   "sources": [
+    {
+     "type": "article",
+     "libelle": "lesechos.fr — Le café de spécialité, nouvel or noir",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWtISVlPRTVRTkVvczNwNEhWX1hvTTlzZEExSzZRNXU4WHJ0VVhJWWxsQlRFUWo5dnZBTHZQelBlZWpPbU9JNnp2Z1JIMEk4VjJrZHdzUWJ2YjdueXNzbUhJZ3VSajZlRGkwOGYxRWtXdjFaaS1xSTRka2NSckdWcHB2UzFIQWdmTHN4SlYwNW9KOW83MWk4WQ?oc=5"
+    },
+    {
+     "type": "base_entreprises",
+     "libelle": "Référence General Mills (Open Food/Beauty Facts)",
+     "url": "https://world.openfoodfacts.org/brand/general-mills"
+    }
+   ]
+  }
+ ],
+ "diagnostic": {
+  "json_valides": 3,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": "titre",
+  "duree_s": null
+ }
+}

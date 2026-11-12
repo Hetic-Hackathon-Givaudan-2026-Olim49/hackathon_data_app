@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "2d0029f0f0144a2f",
+  "titre": "Cosmétiques : la CJUE précise quand un distributeur doit contrôler les promesses du fabricant",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc2R6LV9wd2wtWGNXYjJsR1R1ZkVtV1U4SkYyQ29EY1M2Q2cwNG54d3R4NjNxVWNuMTVtR3lPbWhMOU8ySXdEeUtvRFlMdFZmYTlmS2oyLTJBd19LT1NPRndPVVBfQXAxYnVIZmROOUJwVXJScnh4MXM1d1hmWHdmUWlNVmFLMzNQSEVVQmRyaDVrVmZFOVZ6LXhMZ3RlMGU1bEdTdTdZWmFSbGtaZTBxRWhxVUlJQQ?oc=5",
+  "media": "juriguide.com",
+  "date": "2026-11-10T00:19:01Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "reglementation_sensorielle",
+  "score": 0.518,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.518,
+   "matieres_premieres_aromatiques": 0.4158,
+   "tendances_gout_odorat": 0.3585,
+   "mouvements_entreprises_ff": 0.4702,
+   "hors_perimetre": 0.4098
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

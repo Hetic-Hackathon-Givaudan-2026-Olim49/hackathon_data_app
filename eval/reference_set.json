@@ -1,0 +1,354 @@
+{
+ "_instructions": {
+  "regle": "Vérité terrain : à remplir UNIQUEMENT par l'équipe, sans regarder les sorties du système.",
+  "pertinente": "oui | non — l'actualité peut-elle impacter les produits d'un client F&F ?",
+  "famille": "reglementation_sensorielle | matieres_premieres_aromatiques | tendances_gout_odorat | mouvements_entreprises_ff (vide si pertinente = non)",
+  "entreprises_attendues": "liste de noms de data/companies.json (peut être vide)",
+  "opportunite_attendue": "texte libre : l'opportunité que vous attendriez",
+  "annotateur": "initiales ; une entrée sans `pertinente` est ignorée par run_eval.py"
+ },
+ "entrees": [
+  {
+   "id": "n01",
+   "titre": "Les députés veulent étendre la taxe soda aux biscuits et confiseries",
+   "date": "2026-10-15",
+   "media": "LCP",
+   "url": "https://lcp.fr/actualites/apres-le-soda-les-biscuits-et-les-confiseries-les-deputes-veulent-etendre-la-taxe-aux",
+   "langue": "fr",
+   "pertinente": "oui",
+   "famille": "reglementation_sensorielle",
+   "entreprises_attendues": [
+    "Mondelēz International",
+    "Nestlé",
+    "Ferrero",
+    "Mars"
+   ],
+   "opportunite_attendue": "reformulation | Taste & Wellbeing | réduire le sucre des biscuits et confiseries vendus en France en préservant le goût, si la taxe est étendue",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Mesure en discussion parlementaire, pas encore adoptée : confiance moyenne. Même thème que n08 et n14."
+  },
+  {
+   "id": "n02",
+   "titre": "dsm-firmenich : résultats du troisième trimestre 2026, division Taste, Texture & Health",
+   "date": "2026-11-04",
+   "media": "FoodIngredientsFirst",
+   "url": "https://www.foodingredientsfirst.com/news/dsm-firmenich-q3-2026-taste-texture-health-grows-3-as-sales-outlook-rises.html",
+   "langue": "en",
+   "pertinente": "non",
+   "famille": "",
+   "entreprises_attendues": [],
+   "opportunite_attendue": "aucune",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Résultats financiers d'un concurrent : ne change pas les produits d'un client. Pertinent seulement si l'équipe inclut la veille concurrentielle."
+  },
+  {
+   "id": "n03",
+   "titre": "Madagascar rétablit un prix plancher sur la vanille verte avant la campagne 2026-2027",
+   "date": "2026-10-05",
+   "media": "Capmad",
+   "url": "https://capmad.com/article/madagascar-retablit-un-prix-plancher-sur-la-vanille-verte-avant-une-campagne-20262027-sous-pression",
+   "langue": "fr",
+   "pertinente": "oui",
+   "famille": "matieres_premieres_aromatiques",
+   "entreprises_attendues": [
+    "Danone",
+    "Nestlé",
+    "Groupe Lactalis"
+   ],
+   "opportunite_attendue": "substitution d'ingrédient | Taste & Wellbeing | prix de la vanille naturelle au plus bas : proposer de remplacer la vanilline par de la vanille naturelle sur les produits laitiers et desserts",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Le prix plancher concerne la vanille verte payée aux producteurs, les prix mondiaux restent bas. Confiance moyenne : le lien avec un client précis est indirect."
+  },
+  {
+   "id": "n04",
+   "titre": "Robertet confirme ses ambitions annuelles après son premier semestre 2026",
+   "date": "2026-09-17",
+   "media": "Option Finance (Zonebourse)",
+   "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-17-robertet-confirme-ses-ambitions-annuelles.html",
+   "langue": "fr",
+   "pertinente": "non",
+   "famille": "",
+   "entreprises_attendues": [],
+   "opportunite_attendue": "aucune",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Résultats semestriels d'un concurrent (Robertet)."
+  },
+  {
+   "id": "n05",
+   "titre": "La FDA propose de rendre obligatoires les notifications GRAS",
+   "date": "2026-08-11",
+   "media": "Holland & Knight",
+   "url": "https://www.hklaw.com/en/insights/publications/2026/08/from-voluntary-to-mandatory-fdas-proposed-gras-rule",
+   "langue": "en",
+   "pertinente": "oui",
+   "famille": "reglementation_sensorielle",
+   "entreprises_attendues": [
+    "PepsiCo",
+    "The Coca-Cola Company",
+    "Kraft Heinz",
+    "General Mills",
+    "Mondelēz International",
+    "Nestlé"
+   ],
+   "opportunite_attendue": "substitution d'ingrédient | Taste & Wellbeing | aider les clients américains à inventorier leurs ingrédients aromatiques et à sécuriser ceux qui n'ont pas de notification GRAS",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Règle proposée, consultation jusqu'au 9 décembre 2026 : non définitive. Touche tous les clients alimentaires présents aux États-Unis."
+  },
+  {
+   "id": "n06",
+   "titre": "Le Nutri-Score pourrait devenir obligatoire dès l'année prochaine",
+   "date": "2026-10-09",
+   "media": "Journal du Geek",
+   "url": "https://www.journaldugeek.com/2026/10/09/le-nutri-score-pourrait-devenir-obligatoire-des-lannee-prochaine/",
+   "langue": "fr",
+   "pertinente": "oui",
+   "famille": "reglementation_sensorielle",
+   "entreprises_attendues": [
+    "Nestlé",
+    "Danone",
+    "Groupe Lactalis",
+    "Ferrero"
+   ],
+   "opportunite_attendue": "reformulation | Taste & Wellbeing | améliorer le Nutri-Score (moins de sucre, sel, gras) sans dégrader le goût, en anticipation d'un affichage obligatoire",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Mesure incertaine (déjà rejetée de peu en 2025). Même thème que n19."
+  },
+  {
+   "id": "n07",
+   "titre": "dsm-firmenich achève son programme de rachat d'actions de 540 millions d'euros",
+   "date": "2026-10-01",
+   "media": "Trivano (communiqué dsm-firmenich)",
+   "url": "https://www.trivano.com/persbericht/763763-763763.html",
+   "langue": "en",
+   "pertinente": "non",
+   "famille": "",
+   "entreprises_attendues": [],
+   "opportunite_attendue": "aucune",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Piège : rachat d'actions d'un concurrent, aucun lien avec les produits."
+  },
+  {
+   "id": "n08",
+   "titre": "Taxe sur les produits sucrés : le gouvernement ouvre la porte, les industriels s'inquiètent",
+   "date": "2026-09-25",
+   "media": "Sud Radio (AFP)",
+   "url": "https://www.sudradio.fr/societe/taxe-sur-les-produits-sucres-le-gouvernement-ouvre-la-porte-les-industriels-salarment",
+   "langue": "fr",
+   "pertinente": "oui",
+   "famille": "reglementation_sensorielle",
+   "entreprises_attendues": [
+    "Nestlé",
+    "Danone",
+    "Mondelēz International",
+    "Ferrero"
+   ],
+   "opportunite_attendue": "reformulation | Taste & Wellbeing | anticiper une taxe sur les produits sucrés en France : réduction du sucre avec maintien du goût",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Même sujet que n01 et n14 : bon test de regroupement des signaux."
+  },
+  {
+   "id": "n09",
+   "titre": "Robertet réalise une acquisition en Inde",
+   "date": "2026-07-10",
+   "media": "CFNews",
+   "url": "https://www.cfnews.net/L-actualite/International/Operations/M-A/Robertet-se-diffuse-en-Inde-464356",
+   "langue": "fr",
+   "pertinente": "non",
+   "famille": "",
+   "entreprises_attendues": [],
+   "opportunite_attendue": "aucune",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Acquisition d'un concurrent en Inde. Pertinent seulement en veille concurrentielle."
+  },
+  {
+   "id": "n10",
+   "titre": "Cacao : la récolte intermédiaire ivoirienne 2026/27 pourrait fortement chuter",
+   "date": "2026-11-06",
+   "media": "Trading Economics",
+   "url": "https://tradingeconomics.com/commodity/cocoa/news/599132",
+   "langue": "en",
+   "pertinente": "oui",
+   "famille": "matieres_premieres_aromatiques",
+   "entreprises_attendues": [
+    "Nestlé",
+    "Mondelēz International",
+    "Ferrero",
+    "Mars",
+    "Lindt & Sprüngli"
+   ],
+   "opportunite_attendue": "substitution d'ingrédient | Taste & Wellbeing | risque de remontée du prix du cacao : proposer des solutions aromatiques pour réduire la part de cacao en gardant le goût chocolat",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Signal de risque, pas de hausse avérée au moment de l'article : confiance moyenne."
+  },
+  {
+   "id": "n11",
+   "titre": "Yuka et des chercheurs publient un livre blanc sur le lobbying contre le Nutri-Score",
+   "date": "2026-09-07",
+   "media": "Journal de l'Économie",
+   "url": "https://www.journaldeleconomie.fr/?p=49168",
+   "langue": "fr",
+   "pertinente": "non",
+   "famille": "",
+   "entreprises_attendues": [],
+   "opportunite_attendue": "aucune",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Cas limite : débat public sur le Nutri-Score, sans décision qui change les produits. À trancher en équipe."
+  },
+  {
+   "id": "n12",
+   "titre": "L'Oréal finalise l'acquisition de Kering Beauté",
+   "date": "2026-03-31",
+   "media": "L'Oréal (communiqué)",
+   "url": "https://www.loreal.com/fr/press-release/group/loreal-finalise-l’acquisition-de-kering-beaute/",
+   "langue": "fr",
+   "pertinente": "oui",
+   "famille": "mouvements_entreprises_ff",
+   "entreprises_attendues": [
+    "L'Oréal"
+   ],
+   "opportunite_attendue": "lancement | Fragrance & Beauty | L'Oréal intègre Creed et les licences Bottega Veneta et Balenciaga : futurs développements et lancements de parfums",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Mouvement d'un client (pas d'un concurrent) : pertinent selon la règle commune."
+  },
+  {
+   "id": "n13",
+   "titre": "Royaume-Uni : modification de la taxe sur les boissons sucrées à partir de 2028",
+   "date": "2026-07-13",
+   "media": "GOV.UK",
+   "url": "https://www.gov.uk/government/publications/changes-to-the-soft-drinks-industry-levy/changes-to-the-soft-drinks-industry-levy-policy-paper",
+   "langue": "en",
+   "pertinente": "oui",
+   "famille": "reglementation_sensorielle",
+   "entreprises_attendues": [
+    "Nestlé",
+    "Danone",
+    "The Coca-Cola Company"
+   ],
+   "opportunite_attendue": "reformulation | Taste & Wellbeing | passer sous 4,5 g de sucre / 100 ml les boissons lactées et cafés prêts à boire vendus au Royaume-Uni avant janvier 2028",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Échéance claire et lointaine : bonne fenêtre d'action. Les marques britanniques de boissons lactées ne sont probablement pas dans la base."
+  },
+  {
+   "id": "n14",
+   "titre": "Budget 2027 : le gouvernement envisage une taxe sucre",
+   "date": "2026-10-01",
+   "media": "LCP",
+   "url": "https://lcp.fr/actualites/budget-2027-une-taxe-sucre-envisagee-par-le-gouvernement-442715",
+   "langue": "fr",
+   "pertinente": "oui",
+   "famille": "reglementation_sensorielle",
+   "entreprises_attendues": [
+    "Nestlé",
+    "Danone",
+    "Mondelēz International",
+    "Ferrero"
+   ],
+   "opportunite_attendue": "reformulation | Taste & Wellbeing | anticiper une taxe sucre dans le budget 2027 : réduction du sucre avec maintien du goût",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Quasi-doublon de n08."
+  },
+  {
+   "id": "n15",
+   "titre": "Cacao : la tonne repasse sous 3 900 dollars",
+   "date": "2026-06-02",
+   "media": "France Épargne",
+   "url": "https://www.france-epargne.fr/news/cacao-la-tonne-retombe-sous-3-900-dollars-a-70-de-son-record-de-2024",
+   "langue": "fr",
+   "pertinente": "oui",
+   "famille": "matieres_premieres_aromatiques",
+   "entreprises_attendues": [
+    "Nestlé",
+    "Mondelēz International",
+    "Ferrero",
+    "Mars",
+    "Lindt & Sprüngli"
+   ],
+   "opportunite_attendue": "lancement | Taste & Wellbeing | cacao moins cher : relances ou nouvelles recettes chocolatées plus riches en cacao",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Signal inverse de n10 : bon test de cohérence. Confiance faible sur l'opportunité."
+  },
+  {
+   "id": "n16",
+   "titre": "Symrise finalise l'acquisition de Floral Concept",
+   "date": "2026-09-22",
+   "media": "SpecialChem",
+   "url": "https://www.specialchem.com/cosmetics/supplier/symrise/all-news?lr=177109",
+   "langue": "en",
+   "pertinente": "non",
+   "famille": "",
+   "entreprises_attendues": [],
+   "opportunite_attendue": "aucune",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Acquisition d'un concurrent (Symrise). Pertinent seulement en veille concurrentielle."
+  },
+  {
+   "id": "n17",
+   "titre": "Allergènes parfumés : ce que l'échéance européenne du 31 juillet 2026 change pour les marques",
+   "date": "2026-07-13",
+   "media": "Registrar Corp (blog)",
+   "url": "https://www.registrarcorp.com/fr/blog/cosmetics/cosmetic-regulations/eu-fragrance-allergen-expansion-2026/",
+   "langue": "fr",
+   "pertinente": "oui",
+   "famille": "reglementation_sensorielle",
+   "entreprises_attendues": [
+    "L'Oréal",
+    "Unilever",
+    "Procter & Gamble",
+    "Henkel",
+    "Beiersdorf"
+   ],
+   "opportunite_attendue": "reformulation | Fragrance & Beauty | proposer des parfums avec moins d'allergènes à déclarer, notamment pour les produits existants à mettre en conformité d'ici juillet 2028",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Source de moindre autorité (blog de prestataire). L'échéance de 2026 est passée pour les nouveaux produits ; celle de 2028 reste ouverte."
+  },
+  {
+   "id": "n18",
+   "titre": "Boissons : les ventes de limonades progressent depuis la hausse de la taxe soda, les colas reculent",
+   "date": "2026-04",
+   "media": "LSA",
+   "url": "https://www.lsa-conso.fr/marche-des-boissons-les-ventes-de-limonades-decollent-depuis-la-hausse-de-la-taxe-soda-les-colas-et-sodas-en-recul,465707",
+   "langue": "fr",
+   "pertinente": "oui",
+   "famille": "tendances_gout_odorat",
+   "entreprises_attendues": [
+    "The Coca-Cola Company"
+   ],
+   "opportunite_attendue": "lancement | Taste & Wellbeing | report de la demande vers les limonades et tonics peu sucrés : nouveaux profils aromatiques pour ces segments",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Date approximative. Plusieurs marques concernées (Lorina, marques de distributeur) ne sont sans doute pas dans la base. Suntory concerné mais absent de la base V2."
+  },
+  {
+   "id": "n19",
+   "titre": "L'Académie nationale de médecine soutient la pétition pour un Nutri-Score obligatoire",
+   "date": "2026-05-27",
+   "media": "consoGlobe",
+   "url": "https://www.consoglobe.com/nutri-score-obligatoire-france-blocage-europeen-cg?amp",
+   "langue": "fr",
+   "pertinente": "oui",
+   "famille": "reglementation_sensorielle",
+   "entreprises_attendues": [
+    "Nestlé",
+    "Danone",
+    "Groupe Lactalis",
+    "Ferrero"
+   ],
+   "opportunite_attendue": "reformulation | Taste & Wellbeing | pression croissante pour un Nutri-Score obligatoire : anticiper la reformulation",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Quasi-doublon de n06, signal plus faible (pétition). Peut aussi être jugé non pertinent : à trancher en équipe."
+  },
+  {
+   "id": "n20",
+   "titre": "Le groupe Mane dépasse les 2 milliards d'euros de chiffre d'affaires en 2025",
+   "date": "2026-04",
+   "media": "Le Journal des Entreprises",
+   "url": "https://www.lejournaldesentreprises.com/breve/le-groupe-mane-depasse-les-2-milliards-de-chiffre-daffaires-en-2025-2141080",
+   "langue": "fr",
+   "pertinente": "non",
+   "famille": "",
+   "entreprises_attendues": [],
+   "opportunite_attendue": "aucune",
+   "annotateur": "Claude (brouillon, à valider)",
+   "commentaire": "Résultats annuels d'un concurrent (Mane)."
+  }
+ ]
+}

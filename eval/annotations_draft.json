@@ -1,0 +1,182 @@
+[
+  {
+    "id": "n01",
+    "pertinente": "oui",
+    "famille": "réglementation",
+    "entreprises_attendues": ["Mondelez International", "Nestlé", "Ferrero", "Mars"],
+    "opportunite_attendue": "reformulation | Taste & Wellbeing | réduire le sucre des biscuits et confiseries vendus en France en préservant le goût, si la taxe est étendue",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Mesure en discussion parlementaire, pas encore adoptée : confiance moyenne. Même thème que n08 et n14."
+  },
+  {
+    "id": "n02",
+    "pertinente": "non",
+    "famille": "aucune",
+    "entreprises_attendues": [],
+    "opportunite_attendue": "aucune",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Résultats financiers d'un concurrent : ne change pas les produits d'un client. Pertinent seulement si l'équipe inclut la veille concurrentielle."
+  },
+  {
+    "id": "n03",
+    "pertinente": "oui",
+    "famille": "matières premières",
+    "entreprises_attendues": ["Danone", "Nestlé", "Lactalis"],
+    "opportunite_attendue": "substitution d'ingrédient | Taste & Wellbeing | prix de la vanille naturelle au plus bas : proposer de remplacer la vanilline par de la vanille naturelle sur les produits laitiers et desserts",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Le prix plancher concerne la vanille verte payée aux producteurs, les prix mondiaux restent bas. Confiance moyenne : le lien avec un client précis est indirect."
+  },
+  {
+    "id": "n04",
+    "pertinente": "non",
+    "famille": "aucune",
+    "entreprises_attendues": [],
+    "opportunite_attendue": "aucune",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Résultats semestriels d'un concurrent (Robertet)."
+  },
+  {
+    "id": "n05",
+    "pertinente": "oui",
+    "famille": "réglementation",
+    "entreprises_attendues": ["PepsiCo", "The Coca-Cola Company", "Kraft Heinz", "General Mills", "Mondelez International", "Nestlé"],
+    "opportunite_attendue": "substitution d'ingrédient | Taste & Wellbeing | aider les clients américains à inventorier leurs ingrédients aromatiques et à sécuriser ceux qui n'ont pas de notification GRAS",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Règle proposée, consultation jusqu'au 9 décembre 2026 : non définitive. Touche tous les clients alimentaires présents aux États-Unis."
+  },
+  {
+    "id": "n06",
+    "pertinente": "oui",
+    "famille": "réglementation",
+    "entreprises_attendues": ["Nestlé", "Danone", "Lactalis", "Ferrero"],
+    "opportunite_attendue": "reformulation | Taste & Wellbeing | améliorer le Nutri-Score (moins de sucre, sel, gras) sans dégrader le goût, en anticipation d'un affichage obligatoire",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Mesure incertaine (déjà rejetée de peu en 2025). Même thème que n19."
+  },
+  {
+    "id": "n07",
+    "pertinente": "non",
+    "famille": "aucune",
+    "entreprises_attendues": [],
+    "opportunite_attendue": "aucune",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Piège : rachat d'actions d'un concurrent, aucun lien avec les produits."
+  },
+  {
+    "id": "n08",
+    "pertinente": "oui",
+    "famille": "réglementation",
+    "entreprises_attendues": ["Nestlé", "Danone", "Mondelez International", "Ferrero"],
+    "opportunite_attendue": "reformulation | Taste & Wellbeing | anticiper une taxe sur les produits sucrés en France : réduction du sucre avec maintien du goût",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Même sujet que n01 et n14 : bon test de regroupement des signaux."
+  },
+  {
+    "id": "n09",
+    "pertinente": "non",
+    "famille": "aucune",
+    "entreprises_attendues": [],
+    "opportunite_attendue": "aucune",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Acquisition d'un concurrent en Inde. Pertinent seulement en veille concurrentielle."
+  },
+  {
+    "id": "n10",
+    "pertinente": "oui",
+    "famille": "matières premières",
+    "entreprises_attendues": ["Nestlé", "Mondelez International", "Ferrero", "Mars", "Lindt & Sprüngli"],
+    "opportunite_attendue": "substitution d'ingrédient | Taste & Wellbeing | risque de remontée du prix du cacao : proposer des solutions aromatiques pour réduire la part de cacao en gardant le goût chocolat",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Signal de risque, pas de hausse avérée au moment de l'article : confiance moyenne."
+  },
+  {
+    "id": "n11",
+    "pertinente": "non",
+    "famille": "aucune",
+    "entreprises_attendues": [],
+    "opportunite_attendue": "aucune",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Cas limite : débat public sur le Nutri-Score, sans décision qui change les produits. À trancher en équipe."
+  },
+  {
+    "id": "n12",
+    "pertinente": "oui",
+    "famille": "mouvements d'entreprises",
+    "entreprises_attendues": ["L'Oréal"],
+    "opportunite_attendue": "lancement | Fragrance & Beauty | L'Oréal intègre Creed et les licences Bottega Veneta et Balenciaga : futurs développements et lancements de parfums",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Mouvement d'un client (pas d'un concurrent) : pertinent selon la règle commune."
+  },
+  {
+    "id": "n13",
+    "pertinente": "oui",
+    "famille": "réglementation",
+    "entreprises_attendues": ["Nestlé", "Danone", "The Coca-Cola Company"],
+    "opportunite_attendue": "reformulation | Taste & Wellbeing | passer sous 4,5 g de sucre / 100 ml les boissons lactées et cafés prêts à boire vendus au Royaume-Uni avant janvier 2028",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Échéance claire et lointaine : bonne fenêtre d'action. Les marques britanniques de boissons lactées ne sont probablement pas dans la base."
+  },
+  {
+    "id": "n14",
+    "pertinente": "oui",
+    "famille": "réglementation",
+    "entreprises_attendues": ["Nestlé", "Danone", "Mondelez International", "Ferrero"],
+    "opportunite_attendue": "reformulation | Taste & Wellbeing | anticiper une taxe sucre dans le budget 2027 : réduction du sucre avec maintien du goût",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Quasi-doublon de n08."
+  },
+  {
+    "id": "n15",
+    "pertinente": "oui",
+    "famille": "matières premières",
+    "entreprises_attendues": ["Nestlé", "Mondelez International", "Ferrero", "Mars", "Lindt & Sprüngli"],
+    "opportunite_attendue": "lancement | Taste & Wellbeing | cacao moins cher : relances ou nouvelles recettes chocolatées plus riches en cacao",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Signal inverse de n10 : bon test de cohérence. Confiance faible sur l'opportunité."
+  },
+  {
+    "id": "n16",
+    "pertinente": "non",
+    "famille": "aucune",
+    "entreprises_attendues": [],
+    "opportunite_attendue": "aucune",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Acquisition d'un concurrent (Symrise). Pertinent seulement en veille concurrentielle."
+  },
+  {
+    "id": "n17",
+    "pertinente": "oui",
+    "famille": "réglementation",
+    "entreprises_attendues": ["L'Oréal", "Unilever", "Procter & Gamble", "Henkel", "Beiersdorf"],
+    "opportunite_attendue": "reformulation | Fragrance & Beauty | proposer des parfums avec moins d'allergènes à déclarer, notamment pour les produits existants à mettre en conformité d'ici juillet 2028",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Source de moindre autorité (blog de prestataire). L'échéance de 2026 est passée pour les nouveaux produits ; celle de 2028 reste ouverte."
+  },
+  {
+    "id": "n18",
+    "pertinente": "oui",
+    "famille": "tendances goût/odorat",
+    "entreprises_attendues": ["The Coca-Cola Company", "Suntory"],
+    "opportunite_attendue": "lancement | Taste & Wellbeing | report de la demande vers les limonades et tonics peu sucrés : nouveaux profils aromatiques pour ces segments",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Date approximative. Plusieurs marques concernées (Lorina, marques de distributeur) ne sont sans doute pas dans la base."
+  },
+  {
+    "id": "n19",
+    "pertinente": "oui",
+    "famille": "réglementation",
+    "entreprises_attendues": ["Nestlé", "Danone", "Lactalis", "Ferrero"],
+    "opportunite_attendue": "reformulation | Taste & Wellbeing | pression croissante pour un Nutri-Score obligatoire : anticiper la reformulation",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Quasi-doublon de n06, signal plus faible (pétition). Peut aussi être jugé non pertinent : à trancher en équipe."
+  },
+  {
+    "id": "n20",
+    "pertinente": "non",
+    "famille": "aucune",
+    "entreprises_attendues": [],
+    "opportunite_attendue": "aucune",
+    "annotateur": "Claude (brouillon, à valider)",
+    "commentaire": "Résultats annuels d'un concurrent (Mane)."
+  }
+]

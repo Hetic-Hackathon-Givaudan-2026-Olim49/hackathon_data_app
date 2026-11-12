@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "f02927a03d4ac448",
+  "titre": "Côte d'Ivoire: la production de cacao pourrait chuter jusqu'à 25% sous l'effet d'El Niño",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbUxaNnEyeHFmMlpWSVBDalh5NGFSZWYyN3R4RHVMMy1lT29mNC1hUERkTjhkdk5vcUhtYmhhaXh2b05PUzhkcml4M3dTNUpFYXE2ZDRKV19KRFBDdHJ4d0tVLV9ndFVWRUFmN1dVSllTY3BPZTVjZHFPd2E2bVpWTmtwaDJTNUN4LTVMR2xzUkFlMVd5M0c4QnlWYUJwMVBJM1RXYkFNbGlWdGYyZDZFdVY4TnJycTNnS2VOMFpGTnVuY1pVTzQ0dzlWUC1QVkxYQmk1TExGX3ctUV9wT3VGU2xfeG50cGs4Y0NleVpmRkh4d3hlOF96LVdXdGVnNVJpMkJpYkdTU05JWGh4T2Iw0gGPAkFVX3lxTFBtTFo2cTJ4cWYyWlZJUENqWHk0YVJlZjI3dHhEdUwzLWVPb2Y0LWFQRGROOGR2Tm9xSG1iaGFpeHZvTk9TOGRyaXgzd1M1SkVhcTZkNEpXX0pEUEN0cnh3S1UtX2d0VVZFQWY3V1VKWVNjcE9lNWNkcU93YTZtWlZOa3BoMlM1Q3gtNUxHbHNSQWUxV3kzRzhCeVZhQnAxUEkzVFdiQU1saVZ0ZjJkNkV1VjhOcnJxM2dLZU4wWkZOdW5jWlVPNDR3OVZQLVBWTFhCaTVMTEZfdy1RX3BPdUZTbF94bnRwazhjQ2V5WmZGSHh3eGU4X3otV1d0ZWc1UmkyQmliR1NTTklYaHhPYjA?oc=5",
+  "media": "boursorama.com",
+  "date": "2026-11-10T10:59:17Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5338,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.365,
+   "matieres_premieres_aromatiques": 0.5338,
+   "tendances_gout_odorat": 0.3692,
+   "mouvements_entreprises_ff": 0.4051,
+   "hors_perimetre": 0.3592
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

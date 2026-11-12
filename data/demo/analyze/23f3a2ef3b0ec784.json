@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "23f3a2ef3b0ec784",
+  "titre": "Amazon écrase le prix de cette machine à café De'Longhi ce mardi 10 novembre 2026 : les stocks fondent à vue d’œil",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNajhQbFBpWXlwcmpCQ1hQTEt2cWhyQ3Rsc3JSd2Rxa2dIck5RWTdxUW5OZ0lNVHNTUmVDS1FGdkVCOUw0TFQzMFh4cnp1SUZkQkpVTnlUa2w1dFcybTlUR1k2UEZxc1FTYnJqenlmVnNGa21rcngwMENJMTBFX0VyaWc4eXhXVnplRXBGcTZsLXZwWWEzbXNqXzczRlNvZUIwMUNmb1U3NFRYV0ZDVzhfY24xNHQtWTFyT3VFdjM3VURDcWVmYmEwdEFmdGk2aHBWbFBJSy1GMlVUVWlaQjVnU2toS0UxZw?oc=5",
+  "media": "parismatch.com",
+  "date": "2026-11-10T05:00:24Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.5819,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3604,
+   "matieres_premieres_aromatiques": 0.5819,
+   "tendances_gout_odorat": 0.3779,
+   "mouvements_entreprises_ff": 0.4411,
+   "hors_perimetre": 0.4088
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "7dd5cde2c50ea9ef",
+  "titre": "Pendant le Black Friday 2026, la Ninja Luxe Café Premier passe à 385,68 € (-11 %)",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNUl4Zlg1Sl84U0QzTUhqQzFwNVpsM0V3SlIyblhpVXlNdzIyYUdseWlockdVTmprOE9FQ1hiQzZaLTlMdlpLNjR6ejZTZEE0amxNSGFKNXo0akY3T2FJWlR0WTJmd0FUUXNiSk15RXRGRmlmV3VXT2VibGczeVdDOTZ4eXVjdEExU2tIOC1uUXhDdkpNWUdJdDAyejBQTnlrMlhaYXBqUXpZRC02TVQxVTJ5cHFnVFpWUGdld2lpQzQ1MTFLMkZnRjVPeGtuMW5vcXFzaEdDY3pKVWliWTFNZDkyd3h3WGxqM0FZ?oc=5",
+  "media": "lesnumeriques.com",
+  "date": "2026-11-07T23:02:54Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.4528,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3702,
+   "matieres_premieres_aromatiques": 0.4528,
+   "tendances_gout_odorat": 0.3257,
+   "mouvements_entreprises_ff": 0.3772,
+   "hors_perimetre": 0.4072
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

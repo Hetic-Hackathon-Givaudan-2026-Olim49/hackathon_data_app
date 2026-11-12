@@ -1,0 +1,21 @@
+# Environnements Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets et réglages locaux
+.env
+
+# Bases vectorielles (reconstruites par les scripts d'indexation)
+chroma_db/
+rag/chroma_db/
+
+# Cache réseau / LLM en mode live (le cache de démo, lui, est versionné)
+data/cache/
+
+# Divers
+.DS_Store
+.idea/
+.vscode/

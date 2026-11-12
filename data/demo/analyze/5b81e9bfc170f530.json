@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "5b81e9bfc170f530",
+  "titre": "PepsiCo prévoit de supprimer 1 000 emplois en Amérique du Nord",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMmdSYVRpNU9JYUdIVXhtT0k2bDJZckVIQUxIVFdWQ2pBZlYyQWdvYnJjUEdYc1NPU1N3aGx3MnhWbmg1RHFZUFdxUVBDZDBOSkNCX0NzNl9jN0RIQVZBb3RNbkptS0VWQm9KUFk5ZUFYR09PMVp3TG15cmRSMGRtN0dfYmRUaVE5ODFSblZoUTlHejBGQTZVRW10TC1kOEZGVTVQVGhVb285N2kyOUJQLVBVV1BlQzRWRmc3NmhqeTB4Yy0yNkpLTXNFNDFMdkhhSnJTX3pxVXF3OEF30gHcAUFVX3lxTE0yZ1JhVGk1T0lhR0hVeG1PSTZsMllyRUhBTEhUV1ZDakFmVjJBZ29icmNQR1hzU09TU3dobHcyeFZuaDVEcVlQV3FRUENkME5KQ0JfQ3M2X2M3REhBVkFvdE1uSm1LRVZCb0pQWTllQVhHT08xWndMbXlyZFIwZG03R19iZFRpUTk4MVJuVmhROUd6MEZBNlVFbXRMLWQ4RkZVNVBUaFVvbzk3aTI5QlAtUFVXUGVDNFZGZzc2aGp5MHhjLTI2SktNc0U0MUx2SGFKclNfenFVcXc4QXc?oc=5",
+  "media": "boursorama.com",
+  "date": "2026-11-09T19:46:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": true,
+  "famille": "mouvements_entreprises_ff",
+  "score": 0.5309,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4005,
+   "matieres_premieres_aromatiques": 0.3831,
+   "tendances_gout_odorat": 0.3807,
+   "mouvements_entreprises_ff": 0.5309,
+   "hors_perimetre": 0.3782
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

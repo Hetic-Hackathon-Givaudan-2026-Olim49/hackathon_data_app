@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "686d48489e230e5a",
+  "titre": "RDC: la récolte de cacao, victime collatérale de la violence des ADF dans l'est du pays",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYk8zN1p2dHU2M2UwaDNYMWJNSVR1REdraVd5YklhaVl4cDc1eER5YnI3SVBsQXNJaVo4U2xsS3hEU1pPU3ZBOTZaZUFRVzNZbmgyVU9LWTBBTUdGV3VNVm5GNlYydTd6LWtLQ0VVSl9IaDhtZUJnMnViekFRTHdydjRmTVRfRGJETmZER1I2U293NFVab3pvQmsxdU0tWGdUYlpFTlNyWVZucTFmMFoyZVpmSFdYN3pncnd2S21iTktucU1sWTdheWFRcDBLRE0?oc=5",
+  "media": "rfi.fr",
+  "date": "2026-11-08T03:58:30Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "matieres_premieres_aromatiques",
+  "score": 0.4624,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.3553,
+   "matieres_premieres_aromatiques": 0.4624,
+   "tendances_gout_odorat": 0.3753,
+   "mouvements_entreprises_ff": 0.3895,
+   "hors_perimetre": 0.3809
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}

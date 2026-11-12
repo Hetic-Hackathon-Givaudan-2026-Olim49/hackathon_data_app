@@ -1,0 +1,38 @@
+{
+ "mode": "demo",
+ "actualite": {
+  "id": "961ee73a4f93ee69",
+  "titre": "Aspartame et cancer : l'Europe juge le risque maîtrisé, les associations dénoncent une décision \"scandaleuse\"",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMV9EUXN5ZUp0TTNzWlVXYmxldVBLQjh0eFdmc3lzYXJuZGNlcE1LSDJ6cFE2RkZQYW1CdW9KTkZlNm9WUHBQZWhabDZCRThUS0FvejNnLUVJU3pzZDNzTVRScDJYUlRaSnJrOUl1NmtGeGppUDExY0FPLTJJYmNWYkhybU5OemZ1dXdlTmNYRHZuVmttN2lUQ3lfaHJwSFNXellYanJnRFdXUEJzZjlWcG9pUWo4djNaM0VXb3RuVTZFOE1jQTFOZ1JwY1drTVRBX2RCLV83SV9PT0dlLWpwNmRINlJKN0hiODV5Z3pSOEtRTE5EN2R1YQ?oc=5",
+  "media": "doctissimo.fr",
+  "date": "2026-11-09T18:55:00Z",
+  "langue": "french",
+  "pays_media": "inconnu",
+  "description": null,
+  "source_api": "googlenews"
+ },
+ "filtre": {
+  "retenue": false,
+  "famille": "reglementation_sensorielle",
+  "score": 0.4572,
+  "seuil": 0.5,
+  "scores_par_famille": {
+   "reglementation_sensorielle": 0.4572,
+   "matieres_premieres_aromatiques": 0.3899,
+   "tendances_gout_odorat": 0.3388,
+   "mouvements_entreprises_ff": 0.3857,
+   "hors_perimetre": 0.3346
+  }
+ },
+ "analyse": null,
+ "entreprises": [],
+ "fiches": [],
+ "diagnostic": {
+  "json_valides": 0,
+  "json_invalides": 0,
+  "rejets_validation": [],
+  "erreurs": [],
+  "texte_analyse": null,
+  "duree_s": null
+ }
+}
